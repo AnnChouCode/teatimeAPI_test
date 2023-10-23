@@ -74,7 +74,7 @@
   "votingDatas": [
     {
       "id":1,
-      "ID": "V001",
+      "UID": "V001",
       "restaurantName": "速食窩",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-3-logo.jpg?raw=true",
@@ -88,7 +88,7 @@
     },
     {
       "id":2,
-      "ID": "V001",
+      "UID": "V001",
       "restaurantName": "飛餐",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
@@ -102,7 +102,7 @@
     },
     {
       "id":3,
-      "ID": "V001",
+      "UID": "V001",
       "restaurantName": "起床喝飲料",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-3-logo.jpg?raw=true",
@@ -116,7 +116,7 @@
     },
     {
       "id":4,
-      "ID": "V002",
+      "UID": "V002",
       "restaurantName": "茶源 ChaSource",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-logo.jpg?raw=true",
@@ -130,7 +130,7 @@
     },
     {
       "id":5,
-      "ID": "V002",
+      "UID": "V002",
       "restaurantName": "洋行紅茶",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-2-logo.jpg?raw=true",
@@ -144,7 +144,7 @@
     },
     {
       "id":6,
-      "ID": "V002",
+      "UID": "V002",
       "restaurantName": "涎飲",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-4-logo.jpg?raw=true",
@@ -158,7 +158,7 @@
     },
     {
       "id":7,
-      "ID": "V003",
+      "UID": "V003",
       "restaurantName": "空姐 巴黎甜點",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-4-logo.jpg?raw=true",
@@ -172,7 +172,7 @@
     },
     {
       "id":8,
-      "ID": "V003",
+      "UID": "V003",
       "restaurantName": "Leisurely Café",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1-logo.jpg?raw=true",
@@ -186,7 +186,7 @@
     },
     {
       "id":9,
-      "ID": "V003",
+      "UID": "V003",
       "restaurantName": "飛餐",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
