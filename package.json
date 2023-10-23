@@ -1,0 +1,8 @@
+{   
+    "scripts": {
+        "fake-auto": "nodemon --watch fake --exec json-server ./fake/index.js"
+       },
+    "dependencies": {
+        "glob": "^10.3.10"
+    }
+}
