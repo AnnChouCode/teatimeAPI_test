@@ -3,7 +3,7 @@
     {
       "id":1,
       "UID": "G001",
-      "resturant": "茶源 ChaSource",
+      "restaurant": "茶源 ChaSource",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-logo.jpg?raw=true",
       "deadlineDateTime": "2023/12/5",
@@ -17,7 +17,7 @@
     {
       "id":2,
       "UID": "G002",
-      "resturant": "涎飲",
+      "restaurant": "涎飲",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-4-logo.jpg?raw=true",
       "deadlineDateTime": "2023/11/30",
@@ -31,7 +31,7 @@
     {
       "id":3,
       "UID": "G003",
-      "resturant": "綠意軒",
+      "restaurant": "綠意軒",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-1-logo.jpg?raw=true",
       "deadlineDateTime": "2023/12/5",
@@ -45,7 +45,7 @@
     {
       "id":4,
       "UID": "G004",
-      "resturant": "胖小吃",
+      "restaurant": "胖小吃",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-3-logo.jpg?raw=true",
       "deadlineDateTime": "2023/12/10",
@@ -59,7 +59,7 @@
     {
       "id":5,
       "UID": "G005",
-      "resturant": "糖霜繪本",
+      "restaurant": "糖霜繪本",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-3-logo.jpg?raw=true",
       "deadlineDateTime": "2023/12/12",
@@ -203,7 +203,7 @@
     {
       "id":1,
       "UID": "O001",
-      "resturant": "茶源 ChaSource",
+      "restaurant": "茶源 ChaSource",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-logo.jpg?raw=true",
       "eventDateTime": 45260,
@@ -270,7 +270,7 @@
     {
       "id":2,
       "UID": "O002",
-      "resturant": "sugar & Spice",
+      "restaurant": "sugar & Spice",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-2-logo.jpg?raw=true",
       "eventDateTime": 45270,
@@ -337,7 +337,7 @@
     {
       "id":3,
       "UID": "O003",
-      "resturant": "空姐 巴黎甜點",
+      "restaurant": "空姐 巴黎甜點",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-4-logo.jpg?raw=true",
       "eventDateTime": 45275,
@@ -348,7 +348,7 @@
     {
       "id":4,
       "UID": "O004",
-      "resturant": "Leisurely Café",
+      "restaurant": "Leisurely Café",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1-logo.jpg?raw=true",
       "eventDateTime": 45282,
@@ -359,7 +359,7 @@
     {
       "id":5,
       "UID": "O005",
-      "resturant": "飛餐",
+      "restaurant": "飛餐",
       "restaurantPhoto":
         "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
       "eventDateTime": 45291,
