@@ -1,13 +1,12 @@
 {
-  "groupingDatas" : [
+  "groupingDatas": [
     {
-      "id":1,
+      "id": 1,
       "UID": "G001",
       "restaurant": "茶源 ChaSource",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-logo.jpg?raw=true",
-      "deadlineDateTime": "2023/12/5",
-      "eventDateTime": "2023/12/5",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-logo.jpg?raw=true",
+      "deadlineDateTime": "2023/12/05 14:00",
+      "eventDateTime": "2023/12/06 14:00",
       "initiator": "Malina Chanbers",
       "invitees": "Malina Chanbers",
       "minGroupSize": 4,
@@ -15,13 +14,12 @@
       "isGroup": true
     },
     {
-      "id":2,
+      "id": 2,
       "UID": "G002",
       "restaurant": "涎飲",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-4-logo.jpg?raw=true",
-      "deadlineDateTime": "2023/11/30",
-      "eventDateTime": "2023/11/30",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-4-logo.jpg?raw=true",
+      "deadlineDateTime": "2023/11/29 15:00",
+      "eventDateTime": "2023/11/30 15:30",
       "initiator": "盧子晴",
       "invitees": "",
       "minGroupSize": 5,
@@ -29,13 +27,12 @@
       "isGroup": true
     },
     {
-      "id":3,
+      "id": 3,
       "UID": "G003",
       "restaurant": "綠意軒",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-1-logo.jpg?raw=true",
-      "deadlineDateTime": "2023/12/5",
-      "eventDateTime": "2023/12/5",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-1-logo.jpg?raw=true",
+      "deadlineDateTime": "2023/12/04 16:00",
+      "eventDateTime": "2023/12/05 14:30",
       "initiator": "陳雨潔",
       "invitees": "",
       "minGroupSize": 5,
@@ -43,13 +40,12 @@
       "isGroup": false
     },
     {
-      "id":4,
+      "id": 4,
       "UID": "G004",
       "restaurant": "胖小吃",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-3-logo.jpg?raw=true",
-      "deadlineDateTime": "2023/12/10",
-      "eventDateTime": "2023/12/12",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-3-logo.jpg?raw=true",
+      "deadlineDateTime": "2023/12/10 15:30",
+      "eventDateTime": "2023/12/12 16:00",
       "initiator": "黃靜怡",
       "invitees": "",
       "minGroupSize": 3,
@@ -57,13 +53,12 @@
       "isGroup": false
     },
     {
-      "id":5,
+      "id": 5,
       "UID": "G005",
       "restaurant": "糖霜繪本",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-3-logo.jpg?raw=true",
-      "deadlineDateTime": "2023/12/12",
-      "eventDateTime": "2023/12/12",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-3-logo.jpg?raw=true",
+      "deadlineDateTime": "2023/12/12 13:00",
+      "eventDateTime": "2023/12/13 14:30",
       "initiator": "張雨菲",
       "invitees": "",
       "minGroupSize": 8,
@@ -73,13 +68,12 @@
   ],
   "votingDatas": [
     {
-      "id":1,
+      "id": 1,
       "UID": "V001",
       "restaurantName": "速食窩",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-3-logo.jpg?raw=true",
-      "deadlineDateTime": "2023/11/30",
-      "eventDateTime": "2023/11/30",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-3-logo.jpg?raw=true",
+      "deadlineDateTime": "2023/11/27 16:00",
+      "eventDateTime": "2023/11/30 13:30",
       "initiator": "盧子晴",
       "invitees": "",
       "minGroupSize": 5,
@@ -87,13 +81,12 @@
       "isGroup": false
     },
     {
-      "id":2,
+      "id": 2,
       "UID": "V001",
       "restaurantName": "飛餐",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
-      "deadlineDateTime": "2023/11/30",
-      "eventDateTime": "2023/11/30",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
+      "deadlineDateTime": "2023/11/27 16:00",
+      "eventDateTime": "2023/11/30 13:30",
       "initiator": "盧子晴",
       "invitees": "",
       "minGroupSize": 5,
@@ -101,13 +94,12 @@
       "isGroup": false
     },
     {
-      "id":3,
+      "id": 3,
       "UID": "V001",
       "restaurantName": "起床喝飲料",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-3-logo.jpg?raw=true",
-      "deadlineDateTime": "2023/11/30",
-      "eventDateTime": "2023/11/30",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-3-logo.jpg?raw=true",
+      "deadlineDateTime": "2023/11/27 16:00",
+      "eventDateTime": "2023/11/30 13:30",
       "initiator": "盧子晴",
       "invitees": "",
       "minGroupSize": 5,
@@ -115,13 +107,12 @@
       "isGroup": false
     },
     {
-      "id":4,
+      "id": 4,
       "UID": "V002",
       "restaurantName": "茶源 ChaSource",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-logo.jpg?raw=true",
-      "deadlineDateTime": "2023/12/5",
-      "eventDateTime": "2023/12/5",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-logo.jpg?raw=true",
+      "deadlineDateTime": "2023/12/05 17:00",
+      "eventDateTime": "2023/12/08 16:00",
       "initiator": "Malina Chanbers",
       "invitees": "Malina Chanbers",
       "minGroupSize": 4,
@@ -129,13 +120,12 @@
       "isGroup": false
     },
     {
-      "id":5,
+      "id": 5,
       "UID": "V002",
       "restaurantName": "洋行紅茶",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-2-logo.jpg?raw=true",
-      "deadlineDateTime": "2023/12/5",
-      "eventDateTime": "2023/12/6",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-2-logo.jpg?raw=true",
+      "deadlineDateTime": "2023/12/05 17:00",
+      "eventDateTime": "2023/12/08 16:00",
       "initiator": "Malina Chanbers",
       "invitees": "Malina Chanbers",
       "minGroupSize": 4,
@@ -143,13 +133,12 @@
       "isGroup": false
     },
     {
-      "id":6,
+      "id": 6,
       "UID": "V002",
       "restaurantName": "涎飲",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-4-logo.jpg?raw=true",
-      "deadlineDateTime": "2023/12/5",
-      "eventDateTime": "2023/12/6",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-4-logo.jpg?raw=true",
+      "deadlineDateTime": "2023/12/05 17:00",
+      "eventDateTime": "2023/12/08 16:00",
       "initiator": "Malina Chanbers",
       "invitees": "Malina Chanbers",
       "minGroupSize": 4,
@@ -157,13 +146,12 @@
       "isGroup": true
     },
     {
-      "id":7,
+      "id": 7,
       "UID": "V003",
       "restaurantName": "空姐 巴黎甜點",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-4-logo.jpg?raw=true",
-      "deadlineDateTime": "2023/12/6",
-      "eventDateTime": "2023/12/7",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-4-logo.jpg?raw=true",
+      "deadlineDateTime": "2023/12/06 13:00",
+      "eventDateTime": "2023/12/07 15:00",
       "initiator": "李欣怡",
       "invitees": "",
       "minGroupSize": 10,
@@ -171,13 +159,12 @@
       "isGroup": false
     },
     {
-      "id":8,
+      "id": 8,
       "UID": "V003",
       "restaurantName": "Leisurely Café",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1-logo.jpg?raw=true",
-      "deadlineDateTime": "2023/12/6",
-      "eventDateTime": "2023/12/7",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1-logo.jpg?raw=true",
+      "deadlineDateTime": "2023/12/06 13:00",
+      "eventDateTime": "2023/12/07 15:00",
       "initiator": "李欣怡",
       "invitees": "鄭雅筑",
       "minGroupSize": 8,
@@ -185,13 +172,12 @@
       "isGroup": false
     },
     {
-      "id":9,
+      "id": 9,
       "UID": "V003",
       "restaurantName": "飛餐",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
-      "deadlineDateTime": "2023/12/6",
-      "eventDateTime": "2023/12/7",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
+      "deadlineDateTime": "2023/12/06 13:00",
+      "eventDateTime": "2023/12/07 15:00",
       "initiator": "李欣怡",
       "invitees": "",
       "minGroupSize": 5,
@@ -201,11 +187,10 @@
   ],
   "orderInfos": [
     {
-      "id":1,
+      "id": 1,
       "UID": "O001",
       "restaurant": "茶源 ChaSource",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-logo.jpg?raw=true",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-logo.jpg?raw=true",
       "eventDateTime": 45260,
       "initiator": "黃莉琳",
       "invitees": "",
@@ -268,11 +253,10 @@
       ]
     },
     {
-      "id":2,
+      "id": 2,
       "UID": "O002",
       "restaurant": "sugar & Spice",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-2-logo.jpg?raw=true",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-2-logo.jpg?raw=true",
       "eventDateTime": 45270,
       "initiator": "Amy Pope",
       "invitees": "",
@@ -335,33 +319,30 @@
       ]
     },
     {
-      "id":3,
+      "id": 3,
       "UID": "O003",
       "restaurant": "空姐 巴黎甜點",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-4-logo.jpg?raw=true",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-4-logo.jpg?raw=true",
       "eventDateTime": 45275,
       "initiator": "許嘉豪",
       "invitees": "許嘉豪",
       "orderDetail": []
     },
     {
-      "id":4,
+      "id": 4,
       "UID": "O004",
       "restaurant": "Leisurely Café",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1-logo.jpg?raw=true",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1-logo.jpg?raw=true",
       "eventDateTime": 45282,
       "initiator": "李欣怡",
       "invitees": "",
       "orderDetail": []
     },
     {
-      "id":5,
+      "id": 5,
       "UID": "O005",
       "restaurant": "飛餐",
-      "restaurantPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
       "eventDateTime": 45291,
       "initiator": "鄭雅筑",
       "invitees": "",
@@ -370,336 +351,290 @@
   ],
   "ratingDatas": [
     {
-      "id":1,
+      "id": 1,
       "UID": "R001",
       "reviewer": "陳瑋",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-16.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-16.jpg?raw=true",
       "starRating": 4,
       "feedbackText": "我今天的幸福都在這裡了，謝謝團主大大！",
       "reviewedRestaurant": "茶源 ChaSource",
-      "reviewDateTime": "2023/11/8"
+      "reviewDateTime": "2023/11/08"
     },
     {
-      "id":2,
+      "id": 2,
       "UID": "R002",
       "reviewer": "陳雨潔",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-14.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-14.jpg?raw=true",
       "starRating": 5,
-      "feedbackText":
-        "飲料口味都很特別，琥珀奶香有夠奶的，濃醇香就是這個意思吧。前幾天忍不住跑到現場，店裝潢的也很漂亮很文青。",
+      "feedbackText": "飲料口味都很特別，琥珀奶香有夠奶的，濃醇香就是這個意思吧。前幾天忍不住跑到現場，店裝潢的也很漂亮很文青。",
       "reviewedRestaurant": "茶源 ChaSource",
       "reviewDateTime": "2023/11/19"
     },
     {
-      "id":3,
+      "id": 3,
       "UID": "R003",
       "reviewer": "盧子晴",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-13.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-13.jpg?raw=true",
       "starRating": 5,
-      "feedbackText":
-        "大推柚香翠玉，香味清香撲鼻，茶味甘甜，入口醇郁濃厚，加上葡萄柚的酸爽，清涼退火。還有淡雅桂花香和甘潤烏龍茶味，不僅養顏美容又醇厚好喝。還不趕緊跟著我立刻訂起來！",
+      "feedbackText": "大推柚香翠玉，香味清香撲鼻，茶味甘甜，入口醇郁濃厚，加上葡萄柚的酸爽，清涼退火。還有淡雅桂花香和甘潤烏龍茶味，不僅養顏美容又醇厚好喝。還不趕緊跟著我立刻訂起來！",
       "reviewedRestaurant": "茶源 ChaSource",
       "reviewDateTime": "2023/11/19"
     },
     {
-      "id":4,
+      "id": 4,
       "UID": "R004",
       "reviewer": "黃莉琳",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-09.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-09.jpg?raw=true",
       "starRating": 5,
-      "feedbackText":
-        "喜歡喝後帶來的清新感，每次來都能享受到非常愉快的時光，謝謝店家的用心",
+      "feedbackText": "喜歡喝後帶來的清新感，每次來都能享受到非常愉快的時光，謝謝店家的用心",
       "reviewedRestaurant": "茶源 ChaSource",
       "reviewDateTime": "2023/11/30"
     },
     {
-      "id":5,
+      "id": 5,
       "UID": "R005",
       "reviewer": "Malina Chanbers",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-15.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-15.jpg?raw=true",
       "starRating": 5,
       "feedbackText": "口感普通，價格合理，裝潢雅致，是個平實的飲料店。",
       "reviewedRestaurant": "茶源 ChaSource",
-      "reviewDateTime": "2023/12/3"
+      "reviewDateTime": "2023/12/03"
     },
     {
-      "id":6,
+      "id": 6,
       "UID": "R006",
       "reviewer": "劉明峰",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-01.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-01.jpg?raw=true",
       "starRating": 4,
-      "feedbackText":
-        "品質一流，價格較高，但每一口都是享受，是個追求品味的極致飲品店。",
+      "feedbackText": "品質一流，價格較高，但每一口都是享受，是個追求品味的極致飲品店。",
       "reviewedRestaurant": "茶源 ChaSource",
-      "reviewDateTime": "2023/12/3"
+      "reviewDateTime": "2023/12/03"
     },
     {
-      "id":7,
+      "id": 7,
       "UID": "R007",
       "reviewer": "陳大添",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-11.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-11.jpg?raw=true",
       "starRating": 4,
-      "feedbackText":
-        "飲料清新可口，環境明亮舒適，價格略高但感覺很享受，是個高水準的飲品店",
+      "feedbackText": "飲料清新可口，環境明亮舒適，價格略高但感覺很享受，是個高水準的飲品店",
       "reviewedRestaurant": "茶源 ChaSource",
       "reviewDateTime": "2023/12/31"
     },
     {
-      "id":8,
+      "id": 8,
       "UID": "R008",
       "reviewer": "張三峰",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-09.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-09.jpg?raw=true",
       "starRating": 4,
-      "feedbackText":
-        "飲品創意獨特，服務熱情，價格稍高但物有所值，是個值得一試的好地方。",
+      "feedbackText": "飲品創意獨特，服務熱情，價格稍高但物有所值，是個值得一試的好地方。",
       "reviewedRestaurant": "茶源 ChaSource",
       "reviewDateTime": "2023/12/31"
     },
     {
-      "id":9,
+      "id": 9,
       "UID": "R009",
       "reviewer": "James Williams",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-08.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-08.jpg?raw=true",
       "starRating": 3,
-      "feedbackText":
-        "簡直難喝到極點，口感完全失敗，讓我非常失望。絕對不會再來第二次",
+      "feedbackText": "簡直難喝到極點，口感完全失敗，讓我非常失望。絕對不會再來第二次",
       "reviewedRestaurant": "涎飲",
-      "reviewDateTime": "2023/11/3"
+      "reviewDateTime": "2023/11/03"
     },
     {
-      "id":10,
+      "id": 10,
       "UID": "R010",
       "reviewer": "張三峰",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-09.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-09.jpg?raw=true",
       "starRating": 4,
-      "feedbackText":
-        "用料新鮮，製作精湛，一杯飲品帶來的滿足感真的難以言喻。每次喝都有家的感覺",
+      "feedbackText": "用料新鮮，製作精湛，一杯飲品帶來的滿足感真的難以言喻。每次喝都有家的感覺",
       "reviewedRestaurant": "涎飲",
-      "reviewDateTime": "2023/11/9"
+      "reviewDateTime": "2023/11/09"
     },
     {
-      "id":11,
+      "id": 11,
       "UID": "R011",
       "reviewer": "況似棋",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-10.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-10.jpg?raw=true",
       "starRating": 5,
       "feedbackText": "選擇多元，每杯飲品都是驚喜",
       "reviewedRestaurant": "涎飲",
       "reviewDateTime": "2023/11/11"
     },
     {
-      "id":12,
+      "id": 12,
       "UID": "R012",
       "reviewer": "陳雨潔",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-14.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-14.jpg?raw=true",
       "starRating": 4,
-      "feedbackText":
-        "口感中規中矩，沒有太多特別的驚喜，但也不錯喝。希望他們可以再加強口味的創新和獨特性",
+      "feedbackText": "口感中規中矩，沒有太多特別的驚喜，但也不錯喝。希望他們可以再加強口味的創新和獨特性",
       "reviewedRestaurant": "涎飲",
       "reviewDateTime": "2023/11/18"
     },
     {
-      "id":13,
+      "id": 13,
       "UID": "R013",
       "reviewer": "劉語柔",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-11.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-11.jpg?raw=true",
       "starRating": 5,
       "feedbackText": "選擇豐富多樣，總是能滿足我對美味的渴望",
       "reviewedRestaurant": "涎飲",
-      "reviewDateTime": "2023/12/4"
+      "reviewDateTime": "2023/12/04"
     },
     {
-      "id":14,
+      "id": 14,
       "UID": "R014",
       "reviewer": "陳健邦",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-06.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-06.jpg?raw=true",
       "starRating": 4,
-      "feedbackText":
-        "每一杯飲品都是精心調配的藝術品，不僅美味，也是視覺和味蕾的享受",
+      "feedbackText": "每一杯飲品都是精心調配的藝術品，不僅美味，也是視覺和味蕾的享受",
       "reviewedRestaurant": "涎飲",
       "reviewDateTime": "2023/12/26"
     },
     {
-      "id":15,
+      "id": 15,
       "UID": "R015",
       "reviewer": "陳大添",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-11.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-11.jpg?raw=true",
       "starRating": 4,
       "feedbackText": "飲品口感順滑，價格實惠，每次造訪都能感受到滿滿的用心",
       "reviewedRestaurant": "綠意軒",
       "reviewDateTime": "2023/11/27"
     },
     {
-      "id":16,
+      "id": 16,
       "UID": "R016",
       "reviewer": "張三峰",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-09.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-09.jpg?raw=true",
       "starRating": 5,
       "feedbackText": "菜單多樣，選擇豐富，無論口味偏好如何，都能找到心水的飲品",
       "reviewedRestaurant": "綠意軒",
       "reviewDateTime": "2023/11/28"
     },
     {
-      "id":17,
+      "id": 17,
       "UID": "R017",
       "reviewer": "況似棋",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-10.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-10.jpg?raw=true",
       "starRating": 4,
-      "feedbackText":
-        "用料新鮮，製作精湛，一杯飲品帶來的滿足感真的難以言喻。每次喝都有家的感覺",
+      "feedbackText": "用料新鮮，製作精湛，一杯飲品帶來的滿足感真的難以言喻。每次喝都有家的感覺",
       "reviewedRestaurant": "綠意軒",
       "reviewDateTime": "2023/11/30"
     },
     {
-      "id":18,
+      "id": 18,
       "UID": "R018",
       "reviewer": "陳雨潔",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-14.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-14.jpg?raw=true",
       "starRating": 5,
       "feedbackText": "選擇多元，每杯飲品都是驚喜",
       "reviewedRestaurant": "綠意軒",
-      "reviewDateTime": "2023/12/5"
+      "reviewDateTime": "2023/12/05"
     },
     {
-      "id":19,
+      "id": 19,
       "UID": "R019",
       "reviewer": "劉語柔",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-11.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-11.jpg?raw=true",
       "starRating": 5,
-      "feedbackText":
-        "口感中規中矩，沒有太多特別的驚喜，但也不錯喝。希望他們可以再加強口味的創新和獨特性",
+      "feedbackText": "口感中規中矩，沒有太多特別的驚喜，但也不錯喝。希望他們可以再加強口味的創新和獨特性",
       "reviewedRestaurant": "綠意軒",
-      "reviewDateTime": "2023/12/5"
+      "reviewDateTime": "2023/12/05"
     },
     {
-      "id":20,
+      "id": 20,
       "UID": "R020",
       "reviewer": "陳健邦",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-06.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-06.jpg?raw=true",
       "starRating": 5,
       "feedbackText": "選擇豐富多樣，總是能滿足我對美味的渴望",
       "reviewedRestaurant": "糖霜繪本",
-      "reviewDateTime": "2023/11/6"
+      "reviewDateTime": "2023/11/06"
     },
     {
-      "id":21,
+      "id": 21,
       "UID": "R021",
       "reviewer": "梅嘉欣",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-07.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-07.jpg?raw=true",
       "starRating": 4,
-      "feedbackText":
-        "每一杯飲品都是精心調配的藝術品，不僅美味，也是視覺和味蕾的享受",
+      "feedbackText": "每一杯飲品都是精心調配的藝術品，不僅美味，也是視覺和味蕾的享受",
       "reviewedRestaurant": "糖霜繪本",
       "reviewDateTime": "2023/11/16"
     },
     {
-      "id":22,
+      "id": 22,
       "UID": "R022",
       "reviewer": "Olivia Johnson",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-05.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-05.jpg?raw=true",
       "starRating": 5,
-      "feedbackText":
-        "每一個選項都像是一段甜甜的戀愛故事，讓你想要跟每一個甜點交往！",
+      "feedbackText": "每一個選項都像是一段甜甜的戀愛故事，讓你想要跟每一個甜點交往！",
       "reviewedRestaurant": "糖霜繪本",
       "reviewDateTime": "2023/11/26"
     },
     {
-      "id":23,
+      "id": 23,
       "UID": "R023",
       "reviewer": "劉佩珊",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-01.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-01.jpg?raw=true",
       "starRating": 4,
-      "feedbackText":
-        "這家甜點店的甜點總是讓我甜在心裡。無論是蛋糕還是冰淇淋，每一種都是甜蜜的享受，是我舒緩壓力的好地方。",
+      "feedbackText": "這家甜點店的甜點總是讓我甜在心裡。無論是蛋糕還是冰淇淋，每一種都是甜蜜的享受，是我舒緩壓力的好地方。",
       "reviewedRestaurant": "糖霜繪本",
-      "reviewDateTime": "2023/12/6"
+      "reviewDateTime": "2023/12/06"
     },
     {
-      "id":24,
+      "id": 24,
       "UID": "R024",
       "reviewer": "鍾明翰",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-02.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-02.jpg?raw=true",
       "starRating": 3,
       "feedbackText": "還可以啦，果腹一下XD",
       "reviewedRestaurant": "糖霜繪本",
       "reviewDateTime": "2023/12/26"
     },
     {
-      "id":25,
+      "id": 25,
       "UID": "R025",
       "reviewer": "Mia Lin",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-03.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-03.jpg?raw=true",
       "starRating": 5,
-      "feedbackText":
-        "他們的咖啡就像是對人生的懷疑：你不確定它是深咖啡還是淺咖啡，但你知道它一定會帶給你能量，至少是因為咖啡因。",
+      "feedbackText": "他們的咖啡就像是對人生的懷疑：你不確定它是深咖啡還是淺咖啡，但你知道它一定會帶給你能量，至少是因為咖啡因。",
       "reviewedRestaurant": "Leisurely Café",
       "reviewDateTime": "2023/10/10"
     },
     {
-      "id":26,
+      "id": 26,
       "UID": "R026",
       "reviewer": "周信宏",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-03.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-03.jpg?raw=true",
       "starRating": 5,
-      "feedbackText":
-        "咖啡的品質總是保持著一流水準。無論是拿鐵還是美式，每一杯都讓我感受到滿足的味蕾之旅。",
+      "feedbackText": "咖啡的品質總是保持著一流水準。無論是拿鐵還是美式，每一杯都讓我感受到滿足的味蕾之旅。",
       "reviewedRestaurant": "Leisurely Café",
       "reviewDateTime": "2023/11/11"
     },
     {
-      "id":27,
+      "id": 27,
       "UID": "R027",
       "reviewer": "溫雅琪",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-08.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-08.jpg?raw=true",
       "starRating": 5,
       "feedbackText": "咖啡的質量始終如一，無論何時來都能品味到美味",
       "reviewedRestaurant": "Leisurely Café",
       "reviewDateTime": "2023/12/12"
     },
     {
-      "id":28,
+      "id": 28,
       "UID": "R028",
       "reviewer": "趙文杰",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-02.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-02.jpg?raw=true",
       "starRating": 4,
       "feedbackText": "首推黑糖美式",
       "reviewedRestaurant": "Leisurely Café",
       "reviewDateTime": "2023/12/13"
     },
     {
-      "id":29,
+      "id": 29,
       "UID": "R029",
       "reviewer": "Daniel Brown",
-      "reviewerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-10.jpg?raw=true",
+      "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-10.jpg?raw=true",
       "starRating": 1,
       "feedbackText": "這種品質也能開店，我也能當老闆了",
       "reviewedRestaurant": "Leisurely Café",
@@ -708,17 +643,14 @@
   ],
   "restaurantInfos": [
     {
-      "id":1,
+      "id": 1,
       "UID": "B001",
       "category": "飲料",
       "storeName": "茶源 ChaSource",
       "stars": 5,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1.jpg?raw=true",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1.jpg?raw=true",
       "summary": "專注於高品質的茶葉，提供多款精選茶飲和冷泡茶",
       "products": [
         {
@@ -791,8 +723,7 @@
           "價格": 60,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "經典的玫瑰花茶，散發迷人的花香和溫和的茶味，帶給您身心的寧靜。"
+          "商品描述": "經典的玫瑰花茶，散發迷人的花香和溫和的茶味，帶給您身心的寧靜。"
         },
         {
           "UID": "B001-010",
@@ -824,8 +755,7 @@
           "價格": 60,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "經典的玫瑰花茶，散發迷人的花香和溫和的茶味，帶給您身心的寧靜。"
+          "商品描述": "經典的玫瑰花茶，散發迷人的花香和溫和的茶味，帶給您身心的寧靜。"
         },
         {
           "UID": "B001-014",
@@ -886,19 +816,15 @@
       ]
     },
     {
-      "id":2,
+      "id": 2,
       "UID": "B002",
       "category": "飲料",
       "storeName": "洋行紅茶",
       "stars": 4,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-2-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverge-2-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-2.jpg?raw=true",
-      "summary":
-        "在這裡，您將品味到別樣的酸甜饗宴，豐富多元的選擇將滿足您對於獨特口味的追求",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-2-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverge-2-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-2.jpg?raw=true",
+      "summary": "在這裡，您將品味到別樣的酸甜饗宴，豐富多元的選擇將滿足您對於獨特口味的追求",
       "products": [
         {
           "UID": "B002-001",
@@ -946,8 +872,7 @@
           "價格": 40,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "紅茶中混合玫瑰花瓣，散發著浪漫的花香和茶的淡雅，如愛情般美好。"
+          "商品描述": "紅茶中混合玫瑰花瓣，散發著浪漫的花香和茶的淡雅，如愛情般美好。"
         },
         {
           "UID": "B002-007",
@@ -1027,8 +952,7 @@
           "價格": 40,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "紅茶中混合玫瑰花瓣，散發著浪漫的花香和茶的淡雅，如愛情般美好。"
+          "商品描述": "紅茶中混合玫瑰花瓣，散發著浪漫的花香和茶的淡雅，如愛情般美好。"
         },
         {
           "UID": "B002-017",
@@ -1065,19 +989,15 @@
       ]
     },
     {
-      "id":3,
+      "id": 3,
       "UID": "B003",
       "category": "飲料",
       "storeName": "起床喝飲料",
       "stars": 5,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-3-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverge-3-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-3.jpg?raw=true",
-      "summary":
-        "以創意與熱情，我們致力於為您帶來一份清新活力，每一口都是對於生活最美好的呼應",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-3-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverge-3-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-3.jpg?raw=true",
+      "summary": "以創意與熱情，我們致力於為您帶來一份清新活力，每一口都是對於生活最美好的呼應",
       "products": [
         {
           "UID": "B003-001",
@@ -1149,8 +1069,7 @@
           "價格": 55,
           "冷": true,
           "熱": true,
-          "商品描述":
-            "台灣特色的珍珠奶茶，綿密的奶茶搭配彈牙的珍珠，帶來口感的享受。"
+          "商品描述": "台灣特色的珍珠奶茶，綿密的奶茶搭配彈牙的珍珠，帶來口感的享受。"
         },
         {
           "UID": "B003-010",
@@ -1243,19 +1162,15 @@
       ]
     },
     {
-      "id":4,
+      "id": 4,
       "UID": "B004",
       "category": "飲料",
       "storeName": "涎飲",
       "stars": 5,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-4-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverge-4-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-4.jpg?raw=true",
-      "summary":
-        "您將享受到酸酸甜甜的愉悅滋味，綻放您忙碌日常的一抹綠意，讓您隨時都能沉浸在愉快的味覺饗宴中。",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-4-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverge-4-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-4.jpg?raw=true",
+      "summary": "您將享受到酸酸甜甜的愉悅滋味，綻放您忙碌日常的一抹綠意，讓您隨時都能沉浸在愉快的味覺饗宴中。",
       "products": [
         {
           "UID": "B004-001",
@@ -1420,19 +1335,15 @@
       ]
     },
     {
-      "id":5,
+      "id": 5,
       "UID": "F001",
       "category": "速食",
       "storeName": "KMS Ham",
       "stars": 4,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-1-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-1-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-1.jpg?raw=true",
-      "summary":
-        "無論是外帶還是內用，我們的速食店提供迅速的服務，讓您隨時都能享受到快速美味的美食享受",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-1-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-1-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-1.jpg?raw=true",
+      "summary": "無論是外帶還是內用，我們的速食店提供迅速的服務，讓您隨時都能享受到快速美味的美食享受",
       "products": [
         {
           "UID": "F001-001",
@@ -1440,8 +1351,7 @@
           "價格": 210,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "腿排手工豬排起司 雙層堡 將手工豬排夾入兩片起司之間，口感鮮嫩多汁。"
+          "商品描述": "腿排手工豬排起司 雙層堡 將手工豬排夾入兩片起司之間，口感鮮嫩多汁。"
         },
         {
           "UID": "F001-002",
@@ -1449,8 +1359,7 @@
           "價格": 240,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "起司瀑布採用兩層厚實的牛肉餅，夾入多種起司和特製醬料。這款漢堡豐富，給您帶來幾種牛肉和起司的雙重享受。"
+          "商品描述": "起司瀑布採用兩層厚實的牛肉餅，夾入多種起司和特製醬料。這款漢堡豐富，給您帶來幾種牛肉和起司的雙重享受。"
         },
         {
           "UID": "F001-003",
@@ -1458,8 +1367,7 @@
           "價格": 150,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "特製鬼椒培根熱狗堡將香脆的培根和特製鬼椒醬搭配在熱狗中。口感辛辣和鹹香的完美結合，給您帶來獨特的味覺享受。"
+          "商品描述": "特製鬼椒培根熱狗堡將香脆的培根和特製鬼椒醬搭配在熱狗中。口感辛辣和鹹香的完美結合，給您帶來獨特的味覺享受。"
         },
         {
           "UID": "F001-004",
@@ -1467,8 +1375,7 @@
           "價格": 180,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "龍蝦沙拉帕尼尼將鮮美的龍蝦沙拉和烤麵包夾在一起。這款帕尼尼食材豐富，讓你盡興享用龍蝦沙拉的鮮美和烤麵包的香脆。"
+          "商品描述": "龍蝦沙拉帕尼尼將鮮美的龍蝦沙拉和烤麵包夾在一起。這款帕尼尼食材豐富，讓你盡興享用龍蝦沙拉的鮮美和烤麵包的香脆。"
         },
         {
           "UID": "F001-005",
@@ -1476,8 +1383,7 @@
           "價格": 230,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "極端雙層起司 雙層超厚牛肉 漢堡採用超厚的牛肉餅，搭配多層起司和特製醬料。這款漢堡內容豐富，給您帶來東南亞的牛肉和起司的雙重享受。"
+          "商品描述": "極端雙層起司 雙層超厚牛肉 漢堡採用超厚的牛肉餅，搭配多層起司和特製醬料。這款漢堡內容豐富，給您帶來東南亞的牛肉和起司的雙重享受。"
         },
         {
           "UID": "F001-006",
@@ -1485,8 +1391,7 @@
           "價格": 200,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "厚切裡肌帕尼尼以厚切的你取出的里和多種配料夾在烤麵包中。這張帕尼尼口感豐富，讓盡享里和烤麵包的美味組合。"
+          "商品描述": "厚切裡肌帕尼尼以厚切的你取出的里和多種配料夾在烤麵包中。這張帕尼尼口感豐富，讓盡享里和烤麵包的美味組合。"
         },
         {
           "UID": "F001-007",
@@ -1494,8 +1399,7 @@
           "價格": 250,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "豪華海陸浮誇堡 雙層鱈魚採用兩層鱈魚餅，搭配海鮮和肉類的豐富食材豐富多樣，讓您品嚐到海魚和肉類的美味"
+          "商品描述": "豪華海陸浮誇堡 雙層鱈魚採用兩層鱈魚餅，搭配海鮮和肉類的豐富食材豐富多樣，讓您品嚐到海魚和肉類的美味"
         },
         {
           "UID": "F001-008",
@@ -1503,8 +1407,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "德腸炒蛋以德式香腸和炒蛋為主料，味道香脆多汁。這道早餐選項讓您在一天開始時享受豐盛的德腸風味。"
+          "商品描述": "德腸炒蛋以德式香腸和炒蛋為主料，味道香脆多汁。這道早餐選項讓您在一天開始時享受豐盛的德腸風味。"
         },
         {
           "UID": "F001-009",
@@ -1512,8 +1415,7 @@
           "價格": 100,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "大份洋蔥圈採用新鮮的洋蔥片，油炸至金黃酥脆。口感脆嫩，給您帶來洋蔥的香味和脆口感爽滑。"
+          "商品描述": "大份洋蔥圈採用新鮮的洋蔥片，油炸至金黃酥脆。口感脆嫩，給您帶來洋蔥的香味和脆口感爽滑。"
         },
         {
           "UID": "F001-010",
@@ -1529,8 +1431,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "德腸炒蛋以德式香腸和炒蛋為主料，味道香脆多汁。這道早餐選項讓您在一天開始時享受豐盛的德腸風味。"
+          "商品描述": "德腸炒蛋以德式香腸和炒蛋為主料，味道香脆多汁。這道早餐選項讓您在一天開始時享受豐盛的德腸風味。"
         },
         {
           "UID": "F001-012",
@@ -1538,8 +1439,7 @@
           "價格": 100,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "大份洋蔥圈採用新鮮的洋蔥片，油炸至金黃酥脆。口感脆嫩，給您帶來洋蔥的香味和脆口感爽滑。"
+          "商品描述": "大份洋蔥圈採用新鮮的洋蔥片，油炸至金黃酥脆。口感脆嫩，給您帶來洋蔥的香味和脆口感爽滑。"
         },
         {
           "UID": "F001-013",
@@ -1547,8 +1447,7 @@
           "價格": 200,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "厚切裡肌帕尼尼以厚切的你取出的里和多種配料夾在烤麵包中。這張帕尼尼口感豐富，讓盡享里和烤麵包的美味組合。"
+          "商品描述": "厚切裡肌帕尼尼以厚切的你取出的里和多種配料夾在烤麵包中。這張帕尼尼口感豐富，讓盡享里和烤麵包的美味組合。"
         },
         {
           "UID": "F001-014",
@@ -1556,8 +1455,7 @@
           "價格": 250,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "豪華海陸浮誇堡 雙層鱈魚採用兩層鱈魚餅，搭配海鮮和肉類的豐富食材豐富多樣，讓您品嚐到海魚和肉類的美味"
+          "商品描述": "豪華海陸浮誇堡 雙層鱈魚採用兩層鱈魚餅，搭配海鮮和肉類的豐富食材豐富多樣，讓您品嚐到海魚和肉類的美味"
         },
         {
           "UID": "F001-015",
@@ -1565,8 +1463,7 @@
           "價格": 180,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "龍蝦沙拉帕尼尼將鮮美的龍蝦沙拉和烤麵包夾在一起。這款帕尼尼食材豐富，讓你盡興享用龍蝦沙拉的鮮美和烤麵包的香脆。"
+          "商品描述": "龍蝦沙拉帕尼尼將鮮美的龍蝦沙拉和烤麵包夾在一起。這款帕尼尼食材豐富，讓你盡興享用龍蝦沙拉的鮮美和烤麵包的香脆。"
         },
         {
           "UID": "F001-016",
@@ -1574,8 +1471,7 @@
           "價格": 230,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "極端雙層起司 雙層超厚牛肉 漢堡採用超厚的牛肉餅，搭配多層起司和特製醬料。這款漢堡內容豐富，給您帶來東南亞的牛肉和起司的雙重享受。"
+          "商品描述": "極端雙層起司 雙層超厚牛肉 漢堡採用超厚的牛肉餅，搭配多層起司和特製醬料。這款漢堡內容豐富，給您帶來東南亞的牛肉和起司的雙重享受。"
         },
         {
           "UID": "F001-017",
@@ -1583,8 +1479,7 @@
           "價格": 210,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "腿排手工豬排起司 雙層堡 將手工豬排夾入兩片起司之間，口感鮮嫩多汁。"
+          "商品描述": "腿排手工豬排起司 雙層堡 將手工豬排夾入兩片起司之間，口感鮮嫩多汁。"
         },
         {
           "UID": "F001-018",
@@ -1592,8 +1487,7 @@
           "價格": 240,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "起司瀑布採用兩層厚實的牛肉餅，夾入多種起司和特製醬料。這款漢堡豐富，給您帶來幾種牛肉和起司的雙重享受。"
+          "商品描述": "起司瀑布採用兩層厚實的牛肉餅，夾入多種起司和特製醬料。這款漢堡豐富，給您帶來幾種牛肉和起司的雙重享受。"
         },
         {
           "UID": "F001-019",
@@ -1601,8 +1495,7 @@
           "價格": 150,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "特製鬼椒培根熱狗堡將香脆的培根和特製鬼椒醬搭配在熱狗中。口感辛辣和鹹香的完美結合，給您帶來獨特的味覺享受。"
+          "商品描述": "特製鬼椒培根熱狗堡將香脆的培根和特製鬼椒醬搭配在熱狗中。口感辛辣和鹹香的完美結合，給您帶來獨特的味覺享受。"
         },
         {
           "UID": "F001-020",
@@ -1615,19 +1508,15 @@
       ]
     },
     {
-      "id":6,
+      "id": 6,
       "UID": "F002",
       "category": "速食",
       "storeName": "Speeeeed",
       "stars": 4,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-2-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-2-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-2.jpg?raw=true",
-      "summary":
-        "在我們的速食店，您將品嚐到優質食材結合創意烹飪的美味佳餚，為您的味蕾帶來愉悅的驚喜。",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-2-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-2-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-2.jpg?raw=true",
+      "summary": "在我們的速食店，您將品嚐到優質食材結合創意烹飪的美味佳餚，為您的味蕾帶來愉悅的驚喜。",
       "products": [
         {
           "UID": "F002-001",
@@ -1635,8 +1524,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "香雞蛋吐司是一道經典的早餐選擇，將香煎雞肉和炒蛋夾在鬆軟的吐司中。這款美味的早餐讓您在其中天開始時充滿能量。"
+          "商品描述": "香雞蛋吐司是一道經典的早餐選擇，將香煎雞肉和炒蛋夾在鬆軟的吐司中。這款美味的早餐讓您在其中天開始時充滿能量。"
         },
         {
           "UID": "F002-002",
@@ -1644,8 +1532,7 @@
           "價格": 180,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "花生培根安格斯牛肉堡 將安格斯牛肉餅、香脆培根和花生醬搭配在一起。 這漢堡味道豐富，帶來牛肉和花生的獨特風味。"
+          "商品描述": "花生培根安格斯牛肉堡 將安格斯牛肉餅、香脆培根和花生醬搭配在一起。 這漢堡味道豐富，帶來牛肉和花生的獨特風味。"
         },
         {
           "UID": "F002-003",
@@ -1653,8 +1540,7 @@
           "價格": 200,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "厚切裡肌帕尼尼以厚切的取出里和多種配料夾在烤麵包中。這張帕尼尼口感豐富，讓盡享里和烤麵包的美味組合。"
+          "商品描述": "厚切裡肌帕尼尼以厚切的取出里和多種配料夾在烤麵包中。這張帕尼尼口感豐富，讓盡享里和烤麵包的美味組合。"
         },
         {
           "UID": "F002-004",
@@ -1662,8 +1548,7 @@
           "價格": 220,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "鬼椒瀑布起司超厚牛肉堡採用超厚的牛肉餅，配以特製的鬼椒醬和豐富的牛肉餅起司。這款漢堡的味道，給您帶來辣味味和起司的雙重。"
+          "商品描述": "鬼椒瀑布起司超厚牛肉堡採用超厚的牛肉餅，配以特製的鬼椒醬和豐富的牛肉餅起司。這款漢堡的味道，給您帶來辣味味和起司的雙重。"
         },
         {
           "UID": "F002-005",
@@ -1671,8 +1556,7 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "這款鬼椒雞柳條採用嫩滑的雞肉柳條，搭配特製的鬼椒調味汁，給您帶來辛辣與嫩滑的完美結合。"
+          "商品描述": "這款鬼椒雞柳條採用嫩滑的雞肉柳條，搭配特製的鬼椒調味汁，給您帶來辛辣與嫩滑的完美結合。"
         },
         {
           "UID": "F002-006",
@@ -1680,8 +1564,7 @@
           "價格": 150,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "香雞龍蝦沙拉漢堡將煎香雞肉和新鮮龍蝦沙拉放在酥脆的漢堡麵包中。漢堡味道豐富，讓您同時享受到雞肉和龍蝦沙拉的美味。"
+          "商品描述": "香雞龍蝦沙拉漢堡將煎香雞肉和新鮮龍蝦沙拉放在酥脆的漢堡麵包中。漢堡味道豐富，讓您同時享受到雞肉和龍蝦沙拉的美味。"
         },
         {
           "UID": "F002-007",
@@ -1689,8 +1572,7 @@
           "價格": 250,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "起司瀑布採用兩層厚實的牛肉餅，夾入多種起司和特製醬料。這款漢堡豐富，給您帶來幾種牛肉和起司的雙重享受。"
+          "商品描述": "起司瀑布採用兩層厚實的牛肉餅，夾入多種起司和特製醬料。這款漢堡豐富，給您帶來幾種牛肉和起司的雙重享受。"
         },
         {
           "UID": "F002-008",
@@ -1698,8 +1580,7 @@
           "價格": 130,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "煙熏總匯蛋漢堡以煙熏口味的肉類和炒蛋為主料，搭配特製醬料和新鮮蔬菜。 這是漢堡味道豐富，帶來煙熏和蛋液的美味。"
+          "商品描述": "煙熏總匯蛋漢堡以煙熏口味的肉類和炒蛋為主料，搭配特製醬料和新鮮蔬菜。 這是漢堡味道豐富，帶來煙熏和蛋液的美味。"
         },
         {
           "UID": "F002-009",
@@ -1723,8 +1604,7 @@
           "價格": 130,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "煙熏總匯蛋漢堡以煙熏口味的肉類和炒蛋為主料，搭配特製醬料和新鮮蔬菜。 這是漢堡味道豐富，帶來煙熏和蛋液的美味。"
+          "商品描述": "煙熏總匯蛋漢堡以煙熏口味的肉類和炒蛋為主料，搭配特製醬料和新鮮蔬菜。 這是漢堡味道豐富，帶來煙熏和蛋液的美味。"
         },
         {
           "UID": "F002-012",
@@ -1740,8 +1620,7 @@
           "價格": 150,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "香雞龍蝦沙拉漢堡將煎香雞肉和新鮮龍蝦沙拉放在酥脆的漢堡麵包中。漢堡味道豐富，讓您同時享受到雞肉和龍蝦沙拉的美味。"
+          "商品描述": "香雞龍蝦沙拉漢堡將煎香雞肉和新鮮龍蝦沙拉放在酥脆的漢堡麵包中。漢堡味道豐富，讓您同時享受到雞肉和龍蝦沙拉的美味。"
         },
         {
           "UID": "F002-014",
@@ -1749,8 +1628,7 @@
           "價格": 250,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "起司瀑布採用兩層厚實的牛肉餅，夾入多種起司和特製醬料。這款漢堡豐富，給您帶來幾種牛肉和起司的雙重享受。"
+          "商品描述": "起司瀑布採用兩層厚實的牛肉餅，夾入多種起司和特製醬料。這款漢堡豐富，給您帶來幾種牛肉和起司的雙重享受。"
         },
         {
           "UID": "F002-015",
@@ -1758,8 +1636,7 @@
           "價格": 220,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "鬼椒瀑布起司超厚牛肉堡採用超厚的牛肉餅，配以特製的鬼椒醬和豐富的牛肉餅起司。這款漢堡的味道，給您帶來辣味味和起司的雙重。"
+          "商品描述": "鬼椒瀑布起司超厚牛肉堡採用超厚的牛肉餅，配以特製的鬼椒醬和豐富的牛肉餅起司。這款漢堡的味道，給您帶來辣味味和起司的雙重。"
         },
         {
           "UID": "F002-016",
@@ -1767,8 +1644,7 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "這款鬼椒雞柳條採用嫩滑的雞肉柳條，搭配特製的鬼椒調味汁，給您帶來辛辣與嫩滑的完美結合。"
+          "商品描述": "這款鬼椒雞柳條採用嫩滑的雞肉柳條，搭配特製的鬼椒調味汁，給您帶來辛辣與嫩滑的完美結合。"
         },
         {
           "UID": "F002-017",
@@ -1776,8 +1652,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "香雞蛋吐司是一道經典的早餐選擇，將香煎雞肉和炒蛋夾在鬆軟的吐司中。這款美味的早餐讓您在其中天開始時充滿能量。"
+          "商品描述": "香雞蛋吐司是一道經典的早餐選擇，將香煎雞肉和炒蛋夾在鬆軟的吐司中。這款美味的早餐讓您在其中天開始時充滿能量。"
         },
         {
           "UID": "F002-018",
@@ -1785,8 +1660,7 @@
           "價格": 180,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "花生培根安格斯牛肉堡 將安格斯牛肉餅、香脆培根和花生醬搭配在一起。 這漢堡味道豐富，帶來牛肉和花生的獨特風味。"
+          "商品描述": "花生培根安格斯牛肉堡 將安格斯牛肉餅、香脆培根和花生醬搭配在一起。 這漢堡味道豐富，帶來牛肉和花生的獨特風味。"
         },
         {
           "UID": "F002-019",
@@ -1794,8 +1668,7 @@
           "價格": 200,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "厚切裡肌帕尼尼以厚切的取出里和多種配料夾在烤麵包中。這張帕尼尼口感豐富，讓盡享里和烤麵包的美味組合。"
+          "商品描述": "厚切裡肌帕尼尼以厚切的取出里和多種配料夾在烤麵包中。這張帕尼尼口感豐富，讓盡享里和烤麵包的美味組合。"
         },
         {
           "UID": "F002-020",
@@ -1808,19 +1681,15 @@
       ]
     },
     {
-      "id":7,
+      "id": 7,
       "UID": "F003",
       "category": "速食",
       "storeName": "速食窩",
       "stars": 4,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-3-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-3-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-3.jpg?raw=true",
-      "summary":
-        "我們提供多樣化的速食選項，從經典漢堡到口感豐富的薯條，讓您在匆忙時刻也能享受美味滿足",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-3-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-3-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-3.jpg?raw=true",
+      "summary": "我們提供多樣化的速食選項，從經典漢堡到口感豐富的薯條，讓您在匆忙時刻也能享受美味滿足",
       "products": [
         {
           "UID": "F003-001",
@@ -1828,8 +1697,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "厚切裡肌蛋皇后堡將嫩滑的厚切里切片和鮮嫩的煎蛋放在口感酥脆的漢堡麵包中。款漢堡豐富，讓您享受到裡取出蛋液的美味組合。"
+          "商品描述": "厚切裡肌蛋皇后堡將嫩滑的厚切里切片和鮮嫩的煎蛋放在口感酥脆的漢堡麵包中。款漢堡豐富，讓您享受到裡取出蛋液的美味組合。"
         },
         {
           "UID": "F003-002",
@@ -1837,8 +1705,7 @@
           "價格": 200,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "BBQ重磅雙牛堡套餐包含兩層牛肉餅和少量的燒烤醬料，搭配您選擇的配菜和飲料。此漢堡套餐內容，給您帶來滿足感美味的體驗。"
+          "商品描述": "BBQ重磅雙牛堡套餐包含兩層牛肉餅和少量的燒烤醬料，搭配您選擇的配菜和飲料。此漢堡套餐內容，給您帶來滿足感美味的體驗。"
         },
         {
           "UID": "F003-003",
@@ -1846,8 +1713,7 @@
           "價格": 150,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "墨西哥辣肉醬巨無霸熱狗堡將辣味肉醬和巨無霸熱狗結合在一起，給您帶來墨西哥風味的獨特美食。"
+          "商品描述": "墨西哥辣肉醬巨無霸熱狗堡將辣味肉醬和巨無霸熱狗結合在一起，給您帶來墨西哥風味的獨特美食。"
         },
         {
           "UID": "F003-004",
@@ -1855,8 +1721,7 @@
           "價格": 180,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "滑板牛肉漢堡以滑板牛肉和香濃花生醬為主料，搭配特製醬料和新鮮蔬菜。這漢堡味道豐富，為您帶來了牛肉和花生的獨特風味。"
+          "商品描述": "滑板牛肉漢堡以滑板牛肉和香濃花生醬為主料，搭配特製醬料和新鮮蔬菜。這漢堡味道豐富，為您帶來了牛肉和花生的獨特風味。"
         },
         {
           "UID": "F003-005",
@@ -1864,8 +1729,7 @@
           "價格": 100,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "厚切裡肌米堡以厚切的里截取片主要料，夾入鬆軟的米飯和特製醬料。這漢堡豐富的食材，讓您消耗到里和米飯的美味組合。"
+          "商品描述": "厚切裡肌米堡以厚切的里截取片主要料，夾入鬆軟的米飯和特製醬料。這漢堡豐富的食材，讓您消耗到里和米飯的美味組合。"
         },
         {
           "UID": "F003-006",
@@ -1873,8 +1737,7 @@
           "價格": 250,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "豪華海陸浮誇堡 雙層鱈魚包含兩層鮮嫩的鱈魚餅和多種特色配料。漢堡食物豐富，讓您購買到海鮮和其他配料的完美搭配。"
+          "商品描述": "豪華海陸浮誇堡 雙層鱈魚包含兩層鮮嫩的鱈魚餅和多種特色配料。漢堡食物豐富，讓您購買到海鮮和其他配料的完美搭配。"
         },
         {
           "UID": "F003-007",
@@ -1882,8 +1745,7 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "肉蛋吐司是一道經典的早餐選擇，將香煎肉片和煎蛋夾在鬆軟的吐司中。 這款美味的早餐讓你一天開始時充滿能量。"
+          "商品描述": "肉蛋吐司是一道經典的早餐選擇，將香煎肉片和煎蛋夾在鬆軟的吐司中。 這款美味的早餐讓你一天開始時充滿能量。"
         },
         {
           "UID": "F003-008",
@@ -1891,8 +1753,7 @@
           "價格": 220,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "煙熏總匯蛋漢堡以煙熏口味的肉類和雞蛋為主料，搭配特製醬料和新鮮蔬菜。 這是漢堡口味豐富，帶來煙熏和蛋液的美味。"
+          "商品描述": "煙熏總匯蛋漢堡以煙熏口味的肉類和雞蛋為主料，搭配特製醬料和新鮮蔬菜。 這是漢堡口味豐富，帶來煙熏和蛋液的美味。"
         },
         {
           "UID": "F003-009",
@@ -1900,8 +1761,7 @@
           "價格": 190,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "龍蝦沙拉帕尼尼將鮮美的龍蝦沙拉和烤麵包夾放在一起。這款帕尼尼食材豐富，讓你盡興享用龍蝦沙拉的鮮美和烤麵包的香脆。"
+          "商品描述": "龍蝦沙拉帕尼尼將鮮美的龍蝦沙拉和烤麵包夾放在一起。這款帕尼尼食材豐富，讓你盡興享用龍蝦沙拉的鮮美和烤麵包的香脆。"
         },
         {
           "UID": "F003-010",
@@ -1909,8 +1769,7 @@
           "價格": 130,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "辣味二節翅採用新鮮的雞翅，搭配辣味醬料烹製而成。合喜歡辛辣食物的人。"
+          "商品描述": "辣味二節翅採用新鮮的雞翅，搭配辣味醬料烹製而成。合喜歡辛辣食物的人。"
         },
         {
           "UID": "F003-011",
@@ -1918,8 +1777,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "厚切裡肌蛋皇后堡將嫩滑的厚切里切片和鮮嫩的煎蛋放在口感酥脆的漢堡麵包中。款漢堡豐富，讓您享受到裡取出蛋液的美味組合。"
+          "商品描述": "厚切裡肌蛋皇后堡將嫩滑的厚切里切片和鮮嫩的煎蛋放在口感酥脆的漢堡麵包中。款漢堡豐富，讓您享受到裡取出蛋液的美味組合。"
         },
         {
           "UID": "F003-012",
@@ -1927,8 +1785,7 @@
           "價格": 200,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "BBQ重磅雙牛堡套餐包含兩層牛肉餅和少量的燒烤醬料，搭配您選擇的配菜和飲料。此漢堡套餐內容，給您帶來滿足感美味的體驗。"
+          "商品描述": "BBQ重磅雙牛堡套餐包含兩層牛肉餅和少量的燒烤醬料，搭配您選擇的配菜和飲料。此漢堡套餐內容，給您帶來滿足感美味的體驗。"
         },
         {
           "UID": "F003-013",
@@ -1936,8 +1793,7 @@
           "價格": 150,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "墨西哥辣肉醬巨無霸熱狗堡將辣味肉醬和巨無霸熱狗結合在一起，給您帶來墨西哥風味的獨特美食。"
+          "商品描述": "墨西哥辣肉醬巨無霸熱狗堡將辣味肉醬和巨無霸熱狗結合在一起，給您帶來墨西哥風味的獨特美食。"
         },
         {
           "UID": "F003-014",
@@ -1945,8 +1801,7 @@
           "價格": 180,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "滑板牛肉漢堡以滑板牛肉和香濃花生醬為主料，搭配特製醬料和新鮮蔬菜。這漢堡味道豐富，為您帶來了牛肉和花生的獨特風味。"
+          "商品描述": "滑板牛肉漢堡以滑板牛肉和香濃花生醬為主料，搭配特製醬料和新鮮蔬菜。這漢堡味道豐富，為您帶來了牛肉和花生的獨特風味。"
         },
         {
           "UID": "F003-015",
@@ -1954,8 +1809,7 @@
           "價格": 100,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "厚切裡肌米堡以厚切的里截取片主要料，夾入鬆軟的米飯和特製醬料。這漢堡豐富的食材，讓您消耗到里和米飯的美味組合。"
+          "商品描述": "厚切裡肌米堡以厚切的里截取片主要料，夾入鬆軟的米飯和特製醬料。這漢堡豐富的食材，讓您消耗到里和米飯的美味組合。"
         },
         {
           "UID": "F003-016",
@@ -1963,8 +1817,7 @@
           "價格": 250,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "豪華海陸浮誇堡 雙層鱈魚包含兩層鮮嫩的鱈魚餅和多種特色配料。漢堡食物豐富，讓您購買到海鮮和其他配料的完美搭配。"
+          "商品描述": "豪華海陸浮誇堡 雙層鱈魚包含兩層鮮嫩的鱈魚餅和多種特色配料。漢堡食物豐富，讓您購買到海鮮和其他配料的完美搭配。"
         },
         {
           "UID": "F003-017",
@@ -1972,8 +1825,7 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "肉蛋吐司是一道經典的早餐選擇，將香煎肉片和煎蛋夾在鬆軟的吐司中。 這款美味的早餐讓你一天開始時充滿能量。"
+          "商品描述": "肉蛋吐司是一道經典的早餐選擇，將香煎肉片和煎蛋夾在鬆軟的吐司中。 這款美味的早餐讓你一天開始時充滿能量。"
         },
         {
           "UID": "F003-018",
@@ -1981,8 +1833,7 @@
           "價格": 220,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "煙熏總匯蛋漢堡以煙熏口味的肉類和雞蛋為主料，搭配特製醬料和新鮮蔬菜。 這是漢堡口味豐富，帶來煙熏和蛋液的美味。"
+          "商品描述": "煙熏總匯蛋漢堡以煙熏口味的肉類和雞蛋為主料，搭配特製醬料和新鮮蔬菜。 這是漢堡口味豐富，帶來煙熏和蛋液的美味。"
         },
         {
           "UID": "F003-019",
@@ -1990,8 +1841,7 @@
           "價格": 190,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "龍蝦沙拉帕尼尼將鮮美的龍蝦沙拉和烤麵包夾放在一起。這款帕尼尼食材豐富，讓你盡興享用龍蝦沙拉的鮮美和烤麵包的香脆。"
+          "商品描述": "龍蝦沙拉帕尼尼將鮮美的龍蝦沙拉和烤麵包夾放在一起。這款帕尼尼食材豐富，讓你盡興享用龍蝦沙拉的鮮美和烤麵包的香脆。"
         },
         {
           "UID": "F003-020",
@@ -1999,25 +1849,20 @@
           "價格": 130,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "辣味二節翅採用新鮮的雞翅，搭配辣味醬料烹製而成。合喜歡辛辣食物的人。"
+          "商品描述": "辣味二節翅採用新鮮的雞翅，搭配辣味醬料烹製而成。合喜歡辛辣食物的人。"
         }
       ]
     },
     {
-      "id":8,
+      "id": 8,
       "UID": "F004",
       "category": "速食",
       "storeName": "飛餐",
       "stars": 5,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4.jpg?raw=true",
-      "summary":
-        "快速、美味、方便是我們的宗旨，專為現代生活節奏而設計的美食選擇，讓您輕鬆品味美味",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4.jpg?raw=true",
+      "summary": "快速、美味、方便是我們的宗旨，專為現代生活節奏而設計的美食選擇，讓您輕鬆品味美味",
       "products": [
         {
           "UID": "F004-001",
@@ -2025,8 +1870,7 @@
           "價格": 135,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "這款卡啦炸雞湯種吐司外觀酥脆，外層金黃酥脆，內裡鮮嫩多汁。這就是經典的炸雞搭配上香濃的湯種吐司，給您帶來獨特的品味享受"
+          "商品描述": "這款卡啦炸雞湯種吐司外觀酥脆，外層金黃酥脆，內裡鮮嫩多汁。這就是經典的炸雞搭配上香濃的湯種吐司，給您帶來獨特的品味享受"
         },
         {
           "UID": "F004-002",
@@ -2034,8 +1878,7 @@
           "價格": 180,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "這款厚切裡肌蛋湯種吐司以厚切裡肌蛋湯種吐司以厚切裡肌蛋湯種吐司以厚切裡肌蛋湯種吐司為主角料，搭配新鮮液製作而成。嫩多汁，配上湯種吐司的香味，讓您一口咬下即可享用美味的滋味。"
+          "商品描述": "這款厚切裡肌蛋湯種吐司以厚切裡肌蛋湯種吐司以厚切裡肌蛋湯種吐司以厚切裡肌蛋湯種吐司為主角料，搭配新鮮液製作而成。嫩多汁，配上湯種吐司的香味，讓您一口咬下即可享用美味的滋味。"
         },
         {
           "UID": "F004-003",
@@ -2043,8 +1886,7 @@
           "價格": 200,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "這款花生培根安格斯牛肉堡採用優質的安格斯牛肉，加入香脆花生和煙熏培根，給您帶來一種味道和獨特的味道。"
+          "商品描述": "這款花生培根安格斯牛肉堡採用優質的安格斯牛肉，加入香脆花生和煙熏培根，給您帶來一種味道和獨特的味道。"
         },
         {
           "UID": "F004-004",
@@ -2052,8 +1894,7 @@
           "價格": 215,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "勁濃安格斯牛肉堡套餐包括一份豐盛的安格斯牛肉堡和您選擇的配菜這個城堡包含高品質的安格斯牛肉和多種特色配料，為您帶來充滿力量的味覺享受。"
+          "商品描述": "勁濃安格斯牛肉堡套餐包括一份豐盛的安格斯牛肉堡和您選擇的配菜這個城堡包含高品質的安格斯牛肉和多種特色配料，為您帶來充滿力量的味覺享受。"
         },
         {
           "UID": "F004-005",
@@ -2061,8 +1902,7 @@
           "價格": 100,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "德腸炒蛋是一道經典的早餐選擇，結合了德國香腸和鬆軟炒蛋的美味。這道皮料口味豐富，餡料豐富東南亞的風情和風情。"
+          "商品描述": "德腸炒蛋是一道經典的早餐選擇，結合了德國香腸和鬆軟炒蛋的美味。這道皮料口味豐富，餡料豐富東南亞的風情和風情。"
         },
         {
           "UID": "F004-006",
@@ -2070,8 +1910,7 @@
           "價格": 250,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "極限雙層起司 雙層超厚牛肉 漢堡 給您帶來雙倍的滿足感。每個層都有超厚的牛肉餅和豐富的起司，東西充滿了層次感。"
+          "商品描述": "極限雙層起司 雙層超厚牛肉 漢堡 給您帶來雙倍的滿足感。每個層都有超厚的牛肉餅和豐富的起司，東西充滿了層次感。"
         },
         {
           "UID": "F004-007",
@@ -2079,8 +1918,7 @@
           "價格": 150,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "香雞龍蝦沙拉漢堡將煎香雞肉和鮮美的龍蝦沙拉組合在一起。這是漢堡豐盛的一份，帶來了雞肉的鮮嫩和龍蝦沙拉的經典組合。"
+          "商品描述": "香雞龍蝦沙拉漢堡將煎香雞肉和鮮美的龍蝦沙拉組合在一起。這是漢堡豐盛的一份，帶來了雞肉的鮮嫩和龍蝦沙拉的經典組合。"
         },
         {
           "UID": "F004-008",
@@ -2088,8 +1926,7 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "這款鬼椒雞柳條採用嫩滑的雞肉柳條，搭配特製的鬼椒調味汁，給您帶來辛辣與嫩滑的完美結合"
+          "商品描述": "這款鬼椒雞柳條採用嫩滑的雞肉柳條，搭配特製的鬼椒調味汁，給您帶來辛辣與嫩滑的完美結合"
         },
         {
           "UID": "F004-009",
@@ -2097,8 +1934,7 @@
           "價格": 220,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "腿排手工豬排起司雙層堡以厚切的手工豬排主料，夾入多層起司和特製醬料。此漢堡食材鮮嫩多汁，"
+          "商品描述": "腿排手工豬排起司雙層堡以厚切的手工豬排主料，夾入多層起司和特製醬料。此漢堡食材鮮嫩多汁，"
         },
         {
           "UID": "F004-010",
@@ -2106,8 +1942,7 @@
           "價格": 250,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "極限雙層起司 雙層超厚牛肉 漢堡 給您帶來雙倍的滿足感。每個層都有超厚的牛肉餅和豐富的起司，東西充滿了層次感。"
+          "商品描述": "極限雙層起司 雙層超厚牛肉 漢堡 給您帶來雙倍的滿足感。每個層都有超厚的牛肉餅和豐富的起司，東西充滿了層次感。"
         },
         {
           "UID": "F004-011",
@@ -2115,8 +1950,7 @@
           "價格": 150,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "香雞龍蝦沙拉漢堡將煎香雞肉和鮮美的龍蝦沙拉組合在一起。這是漢堡豐盛的一份，帶來了雞肉的鮮嫩和龍蝦沙拉的經典組合。"
+          "商品描述": "香雞龍蝦沙拉漢堡將煎香雞肉和鮮美的龍蝦沙拉組合在一起。這是漢堡豐盛的一份，帶來了雞肉的鮮嫩和龍蝦沙拉的經典組合。"
         },
         {
           "UID": "F004-012",
@@ -2124,8 +1958,7 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "這款鬼椒雞柳條採用嫩滑的雞肉柳條，搭配特製的鬼椒調味汁，給您帶來辛辣與嫩滑的完美結合"
+          "商品描述": "這款鬼椒雞柳條採用嫩滑的雞肉柳條，搭配特製的鬼椒調味汁，給您帶來辛辣與嫩滑的完美結合"
         },
         {
           "UID": "F004-013",
@@ -2133,8 +1966,7 @@
           "價格": 220,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "腿排手工豬排起司雙層堡以厚切的手工豬排主料，夾入多層起司和特製醬料。此漢堡食材鮮嫩多汁，"
+          "商品描述": "腿排手工豬排起司雙層堡以厚切的手工豬排主料，夾入多層起司和特製醬料。此漢堡食材鮮嫩多汁，"
         },
         {
           "UID": "F004-014",
@@ -2142,8 +1974,7 @@
           "價格": 250,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "極限雙層起司 雙層超厚牛肉 漢堡 給您帶來雙倍的滿足感。每個層都有超厚的牛肉餅和豐富的起司，東西充滿了層次感。"
+          "商品描述": "極限雙層起司 雙層超厚牛肉 漢堡 給您帶來雙倍的滿足感。每個層都有超厚的牛肉餅和豐富的起司，東西充滿了層次感。"
         },
         {
           "UID": "F004-015",
@@ -2151,8 +1982,7 @@
           "價格": 215,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "勁濃安格斯牛肉堡套餐包括一份豐盛的安格斯牛肉堡和您選擇的配菜這個城堡包含高品質的安格斯牛肉和多種特色配料，為您帶來充滿力量的味覺享受。"
+          "商品描述": "勁濃安格斯牛肉堡套餐包括一份豐盛的安格斯牛肉堡和您選擇的配菜這個城堡包含高品質的安格斯牛肉和多種特色配料，為您帶來充滿力量的味覺享受。"
         },
         {
           "UID": "F004-016",
@@ -2160,8 +1990,7 @@
           "價格": 100,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "德腸炒蛋是一道經典的早餐選擇，結合了德國香腸和鬆軟炒蛋的美味。這道皮料口味豐富，餡料豐富東南亞的風情和風情。"
+          "商品描述": "德腸炒蛋是一道經典的早餐選擇，結合了德國香腸和鬆軟炒蛋的美味。這道皮料口味豐富，餡料豐富東南亞的風情和風情。"
         },
         {
           "UID": "F004-017",
@@ -2169,8 +1998,7 @@
           "價格": 135,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "這款卡啦炸雞湯種吐司外觀酥脆，外層金黃酥脆，內裡鮮嫩多汁。這就是經典的炸雞搭配上香濃的湯種吐司，給您帶來獨特的品味享受"
+          "商品描述": "這款卡啦炸雞湯種吐司外觀酥脆，外層金黃酥脆，內裡鮮嫩多汁。這就是經典的炸雞搭配上香濃的湯種吐司，給您帶來獨特的品味享受"
         },
         {
           "UID": "F004-018",
@@ -2178,8 +2006,7 @@
           "價格": 180,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "這款厚切裡肌蛋湯種吐司以厚切裡肌蛋湯種吐司以厚切裡肌蛋湯種吐司以厚切裡肌蛋湯種吐司為主角料，搭配新鮮液製作而成。嫩多汁，配上湯種吐司的香味，讓您一口咬下即可享用美味的滋味。"
+          "商品描述": "這款厚切裡肌蛋湯種吐司以厚切裡肌蛋湯種吐司以厚切裡肌蛋湯種吐司以厚切裡肌蛋湯種吐司為主角料，搭配新鮮液製作而成。嫩多汁，配上湯種吐司的香味，讓您一口咬下即可享用美味的滋味。"
         },
         {
           "UID": "F004-019",
@@ -2187,8 +2014,7 @@
           "價格": 200,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "這款花生培根安格斯牛肉堡採用優質的安格斯牛肉，加入香脆花生和煙熏培根，給您帶來一種味道和獨特的味道。"
+          "商品描述": "這款花生培根安格斯牛肉堡採用優質的安格斯牛肉，加入香脆花生和煙熏培根，給您帶來一種味道和獨特的味道。"
         },
         {
           "UID": "F004-020",
@@ -2196,25 +2022,20 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "這款辣味二節翅採用新鮮的雞翅，搭配辣味醬料烹製而成。適合喜歡辛辣食物的人士。"
+          "商品描述": "這款辣味二節翅採用新鮮的雞翅，搭配辣味醬料烹製而成。適合喜歡辛辣食物的人士。"
         }
       ]
     },
     {
-      "id":9,
+      "id": 9,
       "UID": "V001",
       "category": "素食",
       "storeName": "綠意軒",
       "stars": 5,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-1-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-1-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-1.jpg?raw=true",
-      "summary":
-        "我們強調健康與美味的平衡，用心烹調每一道素食佳餚，讓您享受不只是一頓餐點，更是一場對身心的呵護",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-1-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-1-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-1.jpg?raw=true",
+      "summary": "我們強調健康與美味的平衡，用心烹調每一道素食佳餚，讓您享受不只是一頓餐點，更是一場對身心的呵護",
       "products": [
         {
           "UID": "V001-001",
@@ -2379,19 +2200,15 @@
       ]
     },
     {
-      "id":10,
+      "id": 10,
       "UID": "V002",
       "category": "素食",
       "storeName": "食善家",
       "stars": 5,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-2-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-2-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-2.jpg?raw=true",
-      "summary":
-        "每一道菜都融合了豐富的蔬菜、水果和植物性食材，為您帶來口感豐富的素食體驗",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-2-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-2-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-2.jpg?raw=true",
+      "summary": "每一道菜都融合了豐富的蔬菜、水果和植物性食材，為您帶來口感豐富的素食體驗",
       "products": [
         {
           "UID": "V002-001",
@@ -2455,8 +2272,7 @@
           "價格": 155,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "飯結合了香味四溢的黃猴菇和鬆軟的米飯，口味豐富且令人滿足。品嚐黃猴菇獨特的香氣和嫩滑的質地"
+          "商品描述": "飯結合了香味四溢的黃猴菇和鬆軟的米飯，口味豐富且令人滿足。品嚐黃猴菇獨特的香氣和嫩滑的質地"
         },
         {
           "UID": "V002-009",
@@ -2536,8 +2352,7 @@
           "價格": 155,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "飯結合了香味四溢的黃猴菇和鬆軟的米飯，口味豐富且令人滿足。品嚐黃猴菇獨特的香氣和嫩滑的質地"
+          "商品描述": "飯結合了香味四溢的黃猴菇和鬆軟的米飯，口味豐富且令人滿足。品嚐黃猴菇獨特的香氣和嫩滑的質地"
         },
         {
           "UID": "V002-019",
@@ -2558,19 +2373,15 @@
       ]
     },
     {
-      "id":11,
+      "id": 11,
       "UID": "V003",
       "category": "素食",
       "storeName": "祥園",
       "stars": 4,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-3-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-3-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-3.jpg?raw=true",
-      "summary":
-        "致力於提供美味的素食選擇，讓您品味到純粹的自然滋味，以綠色營養為基底，呈現出令人驚艷的素食美食世界",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-3-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-3-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-3.jpg?raw=true",
+      "summary": "致力於提供美味的素食選擇，讓您品味到純粹的自然滋味，以綠色營養為基底，呈現出令人驚艷的素食美食世界",
       "products": [
         {
           "UID": "V003-001",
@@ -2622,7 +2433,7 @@
         },
         {
           "UID": "V003-007",
-          "品項": "素蝦炒飯\n",
+          "品項": "素蝦炒飯",
           "價格": 70,
           "冷": false,
           "熱": false,
@@ -2670,7 +2481,7 @@
         },
         {
           "UID": "V003-013",
-          "品項": "素蝦炒飯\n",
+          "品項": "素蝦炒飯",
           "價格": 70,
           "冷": false,
           "熱": false,
@@ -2735,19 +2546,15 @@
       ]
     },
     {
-      "id":12,
+      "id": 12,
       "UID": "V004",
       "category": "素食",
       "storeName": "蔬川",
       "stars": 4,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-4-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-4-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-4.jpg?raw=true",
-      "summary":
-        "深信素食對健康與環境的重要性，我們的素食餐廳不僅為您帶來美味，更是一個推動可持續生活方式的呼籲，讓您的每一口都是對大自然的尊重",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-4-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-4-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-4.jpg?raw=true",
+      "summary": "深信素食對健康與環境的重要性，我們的素食餐廳不僅為您帶來美味，更是一個推動可持續生活方式的呼籲，讓您的每一口都是對大自然的尊重",
       "products": [
         {
           "UID": "V004-001",
@@ -2912,19 +2719,15 @@
       ]
     },
     {
-      "id":13,
+      "id": 13,
       "UID": "S001",
       "category": "小吃",
       "storeName": "味樂城",
       "stars": 3,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-1-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-1-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-1.jpg?raw=true",
-      "summary":
-        "品味道地街頭美食的獨特風味，充滿著懷舊與美味的絕妙結合，讓您一嚐即回味",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-1-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-1-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-1.jpg?raw=true",
+      "summary": "品味道地街頭美食的獨特風味，充滿著懷舊與美味的絕妙結合，讓您一嚐即回味",
       "products": [
         {
           "UID": "S001-001",
@@ -2932,8 +2735,7 @@
           "價格": 95,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "香園油雞是一道經典的台灣食材，採用嫩滑的雞肉，搭配特製的油醬調味而成。口感香醇，回味無窮。"
+          "商品描述": "香園油雞是一道經典的台灣食材，採用嫩滑的雞肉，搭配特製的油醬調味而成。口感香醇，回味無窮。"
         },
         {
           "UID": "S001-002",
@@ -2941,8 +2743,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "梅干扣肉是一種傳統的中式菜餚，採用豬肉醃製後搭配梅干和特製的醬汁烹製而成。口感酥脆，肉質鮮嫩，帶有梅干的酸甜風味。"
+          "商品描述": "梅干扣肉是一種傳統的中式菜餚，採用豬肉醃製後搭配梅干和特製的醬汁烹製而成。口感酥脆，肉質鮮嫩，帶有梅干的酸甜風味。"
         },
         {
           "UID": "S001-003",
@@ -2950,8 +2751,7 @@
           "價格": 110,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "薑絲大腸是一道具有家鄉風味的美食，選用豬大腸和鮮薑炒製而成。口感鮮嫩，帶有薑的辣香和大腸的嚼勁。"
+          "商品描述": "薑絲大腸是一道具有家鄉風味的美食，選用豬大腸和鮮薑炒製而成。口感鮮嫩，帶有薑的辣香和大腸的嚼勁。"
         },
         {
           "UID": "S001-004",
@@ -2959,8 +2759,7 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "菜脯蛋是一種簡單卻美味的家常菜，用雞蛋和醃製好的菜脯炒製而成。口感香脆，帶有菜脯的鹹香。"
+          "商品描述": "菜脯蛋是一種簡單卻美味的家常菜，用雞蛋和醃製好的菜脯炒製而成。口感香脆，帶有菜脯的鹹香。"
         },
         {
           "UID": "S001-005",
@@ -2968,8 +2767,7 @@
           "價格": 100,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "肉絲炒飯是一道經典的炒飯菜，選用細腰肉絲和米飯炒製而成。口感香糯，肉質鮮嫩，是一道美味的主食。"
+          "商品描述": "肉絲炒飯是一道經典的炒飯菜，選用細腰肉絲和米飯炒製而成。口感香糯，肉質鮮嫩，是一道美味的主食。"
         },
         {
           "UID": "S001-006",
@@ -2977,8 +2775,7 @@
           "價格": 105,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "牛肉炒飯是以牛肉為主料的炒飯美食，選用嫩牛肉和米飯炒成。口感鮮嫩，帶有牛肉的香味和炒飯的味道。"
+          "商品描述": "牛肉炒飯是以牛肉為主料的炒飯美食，選用嫩牛肉和米飯炒成。口感鮮嫩，帶有牛肉的香味和炒飯的味道。"
         },
         {
           "UID": "S001-007",
@@ -2986,8 +2783,7 @@
           "價格": 95,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "麻婆豆腐是一道具有川菜特色的豆腐餐，選用嫩滑的豆腐和特製的麻婆醬烹製而成。口感麻辣，豆腐鮮嫩，是一道下飯的美味佳餚。"
+          "商品描述": "麻婆豆腐是一道具有川菜特色的豆腐餐，選用嫩滑的豆腐和特製的麻婆醬烹製而成。口感麻辣，豆腐鮮嫩，是一道下飯的美味佳餚。"
         },
         {
           "UID": "S001-008",
@@ -2995,8 +2791,7 @@
           "價格": 115,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "招牌四寶飯是以四種美味配料為主的米飯，通常包括叉燒、燒鴨、鴨腳和臘腸等。食材豐富多樣，讓您一次品嚐到多種美味。"
+          "商品描述": "招牌四寶飯是以四種美味配料為主的米飯，通常包括叉燒、燒鴨、鴨腳和臘腸等。食材豐富多樣，讓您一次品嚐到多種美味。"
         },
         {
           "UID": "S001-009",
@@ -3004,8 +2799,7 @@
           "價格": 125,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "糖醋魚片是一款以魚片為主料的糖醋片，選用魚肉片炸至金黃酥脆，再配上糖醋醬調味料。口感酸甜，魚肉鮮嫩"
+          "商品描述": "糖醋魚片是一款以魚片為主料的糖醋片，選用魚肉片炸至金黃酥脆，再配上糖醋醬調味料。口感酸甜，魚肉鮮嫩"
         },
         {
           "UID": "S001-010",
@@ -3013,8 +2807,7 @@
           "價格": 130,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "炒米粉套餐是以米粉為主料的套餐，搭配多種蔬菜和肉類炒製而成。口感柔軟，配料豐富，讓您盡享多種食材的美味。"
+          "商品描述": "炒米粉套餐是以米粉為主料的套餐，搭配多種蔬菜和肉類炒製而成。口感柔軟，配料豐富，讓您盡享多種食材的美味。"
         },
         {
           "UID": "S001-011",
@@ -3022,8 +2815,7 @@
           "價格": 95,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "香園油雞是一道經典的台灣食材，採用嫩滑的雞肉，搭配特製的油醬調味而成。口感香醇，回味無窮。"
+          "商品描述": "香園油雞是一道經典的台灣食材，採用嫩滑的雞肉，搭配特製的油醬調味而成。口感香醇，回味無窮。"
         },
         {
           "UID": "S001-012",
@@ -3031,8 +2823,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "梅干扣肉是一種傳統的中式菜餚，採用豬肉醃製後搭配梅干和特製的醬汁烹製而成。口感酥脆，肉質鮮嫩，帶有梅干的酸甜風味。"
+          "商品描述": "梅干扣肉是一種傳統的中式菜餚，採用豬肉醃製後搭配梅干和特製的醬汁烹製而成。口感酥脆，肉質鮮嫩，帶有梅干的酸甜風味。"
         },
         {
           "UID": "S001-013",
@@ -3040,8 +2831,7 @@
           "價格": 110,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "薑絲大腸是一道具有家鄉風味的美食，選用豬大腸和鮮薑炒製而成。口感鮮嫩，帶有薑的辣香和大腸的嚼勁。"
+          "商品描述": "薑絲大腸是一道具有家鄉風味的美食，選用豬大腸和鮮薑炒製而成。口感鮮嫩，帶有薑的辣香和大腸的嚼勁。"
         },
         {
           "UID": "S001-014",
@@ -3049,8 +2839,7 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "菜脯蛋是一種簡單卻美味的家常菜，用雞蛋和醃製好的菜脯炒製而成。口感香脆，帶有菜脯的鹹香。"
+          "商品描述": "菜脯蛋是一種簡單卻美味的家常菜，用雞蛋和醃製好的菜脯炒製而成。口感香脆，帶有菜脯的鹹香。"
         },
         {
           "UID": "S001-015",
@@ -3058,8 +2847,7 @@
           "價格": 100,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "肉絲炒飯是一道經典的炒飯菜，選用細腰肉絲和米飯炒製而成。口感香糯，肉質鮮嫩，是一道美味的主食。"
+          "商品描述": "肉絲炒飯是一道經典的炒飯菜，選用細腰肉絲和米飯炒製而成。口感香糯，肉質鮮嫩，是一道美味的主食。"
         },
         {
           "UID": "S001-016",
@@ -3067,8 +2855,7 @@
           "價格": 105,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "牛肉炒飯是以牛肉為主料的炒飯美食，選用嫩牛肉和米飯炒成。口感鮮嫩，帶有牛肉的香味和炒飯的味道。"
+          "商品描述": "牛肉炒飯是以牛肉為主料的炒飯美食，選用嫩牛肉和米飯炒成。口感鮮嫩，帶有牛肉的香味和炒飯的味道。"
         },
         {
           "UID": "S001-017",
@@ -3076,8 +2863,7 @@
           "價格": 95,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "麻婆豆腐是一道具有川菜特色的豆腐餐，選用嫩滑的豆腐和特製的麻婆醬烹製而成。口感麻辣，豆腐鮮嫩，是一道下飯的美味佳餚。"
+          "商品描述": "麻婆豆腐是一道具有川菜特色的豆腐餐，選用嫩滑的豆腐和特製的麻婆醬烹製而成。口感麻辣，豆腐鮮嫩，是一道下飯的美味佳餚。"
         },
         {
           "UID": "S001-018",
@@ -3085,8 +2871,7 @@
           "價格": 115,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "招牌四寶飯是以四種美味配料為主的米飯，通常包括叉燒、燒鴨、鴨腳和臘腸等。食材豐富多樣，讓您一次品嚐到多種美味。"
+          "商品描述": "招牌四寶飯是以四種美味配料為主的米飯，通常包括叉燒、燒鴨、鴨腳和臘腸等。食材豐富多樣，讓您一次品嚐到多種美味。"
         },
         {
           "UID": "S001-019",
@@ -3094,8 +2879,7 @@
           "價格": 125,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "糖醋魚片是一款以魚片為主料的糖醋片，選用魚肉片炸至金黃酥脆，再配上糖醋醬調味料。口感酸甜，魚肉鮮嫩"
+          "商品描述": "糖醋魚片是一款以魚片為主料的糖醋片，選用魚肉片炸至金黃酥脆，再配上糖醋醬調味料。口感酸甜，魚肉鮮嫩"
         },
         {
           "UID": "S001-020",
@@ -3103,23 +2887,19 @@
           "價格": 130,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "炒米粉套餐是以米粉為主料的套餐，搭配多種蔬菜和肉類炒製而成。口感柔軟，配料豐富，讓您盡享多種食材的美味。"
+          "商品描述": "炒米粉套餐是以米粉為主料的套餐，搭配多種蔬菜和肉類炒製而成。口感柔軟，配料豐富，讓您盡享多種食材的美味。"
         }
       ]
     },
     {
-      "id":14,
+      "id": 14,
       "UID": "S002",
       "category": "小吃",
       "storeName": "稻香快炒",
       "stars": 4,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-2-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-2-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-2.jpg?raw=true",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-2-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-2-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-2.jpg?raw=true",
       "summary": "從香噴噴的炸雞到口感豐富的炒麵，滿足您對於道地美食的渴望",
       "products": [
         {
@@ -3128,8 +2908,7 @@
           "價格": 150,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "鮮蝦粉絲煲以新鮮的蝦肉和粉絲煮成，口感鮮嫩，湯汁鮮美，是一道滋補又的湯煲食材。"
+          "商品描述": "鮮蝦粉絲煲以新鮮的蝦肉和粉絲煮成，口感鮮嫩，湯汁鮮美，是一道滋補又的湯煲食材。"
         },
         {
           "UID": "S002-002",
@@ -3137,8 +2916,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "南瓜豆腐煲是一種健康的素食食材，選用新鮮的南瓜和豆腐燉煮而成。口感綿密，南瓜的均勻與豆腐的嫩滑相融合，帶給您溫暖的滋味。"
+          "商品描述": "南瓜豆腐煲是一種健康的素食食材，選用新鮮的南瓜和豆腐燉煮而成。口感綿密，南瓜的均勻與豆腐的嫩滑相融合，帶給您溫暖的滋味。"
         },
         {
           "UID": "S002-003",
@@ -3146,8 +2924,7 @@
           "價格": 110,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "什錦炒麵是一種色香味俱全的中式炒麵，搭配多種蔬菜和肉類炒製而成。口感香糯，配料豐富多樣，讓您一次品嚐到多種食材的美味。"
+          "商品描述": "什錦炒麵是一種色香味俱全的中式炒麵，搭配多種蔬菜和肉類炒製而成。口感香糯，配料豐富多樣，讓您一次品嚐到多種食材的美味。"
         },
         {
           "UID": "S002-004",
@@ -3155,8 +2932,7 @@
           "價格": 100,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "豆干肉絲是一道經典的川菜美食，採用豆干和豬肉絲炒成。味道鮮嫩，豆干的咀嚼勁和肉絲的鮮美互呼應，配有里面的川味。"
+          "商品描述": "豆干肉絲是一道經典的川菜美食，採用豆干和豬肉絲炒成。味道鮮嫩，豆干的咀嚼勁和肉絲的鮮美互呼應，配有里面的川味。"
         },
         {
           "UID": "S002-005",
@@ -3164,8 +2940,7 @@
           "價格": 130,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "羊肉炒飯以嫩滑的羊肉和米飯炒製而成，口感鮮嫩，帶有羊肉的特殊風味。是一道充滿香氣和營養的主食。"
+          "商品描述": "羊肉炒飯以嫩滑的羊肉和米飯炒製而成，口感鮮嫩，帶有羊肉的特殊風味。是一道充滿香氣和營養的主食。"
         },
         {
           "UID": "S002-006",
@@ -3173,8 +2948,7 @@
           "價格": 95,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "大滷麵是一道台灣特色的麵食，採用寬麵和滷汁煮製而成。麵條Q彈，滷汁的風味和麵條的咬勁相得益彰，是一道受歡迎的美食。"
+          "商品描述": "大滷麵是一道台灣特色的麵食，採用寬麵和滷汁煮製而成。麵條Q彈，滷汁的風味和麵條的咬勁相得益彰，是一道受歡迎的美食。"
         },
         {
           "UID": "S002-007",
@@ -3182,8 +2956,7 @@
           "價格": 140,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "宮保雞丁是一種著名的川菜餐點，選用雞肉丁和特製的宮保醬炒製而成。口感酸辣甜香，雞肉鮮嫩多汁，是一種經典的中式餐點。"
+          "商品描述": "宮保雞丁是一種著名的川菜餐點，選用雞肉丁和特製的宮保醬炒製而成。口感酸辣甜香，雞肉鮮嫩多汁，是一種經典的中式餐點。"
         },
         {
           "UID": "S002-008",
@@ -3191,8 +2964,7 @@
           "價格": 125,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "客家咸豬肉是一道具有客家風味的美味肉類菜餚，加入咸豬肉經過醃製後煮熟而成。味道鹹香，肉質鮮嫩，是一道下飯的佳餚。"
+          "商品描述": "客家咸豬肉是一道具有客家風味的美味肉類菜餚，加入咸豬肉經過醃製後煮熟而成。味道鹹香，肉質鮮嫩，是一道下飯的佳餚。"
         },
         {
           "UID": "S002-009",
@@ -3200,8 +2972,7 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "地瓜葉是一種營養豐富的蔬菜食材，採用新鮮的美味地瓜葉炒製而成。口感清脆，結構獨特的香味，是一種又健康的美食。"
+          "商品描述": "地瓜葉是一種營養豐富的蔬菜食材，採用新鮮的美味地瓜葉炒製而成。口感清脆，結構獨特的香味，是一種又健康的美食。"
         },
         {
           "UID": "S002-010",
@@ -3209,8 +2980,7 @@
           "價格": 105,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "黑白切是經典的台灣食材，選用雞肉經過特殊的烹調方式製成。口感鮮嫩多汁，表面呈現出黑色和白色兩種顏色，帶有獨特的裝飾。"
+          "商品描述": "黑白切是經典的台灣食材，選用雞肉經過特殊的烹調方式製成。口感鮮嫩多汁，表面呈現出黑色和白色兩種顏色，帶有獨特的裝飾。"
         },
         {
           "UID": "S002-011",
@@ -3218,8 +2988,7 @@
           "價格": 150,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "鮮蝦粉絲煲以新鮮的蝦肉和粉絲煮成，口感鮮嫩，湯汁鮮美，是一道滋補又的湯煲食材。"
+          "商品描述": "鮮蝦粉絲煲以新鮮的蝦肉和粉絲煮成，口感鮮嫩，湯汁鮮美，是一道滋補又的湯煲食材。"
         },
         {
           "UID": "S002-012",
@@ -3227,8 +2996,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "南瓜豆腐煲是一種健康的素食食材，選用新鮮的南瓜和豆腐燉煮而成。口感綿密，南瓜的均勻與豆腐的嫩滑相融合，帶給您溫暖的滋味。"
+          "商品描述": "南瓜豆腐煲是一種健康的素食食材，選用新鮮的南瓜和豆腐燉煮而成。口感綿密，南瓜的均勻與豆腐的嫩滑相融合，帶給您溫暖的滋味。"
         },
         {
           "UID": "S002-013",
@@ -3236,8 +3004,7 @@
           "價格": 110,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "什錦炒麵是一種色香味俱全的中式炒麵，搭配多種蔬菜和肉類炒製而成。口感香糯，配料豐富多樣，讓您一次品嚐到多種食材的美味。"
+          "商品描述": "什錦炒麵是一種色香味俱全的中式炒麵，搭配多種蔬菜和肉類炒製而成。口感香糯，配料豐富多樣，讓您一次品嚐到多種食材的美味。"
         },
         {
           "UID": "S002-014",
@@ -3245,8 +3012,7 @@
           "價格": 100,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "豆干肉絲是一道經典的川菜美食，採用豆干和豬肉絲炒成。味道鮮嫩，豆干的咀嚼勁和肉絲的鮮美互呼應，配有里面的川味。"
+          "商品描述": "豆干肉絲是一道經典的川菜美食，採用豆干和豬肉絲炒成。味道鮮嫩，豆干的咀嚼勁和肉絲的鮮美互呼應，配有里面的川味。"
         },
         {
           "UID": "S002-015",
@@ -3254,8 +3020,7 @@
           "價格": 130,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "羊肉炒飯以嫩滑的羊肉和米飯炒製而成，口感鮮嫩，帶有羊肉的特殊風味。是一道充滿香氣和營養的主食。"
+          "商品描述": "羊肉炒飯以嫩滑的羊肉和米飯炒製而成，口感鮮嫩，帶有羊肉的特殊風味。是一道充滿香氣和營養的主食。"
         },
         {
           "UID": "S002-016",
@@ -3263,8 +3028,7 @@
           "價格": 95,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "大滷麵是一道台灣特色的麵食，採用寬麵和滷汁煮製而成。麵條Q彈，滷汁的風味和麵條的咬勁相得益彰，是一道受歡迎的美食。"
+          "商品描述": "大滷麵是一道台灣特色的麵食，採用寬麵和滷汁煮製而成。麵條Q彈，滷汁的風味和麵條的咬勁相得益彰，是一道受歡迎的美食。"
         },
         {
           "UID": "S002-017",
@@ -3272,8 +3036,7 @@
           "價格": 140,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "宮保雞丁是一種著名的川菜餐點，選用雞肉丁和特製的宮保醬炒製而成。口感酸辣甜香，雞肉鮮嫩多汁，是一種經典的中式餐點。"
+          "商品描述": "宮保雞丁是一種著名的川菜餐點，選用雞肉丁和特製的宮保醬炒製而成。口感酸辣甜香，雞肉鮮嫩多汁，是一種經典的中式餐點。"
         },
         {
           "UID": "S002-018",
@@ -3281,8 +3044,7 @@
           "價格": 125,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "客家咸豬肉是一道具有客家風味的美味肉類菜餚，加入咸豬肉經過醃製後煮熟而成。味道鹹香，肉質鮮嫩，是一道下飯的佳餚。"
+          "商品描述": "客家咸豬肉是一道具有客家風味的美味肉類菜餚，加入咸豬肉經過醃製後煮熟而成。味道鹹香，肉質鮮嫩，是一道下飯的佳餚。"
         },
         {
           "UID": "S002-019",
@@ -3290,8 +3052,7 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "地瓜葉是一種營養豐富的蔬菜食材，採用新鮮的美味地瓜葉炒製而成。口感清脆，結構獨特的香味，是一種又健康的美食。"
+          "商品描述": "地瓜葉是一種營養豐富的蔬菜食材，採用新鮮的美味地瓜葉炒製而成。口感清脆，結構獨特的香味，是一種又健康的美食。"
         },
         {
           "UID": "S002-020",
@@ -3299,25 +3060,20 @@
           "價格": 105,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "黑白切是經典的台灣食材，選用雞肉經過特殊的烹調方式製成。口感鮮嫩多汁，表面呈現出黑色和白色兩種顏色，帶有獨特的裝飾。"
+          "商品描述": "黑白切是經典的台灣食材，選用雞肉經過特殊的烹調方式製成。口感鮮嫩多汁，表面呈現出黑色和白色兩種顏色，帶有獨特的裝飾。"
         }
       ]
     },
     {
-      "id":15,
+      "id": 15,
       "UID": "S003",
       "category": "小吃",
       "storeName": "胖小吃",
       "stars": 5,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-3-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-3-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-3.jpg?raw=true",
-      "summary":
-        "在這片小小的街頭，我們用心製作每一道美味，為您帶來色香味俱全的傳統風味，成就一場美食的驚喜之旅",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-3-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-3-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-3.jpg?raw=true",
+      "summary": "在這片小小的街頭，我們用心製作每一道美味，為您帶來色香味俱全的傳統風味，成就一場美食的驚喜之旅",
       "products": [
         {
           "UID": "S003-001",
@@ -3325,8 +3081,7 @@
           "價格": 115,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "什錦炒麵是一種以多種蔬菜和肉類為主料的中式炒麵。配料豐富，口感香糯，是一種經典的炒麵。"
+          "商品描述": "什錦炒麵是一種以多種蔬菜和肉類為主料的中式炒麵。配料豐富，口感香糯，是一種經典的炒麵。"
         },
         {
           "UID": "S003-002",
@@ -3334,8 +3089,7 @@
           "價格": 145,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "牛肉是以牛肉為主料，採用特製的沙茶醬炒製而成的餐點。牛肉鮮嫩，味道醇香，是一種富有特色的肉類餐點。"
+          "商品描述": "牛肉是以牛肉為主料，採用特製的沙茶醬炒製而成的餐點。牛肉鮮嫩，味道醇香，是一種富有特色的肉類餐點。"
         },
         {
           "UID": "S003-003",
@@ -3343,8 +3097,7 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "養生百蘑菇湯是這種多種新鮮蘑菇主料熬製而成的湯品。味道鮮美，營養豐富，是一種滋補養生的美味之選。"
+          "商品描述": "養生百蘑菇湯是這種多種新鮮蘑菇主料熬製而成的湯品。味道鮮美，營養豐富，是一種滋補養生的美味之選。"
         },
         {
           "UID": "S003-004",
@@ -3352,8 +3105,7 @@
           "價格": 105,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "招牌乾麵是很有特色的台灣麵食，採用特製的麵醬混合製作而成。口感彈牙，調味料，是一道受歡迎的麵食餐盤。"
+          "商品描述": "招牌乾麵是很有特色的台灣麵食，採用特製的麵醬混合製作而成。口感彈牙，調味料，是一道受歡迎的麵食餐盤。"
         },
         {
           "UID": "S003-005",
@@ -3361,8 +3113,7 @@
           "價格": 95,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "麻醬麵是一種以麻醬為主料調製而成的麵食甜點。麻醬的香味與麵條的口感相融合，帶來獨特的風味。"
+          "商品描述": "麻醬麵是一種以麻醬為主料調製而成的麵食甜點。麻醬的香味與麵條的口感相融合，帶來獨特的風味。"
         },
         {
           "UID": "S003-006",
@@ -3370,8 +3121,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "麻婆豆腐是一種以豆腐和特製的麻婆醬炒製而成的川菜小吃。有點麻辣，豆腐鮮嫩，是一種經典的中式小吃。"
+          "商品描述": "麻婆豆腐是一種以豆腐和特製的麻婆醬炒製而成的川菜小吃。有點麻辣，豆腐鮮嫩，是一種經典的中式小吃。"
         },
         {
           "UID": "S003-007",
@@ -3379,8 +3129,7 @@
           "價格": 130,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "正宗三寶飯是一道以烤肉、叉燒和鹹蛋黃為主料，搭配米飯而成的菜餚。味道豐富多樣，是一道可口的主食。"
+          "商品描述": "正宗三寶飯是一道以烤肉、叉燒和鹹蛋黃為主料，搭配米飯而成的菜餚。味道豐富多樣，是一道可口的主食。"
         },
         {
           "UID": "S003-008",
@@ -3388,8 +3137,7 @@
           "價格": 110,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "蜊絲瓜是一種以蜊和細切的瓜絲炒製而成的菜餚。口感鮮嫩，瓜絲的清脆與蛤蜊的鮮美相互融合，帶來獨特的風味。"
+          "商品描述": "蜊絲瓜是一種以蜊和細切的瓜絲炒製而成的菜餚。口感鮮嫩，瓜絲的清脆與蛤蜊的鮮美相互融合，帶來獨特的風味。"
         },
         {
           "UID": "S003-009",
@@ -3397,8 +3145,7 @@
           "價格": 135,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "炒米粉套餐是一種以細米粉為主料炒製而成的餐食，搭配多種蔬菜和肉類。口感柔軟，配料豐富，是一種流行的炒麵餐。"
+          "商品描述": "炒米粉套餐是一種以細米粉為主料炒製而成的餐食，搭配多種蔬菜和肉類。口感柔軟，配料豐富，是一種流行的炒麵餐。"
         },
         {
           "UID": "S003-010",
@@ -3406,8 +3153,7 @@
           "價格": 125,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "滷肉飯套餐是一種將滷肉和米飯搭配而成的傳統台灣美食。滷肉鮮香多汁，配上香噴噴的米飯，是一種美味可口的套餐選擇。"
+          "商品描述": "滷肉飯套餐是一種將滷肉和米飯搭配而成的傳統台灣美食。滷肉鮮香多汁，配上香噴噴的米飯，是一種美味可口的套餐選擇。"
         },
         {
           "UID": "S003-011",
@@ -3415,8 +3161,7 @@
           "價格": 110,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "蜊絲瓜是一種以蜊和細切的瓜絲炒製而成的菜餚。口感鮮嫩，瓜絲的清脆與蛤蜊的鮮美相互融合，帶來獨特的風味。"
+          "商品描述": "蜊絲瓜是一種以蜊和細切的瓜絲炒製而成的菜餚。口感鮮嫩，瓜絲的清脆與蛤蜊的鮮美相互融合，帶來獨特的風味。"
         },
         {
           "UID": "S003-012",
@@ -3424,8 +3169,7 @@
           "價格": 135,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "炒米粉套餐是一種以細米粉為主料炒製而成的餐食，搭配多種蔬菜和肉類。口感柔軟，配料豐富，是一種流行的炒麵餐。"
+          "商品描述": "炒米粉套餐是一種以細米粉為主料炒製而成的餐食，搭配多種蔬菜和肉類。口感柔軟，配料豐富，是一種流行的炒麵餐。"
         },
         {
           "UID": "S003-013",
@@ -3433,8 +3177,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "麻婆豆腐是一種以豆腐和特製的麻婆醬炒製而成的川菜小吃。有點麻辣，豆腐鮮嫩，是一種經典的中式小吃。"
+          "商品描述": "麻婆豆腐是一種以豆腐和特製的麻婆醬炒製而成的川菜小吃。有點麻辣，豆腐鮮嫩，是一種經典的中式小吃。"
         },
         {
           "UID": "S003-014",
@@ -3442,8 +3185,7 @@
           "價格": 130,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "正宗三寶飯是一道以烤肉、叉燒和鹹蛋黃為主料，搭配米飯而成的菜餚。味道豐富多樣，是一道可口的主食。"
+          "商品描述": "正宗三寶飯是一道以烤肉、叉燒和鹹蛋黃為主料，搭配米飯而成的菜餚。味道豐富多樣，是一道可口的主食。"
         },
         {
           "UID": "S003-015",
@@ -3451,8 +3193,7 @@
           "價格": 105,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "招牌乾麵是很有特色的台灣麵食，採用特製的麵醬混合製作而成。口感彈牙，調味料，是一道受歡迎的麵食餐盤。"
+          "商品描述": "招牌乾麵是很有特色的台灣麵食，採用特製的麵醬混合製作而成。口感彈牙，調味料，是一道受歡迎的麵食餐盤。"
         },
         {
           "UID": "S003-016",
@@ -3460,8 +3201,7 @@
           "價格": 95,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "麻醬麵是一種以麻醬為主料調製而成的麵食甜點。麻醬的香味與麵條的口感相融合，帶來獨特的風味。"
+          "商品描述": "麻醬麵是一種以麻醬為主料調製而成的麵食甜點。麻醬的香味與麵條的口感相融合，帶來獨特的風味。"
         },
         {
           "UID": "S003-017",
@@ -3469,8 +3209,7 @@
           "價格": 115,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "什錦炒麵是一種以多種蔬菜和肉類為主料的中式炒麵。配料豐富，口感香糯，是一種經典的炒麵。"
+          "商品描述": "什錦炒麵是一種以多種蔬菜和肉類為主料的中式炒麵。配料豐富，口感香糯，是一種經典的炒麵。"
         },
         {
           "UID": "S003-018",
@@ -3478,8 +3217,7 @@
           "價格": 145,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "牛肉是以牛肉為主料，採用特製的沙茶醬炒製而成的餐點。牛肉鮮嫩，味道醇香，是一種富有特色的肉類餐點。"
+          "商品描述": "牛肉是以牛肉為主料，採用特製的沙茶醬炒製而成的餐點。牛肉鮮嫩，味道醇香，是一種富有特色的肉類餐點。"
         },
         {
           "UID": "S003-019",
@@ -3487,8 +3225,7 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "養生百蘑菇湯是這種多種新鮮蘑菇主料熬製而成的湯品。味道鮮美，營養豐富，是一種滋補養生的美味之選。"
+          "商品描述": "養生百蘑菇湯是這種多種新鮮蘑菇主料熬製而成的湯品。味道鮮美，營養豐富，是一種滋補養生的美味之選。"
         },
         {
           "UID": "S003-020",
@@ -3496,25 +3233,20 @@
           "價格": 125,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "滷肉飯套餐是一種將滷肉和米飯搭配而成的傳統台灣美食。滷肉鮮香多汁，配上香噴噴的米飯，是一種美味可口的套餐選擇。"
+          "商品描述": "滷肉飯套餐是一種將滷肉和米飯搭配而成的傳統台灣美食。滷肉鮮香多汁，配上香噴噴的米飯，是一種美味可口的套餐選擇。"
         }
       ]
     },
     {
-      "id":16,
+      "id": 16,
       "UID": "S004",
       "category": "小吃",
       "storeName": "食在小巷",
       "stars": 5,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-4-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-4-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-4.jpg?raw=true",
-      "summary":
-        "沿著街角的美食小巷，我們的小吃店為您獻上地道的味道，讓您在忙碌的生活中停下腳步，享受一份濃厚的味蕾愉悅",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-4-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-4-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-4.jpg?raw=true",
+      "summary": "沿著街角的美食小巷，我們的小吃店為您獻上地道的味道，讓您在忙碌的生活中停下腳步，享受一份濃厚的味蕾愉悅",
       "products": [
         {
           "UID": "S004-001",
@@ -3530,8 +3262,7 @@
           "價格": 130,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "脆皮燒鴨飯是一種以烤製的鴨肉和香脆的皮膚為主料，搭配米飯而成的美味飯菜。口感香脆多汁，肉質細嫩，是深受大眾喜愛的烤鴨餅。"
+          "商品描述": "脆皮燒鴨飯是一種以烤製的鴨肉和香脆的皮膚為主料，搭配米飯而成的美味飯菜。口感香脆多汁，肉質細嫩，是深受大眾喜愛的烤鴨餅。"
         },
         {
           "UID": "S004-003",
@@ -3539,8 +3270,7 @@
           "價格": 95,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "酸菜肚片湯是一道以酸菜和豬肚片為主料熬製而成的湯品。口感酸辣鮮美，肚片鮮嫩可口，是一道開胃的湯菜。"
+          "商品描述": "酸菜肚片湯是一道以酸菜和豬肚片為主料熬製而成的湯品。口感酸辣鮮美，肚片鮮嫩可口，是一道開胃的湯菜。"
         },
         {
           "UID": "S004-004",
@@ -3548,8 +3278,7 @@
           "價格": 110,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "紅油炒手是一種以餃子和特製的紅油調料炒製而成的小吃小吃。味道麻辣，味道濃郁，是一種有特色的中式小吃。"
+          "商品描述": "紅油炒手是一種以餃子和特製的紅油調料炒製而成的小吃小吃。味道麻辣，味道濃郁，是一種有特色的中式小吃。"
         },
         {
           "UID": "S004-005",
@@ -3557,8 +3286,7 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "大骨豆腐湯是一種以大骨和豆腐為主料熬製而成的湯品。味道鮮美，湯汁濃郁，是一種營養豐富的家常菜餚。"
+          "商品描述": "大骨豆腐湯是一種以大骨和豆腐為主料熬製而成的湯品。味道鮮美，湯汁濃郁，是一種營養豐富的家常菜餚。"
         },
         {
           "UID": "S004-006",
@@ -3566,8 +3294,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "糖醋魚片是一種以魚片為主料，搭配糖醋醬炒製而成的美味佳餚。味道酸甜可口，魚肉鮮嫩，是一種深受大眾歡迎的糖醋美食。"
+          "商品描述": "糖醋魚片是一種以魚片為主料，搭配糖醋醬炒製而成的美味佳餚。味道酸甜可口，魚肉鮮嫩，是一種深受大眾歡迎的糖醋美食。"
         },
         {
           "UID": "S004-007",
@@ -3575,8 +3302,7 @@
           "價格": 140,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "鳳梨蝦球就是將鳳梨和鮮蝦球搭配炒製而成的菜餚。味道香甜鮮嫩，融合了鳳梨的酸甜和蝦球的鮮美，是一道美味可口的菜品。"
+          "商品描述": "鳳梨蝦球就是將鳳梨和鮮蝦球搭配炒製而成的菜餚。味道香甜鮮嫩，融合了鳳梨的酸甜和蝦球的鮮美，是一道美味可口的菜品。"
         },
         {
           "UID": "S004-008",
@@ -3584,8 +3310,7 @@
           "價格": 85,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "貢丸湯是一種以肉質細嫩的貢丸為主料熬製而成的湯品。味道鮮美，湯汁清淡，是一種頗受歡迎的湯菜。"
+          "商品描述": "貢丸湯是一種以肉質細嫩的貢丸為主料熬製而成的湯品。味道鮮美，湯汁清淡，是一種頗受歡迎的湯菜。"
         },
         {
           "UID": "S004-009",
@@ -3593,8 +3318,7 @@
           "價格": 105,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "地瓜葉是一種以新鮮地瓜葉炒製而成的美味餐點。口感嫩綠，營養豐富，具有獨特的清香和口感，是一種健康的蔬菜餐點。"
+          "商品描述": "地瓜葉是一種以新鮮地瓜葉炒製而成的美味餐點。口感嫩綠，營養豐富，具有獨特的清香和口感，是一種健康的蔬菜餐點。"
         },
         {
           "UID": "S004-010",
@@ -3602,8 +3326,7 @@
           "價格": 115,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "古早味豬油拌飯是將炒製的豬油與米飯拌勻而成的經典美食。口感香糯，豬油的香味和米飯的口感相互融合，帶來獨特的風味。"
+          "商品描述": "古早味豬油拌飯是將炒製的豬油與米飯拌勻而成的經典美食。口感香糯，豬油的香味和米飯的口感相互融合，帶來獨特的風味。"
         },
         {
           "UID": "S004-011",
@@ -3611,8 +3334,7 @@
           "價格": 85,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "貢丸湯是一種以肉質細嫩的貢丸為主料熬製而成的湯品。味道鮮美，湯汁清淡，是一種頗受歡迎的湯菜。"
+          "商品描述": "貢丸湯是一種以肉質細嫩的貢丸為主料熬製而成的湯品。味道鮮美，湯汁清淡，是一種頗受歡迎的湯菜。"
         },
         {
           "UID": "S004-012",
@@ -3620,8 +3342,7 @@
           "價格": 105,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "地瓜葉是一種以新鮮地瓜葉炒製而成的美味餐點。口感嫩綠，營養豐富，具有獨特的清香和口感，是一種健康的蔬菜餐點。"
+          "商品描述": "地瓜葉是一種以新鮮地瓜葉炒製而成的美味餐點。口感嫩綠，營養豐富，具有獨特的清香和口感，是一種健康的蔬菜餐點。"
         },
         {
           "UID": "S004-013",
@@ -3629,8 +3350,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "糖醋魚片是一種以魚片為主料，搭配糖醋醬炒製而成的美味佳餚。味道酸甜可口，魚肉鮮嫩，是一種深受大眾歡迎的糖醋美食。"
+          "商品描述": "糖醋魚片是一種以魚片為主料，搭配糖醋醬炒製而成的美味佳餚。味道酸甜可口，魚肉鮮嫩，是一種深受大眾歡迎的糖醋美食。"
         },
         {
           "UID": "S004-014",
@@ -3638,8 +3358,7 @@
           "價格": 140,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "鳳梨蝦球就是將鳳梨和鮮蝦球搭配炒製而成的菜餚。味道香甜鮮嫩，融合了鳳梨的酸甜和蝦球的鮮美，是一道美味可口的菜品。"
+          "商品描述": "鳳梨蝦球就是將鳳梨和鮮蝦球搭配炒製而成的菜餚。味道香甜鮮嫩，融合了鳳梨的酸甜和蝦球的鮮美，是一道美味可口的菜品。"
         },
         {
           "UID": "S004-015",
@@ -3647,8 +3366,7 @@
           "價格": 110,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "紅油炒手是一種以餃子和特製的紅油調料炒製而成的小吃小吃。味道麻辣，味道濃郁，是一種有特色的中式小吃。"
+          "商品描述": "紅油炒手是一種以餃子和特製的紅油調料炒製而成的小吃小吃。味道麻辣，味道濃郁，是一種有特色的中式小吃。"
         },
         {
           "UID": "S004-016",
@@ -3656,8 +3374,7 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "大骨豆腐湯是一種以大骨和豆腐為主料熬製而成的湯品。味道鮮美，湯汁濃郁，是一種營養豐富的家常菜餚。"
+          "商品描述": "大骨豆腐湯是一種以大骨和豆腐為主料熬製而成的湯品。味道鮮美，湯汁濃郁，是一種營養豐富的家常菜餚。"
         },
         {
           "UID": "S004-017",
@@ -3673,8 +3390,7 @@
           "價格": 130,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "脆皮燒鴨飯是一種以烤製的鴨肉和香脆的皮膚為主料，搭配米飯而成的美味飯菜。口感香脆多汁，肉質細嫩，是深受大眾喜愛的烤鴨餅。"
+          "商品描述": "脆皮燒鴨飯是一種以烤製的鴨肉和香脆的皮膚為主料，搭配米飯而成的美味飯菜。口感香脆多汁，肉質細嫩，是深受大眾喜愛的烤鴨餅。"
         },
         {
           "UID": "S004-019",
@@ -3682,8 +3398,7 @@
           "價格": 95,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "酸菜肚片湯是一道以酸菜和豬肚片為主料熬製而成的湯品。口感酸辣鮮美，肚片鮮嫩可口，是一道開胃的湯菜。"
+          "商品描述": "酸菜肚片湯是一道以酸菜和豬肚片為主料熬製而成的湯品。口感酸辣鮮美，肚片鮮嫩可口，是一道開胃的湯菜。"
         },
         {
           "UID": "S004-020",
@@ -3691,25 +3406,20 @@
           "價格": 115,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "古早味豬油拌飯是將炒製的豬油與米飯拌勻而成的經典美食。口感香糯，豬油的香味和米飯的口感相互融合，帶來獨特的風味。"
+          "商品描述": "古早味豬油拌飯是將炒製的豬油與米飯拌勻而成的經典美食。口感香糯，豬油的香味和米飯的口感相互融合，帶來獨特的風味。"
         }
       ]
     },
     {
-      "id":17,
+      "id": 17,
       "UID": "D001",
       "category": "甜點",
       "storeName": "Flavorful oasis",
       "stars": 5,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-1-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-1-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-1.jpg?raw=true",
-      "summary":
-        "我們的甜點，不僅價格親民，更是品味的象徵，可頌的酥脆與戚風蛋糕的輕盈，將為您帶來美味與愉悅，成為您甜蜜生活中不可或缺的一部分",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-1-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-1-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-1.jpg?raw=true",
+      "summary": "我們的甜點，不僅價格親民，更是品味的象徵，可頌的酥脆與戚風蛋糕的輕盈，將為您帶來美味與愉悅，成為您甜蜜生活中不可或缺的一部分",
       "products": [
         {
           "UID": "D001-001",
@@ -3725,8 +3435,7 @@
           "價格": 80,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "檸檬乳酪丹麥圈是一種以檸檬味乳酪餡料填充的丹麥圈。有些鬆軟，搭配酸甜的檸檬味乳酪，帶來清新的口感。"
+          "商品描述": "檸檬乳酪丹麥圈是一種以檸檬味乳酪餡料填充的丹麥圈。有些鬆軟，搭配酸甜的檸檬味乳酪，帶來清新的口感。"
         },
         {
           "UID": "D001-003",
@@ -3734,8 +3443,7 @@
           "價格": 85,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "焦糖海鹽核桃肉桂卷是一種以焦糖、海鹽、核桃和肉桂調味的丹麥圈。 口感香甜，焦糖的甜脆與海鹽的微鹹相互搭配，令人回味無窮無盡"
+          "商品描述": "焦糖海鹽核桃肉桂卷是一種以焦糖、海鹽、核桃和肉桂調味的丹麥圈。 口感香甜，焦糖的甜脆與海鹽的微鹹相互搭配，令人回味無窮無盡"
         },
         {
           "UID": "D001-004",
@@ -3743,8 +3451,7 @@
           "價格": 85,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "起司丹麥圈是一種以起司餡料填充的丹麥圈。口感綿密，起司的香味與丹麥麵團的造型完美結合，帶來一杯的奶香味道。"
+          "商品描述": "起司丹麥圈是一種以起司餡料填充的丹麥圈。口感綿密，起司的香味與丹麥麵團的造型完美結合，帶來一杯的奶香味道。"
         },
         {
           "UID": "D001-005",
@@ -3752,8 +3459,7 @@
           "價格": 65,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "炙燒火腿丹麥圈是一種以炙燒火腿為配料的丹麥圈。口感酥脆，火腿的香烤味與丹麥麵團的口感相得益彰，帶來獨特的風味。"
+          "商品描述": "炙燒火腿丹麥圈是一種以炙燒火腿為配料的丹麥圈。口感酥脆，火腿的香烤味與丹麥麵團的口感相得益彰，帶來獨特的風味。"
         },
         {
           "UID": "D001-006",
@@ -3761,8 +3467,7 @@
           "價格": 200,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "5入經典丹麥圈是一套包含五種經典丹麥口味的組合。 品種豐富，包括經典的原味、巧克力、抹茶、藍莓和香草等口味，適合分享和品嚐不同的口味。"
+          "商品描述": "5入經典丹麥圈是一套包含五種經典丹麥口味的組合。 品種豐富，包括經典的原味、巧克力、抹茶、藍莓和香草等口味，適合分享和品嚐不同的口味。"
         },
         {
           "UID": "D001-007",
@@ -3770,8 +3475,7 @@
           "價格": 105,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "藍莓乳酪貝果是一種以藍莓味乳酪餡料填充的貝果。一些鬆軟，搭配酸甜的藍莓乳酪，帶來爽口的口感。"
+          "商品描述": "藍莓乳酪貝果是一種以藍莓味乳酪餡料填充的貝果。一些鬆軟，搭配酸甜的藍莓乳酪，帶來爽口的口感。"
         },
         {
           "UID": "D001-008",
@@ -3779,8 +3483,7 @@
           "價格": 125,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "香草焦糖布蕾是一款經典的甜點，結合了香草的香氣和焦糖的甜脆。外層酥脆，內部柔滑，是一款令人垂涎欲滴的甜點。"
+          "商品描述": "香草焦糖布蕾是一款經典的甜點，結合了香草的香氣和焦糖的甜脆。外層酥脆，內部柔滑，是一款令人垂涎欲滴的甜點。"
         },
         {
           "UID": "D001-009",
@@ -3788,8 +3491,7 @@
           "價格": 130,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "抹茶生巧克力蛋糕是一款以抹茶和生巧克力為主料製作的蛋糕。口感細膩，抹茶的苦甜和生巧克力的相互交融，帶來獨特的風味體驗。"
+          "商品描述": "抹茶生巧克力蛋糕是一款以抹茶和生巧克力為主料製作的蛋糕。口感細膩，抹茶的苦甜和生巧克力的相互交融，帶來獨特的風味體驗。"
         },
         {
           "UID": "D001-010",
@@ -3797,8 +3499,7 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "抹茶的清新，白味增的豆香，搭配炒焙過的黑豆餅乾底，各種風味相互搭配蹦出美妙新滋味。"
+          "商品描述": "抹茶的清新，白味增的豆香，搭配炒焙過的黑豆餅乾底，各種風味相互搭配蹦出美妙新滋味。"
         },
         {
           "UID": "D001-011",
@@ -3806,8 +3507,7 @@
           "價格": 125,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "香草焦糖布蕾是一款經典的甜點，結合了香草的香氣和焦糖的甜脆。外層酥脆，內部柔滑，是一款令人垂涎欲滴的甜點。"
+          "商品描述": "香草焦糖布蕾是一款經典的甜點，結合了香草的香氣和焦糖的甜脆。外層酥脆，內部柔滑，是一款令人垂涎欲滴的甜點。"
         },
         {
           "UID": "D001-012",
@@ -3815,8 +3515,7 @@
           "價格": 130,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "抹茶生巧克力蛋糕是一款以抹茶和生巧克力為主料製作的蛋糕。口感細膩，抹茶的苦甜和生巧克力的相互交融，帶來獨特的風味體驗。"
+          "商品描述": "抹茶生巧克力蛋糕是一款以抹茶和生巧克力為主料製作的蛋糕。口感細膩，抹茶的苦甜和生巧克力的相互交融，帶來獨特的風味體驗。"
         },
         {
           "UID": "D001-013",
@@ -3824,8 +3523,7 @@
           "價格": 200,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "5入經典丹麥圈是一套包含五種經典丹麥口味的組合。 品種豐富，包括經典的原味、巧克力、抹茶、藍莓和香草等口味，適合分享和品嚐不同的口味。"
+          "商品描述": "5入經典丹麥圈是一套包含五種經典丹麥口味的組合。 品種豐富，包括經典的原味、巧克力、抹茶、藍莓和香草等口味，適合分享和品嚐不同的口味。"
         },
         {
           "UID": "D001-014",
@@ -3833,8 +3531,7 @@
           "價格": 105,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "藍莓乳酪貝果是一種以藍莓味乳酪餡料填充的貝果。一些鬆軟，搭配酸甜的藍莓乳酪，帶來爽口的口感。"
+          "商品描述": "藍莓乳酪貝果是一種以藍莓味乳酪餡料填充的貝果。一些鬆軟，搭配酸甜的藍莓乳酪，帶來爽口的口感。"
         },
         {
           "UID": "D001-015",
@@ -3842,8 +3539,7 @@
           "價格": 85,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "起司丹麥圈是一種以起司餡料填充的丹麥圈。口感綿密，起司的香味與丹麥麵團的造型完美結合，帶來一杯的奶香味道。"
+          "商品描述": "起司丹麥圈是一種以起司餡料填充的丹麥圈。口感綿密，起司的香味與丹麥麵團的造型完美結合，帶來一杯的奶香味道。"
         },
         {
           "UID": "D001-016",
@@ -3851,8 +3547,7 @@
           "價格": 65,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "炙燒火腿丹麥圈是一種以炙燒火腿為配料的丹麥圈。口感酥脆，火腿的香烤味與丹麥麵團的口感相得益彰，帶來獨特的風味。"
+          "商品描述": "炙燒火腿丹麥圈是一種以炙燒火腿為配料的丹麥圈。口感酥脆，火腿的香烤味與丹麥麵團的口感相得益彰，帶來獨特的風味。"
         },
         {
           "UID": "D001-017",
@@ -3868,8 +3563,7 @@
           "價格": 80,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "檸檬乳酪丹麥圈是一種以檸檬味乳酪餡料填充的丹麥圈。有些鬆軟，搭配酸甜的檸檬味乳酪，帶來清新的口感。"
+          "商品描述": "檸檬乳酪丹麥圈是一種以檸檬味乳酪餡料填充的丹麥圈。有些鬆軟，搭配酸甜的檸檬味乳酪，帶來清新的口感。"
         },
         {
           "UID": "D001-019",
@@ -3877,8 +3571,7 @@
           "價格": 85,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "焦糖海鹽核桃肉桂卷是一種以焦糖、海鹽、核桃和肉桂調味的丹麥圈。 口感香甜，焦糖的甜脆與海鹽的微鹹相互搭配，令人回味無窮無盡"
+          "商品描述": "焦糖海鹽核桃肉桂卷是一種以焦糖、海鹽、核桃和肉桂調味的丹麥圈。 口感香甜，焦糖的甜脆與海鹽的微鹹相互搭配，令人回味無窮無盡"
         },
         {
           "UID": "D001-020",
@@ -3886,25 +3579,20 @@
           "價格": 90,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "抹茶的清新，白味增的豆香，搭配炒焙過的黑豆餅乾底，各種風味相互搭配蹦出美妙新滋味。"
+          "商品描述": "抹茶的清新，白味增的豆香，搭配炒焙過的黑豆餅乾底，各種風味相互搭配蹦出美妙新滋味。"
         }
       ]
     },
     {
-      "id":18,
+      "id": 18,
       "UID": "D002",
       "category": "甜點",
       "storeName": "Sugar & Spice",
       "stars": 3,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-2-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-2-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-2.jpg?raw=true",
-      "summary":
-        "在這個美味天地，您將品味到經典與創新的完美結合，我們的甜點除了可頌與戚風蛋糕外，還有豐富選擇等待您一一探索",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-2-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-2-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-2.jpg?raw=true",
+      "summary": "在這個美味天地，您將品味到經典與創新的完美結合，我們的甜點除了可頌與戚風蛋糕外，還有豐富選擇等待您一一探索",
       "products": [
         {
           "UID": "D002-001",
@@ -3936,8 +3624,7 @@
           "價格": 55,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "藍莓乳酪貝果是一種以藍莓味乳酪餡料填充的貝果。外層酥脆，內部搭配酸甜的藍莓乳酪，帶來爽口的口感。"
+          "商品描述": "藍莓乳酪貝果是一種以藍莓味乳酪餡料填充的貝果。外層酥脆，內部搭配酸甜的藍莓乳酪，帶來爽口的口感。"
         },
         {
           "UID": "D002-005",
@@ -3945,8 +3632,7 @@
           "價格": 65,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "香濃起司貝果是一種以香濃起司餡料填充的貝果。外層酥脆，內部搭配豐富的起司香氣，帶來如此的口感。"
+          "商品描述": "香濃起司貝果是一種以香濃起司餡料填充的貝果。外層酥脆，內部搭配豐富的起司香氣，帶來如此的口感。"
         },
         {
           "UID": "D002-006",
@@ -3954,8 +3640,7 @@
           "價格": 55,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "顆粒 花生貝果是一種以花生顆粒為配料的貝果。外層酥脆，內部搭配香脆的花生顆粒，帶來豐富的口感和香氣。"
+          "商品描述": "顆粒 花生貝果是一種以花生顆粒為配料的貝果。外層酥脆，內部搭配香脆的花生顆粒，帶來豐富的口感和香氣。"
         },
         {
           "UID": "D002-007",
@@ -3963,8 +3648,7 @@
           "價格": 80,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "烘焙茶焦糖布蕾是一款結合了烘焙茶和焦糖的烘焙甜點。外層烤製至金黃酥脆，內部是這樣的烘焙茶和焦糖風味，帶來獨特的風味。"
+          "商品描述": "烘焙茶焦糖布蕾是一款結合了烘焙茶和焦糖的烘焙甜點。外層烤製至金黃酥脆，內部是這樣的烘焙茶和焦糖風味，帶來獨特的風味。"
         },
         {
           "UID": "D002-008",
@@ -3972,8 +3656,7 @@
           "價格": 85,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "香草焦糖布蕾是一款經典的焦糖甜點，搭配香草的香氣和焦糖的甜脆。外層酥脆，內部柔滑，是一道令人垂涎欲滴的甜點。"
+          "商品描述": "香草焦糖布蕾是一款經典的焦糖甜點，搭配香草的香氣和焦糖的甜脆。外層酥脆，內部柔滑，是一道令人垂涎欲滴的甜點。"
         },
         {
           "UID": "D002-009",
@@ -3981,8 +3664,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "鳳梨芒果生乳卷是一款以鳳梨和芒果為主料製作的捲狀甜點。外層柔軟，內部搭配鮮甜的鳳梨和芒果，帶來清新的口感。"
+          "商品描述": "鳳梨芒果生乳卷是一款以鳳梨和芒果為主料製作的捲狀甜點。外層柔軟，內部搭配鮮甜的鳳梨和芒果，帶來清新的口感。"
         },
         {
           "UID": "D002-010",
@@ -3998,8 +3680,7 @@
           "價格": 85,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "香草焦糖布蕾是一款經典的焦糖甜點，搭配香草的香氣和焦糖的甜脆。外層酥脆，內部柔滑，是一道令人垂涎欲滴的甜點。"
+          "商品描述": "香草焦糖布蕾是一款經典的焦糖甜點，搭配香草的香氣和焦糖的甜脆。外層酥脆，內部柔滑，是一道令人垂涎欲滴的甜點。"
         },
         {
           "UID": "D002-012",
@@ -4007,8 +3688,7 @@
           "價格": 120,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "鳳梨芒果生乳卷是一款以鳳梨和芒果為主料製作的捲狀甜點。外層柔軟，內部搭配鮮甜的鳳梨和芒果，帶來清新的口感。"
+          "商品描述": "鳳梨芒果生乳卷是一款以鳳梨和芒果為主料製作的捲狀甜點。外層柔軟，內部搭配鮮甜的鳳梨和芒果，帶來清新的口感。"
         },
         {
           "UID": "D002-013",
@@ -4016,8 +3696,7 @@
           "價格": 55,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "顆粒 花生貝果是一種以花生顆粒為配料的貝果。外層酥脆，內部搭配香脆的花生顆粒，帶來豐富的口感和香氣。"
+          "商品描述": "顆粒 花生貝果是一種以花生顆粒為配料的貝果。外層酥脆，內部搭配香脆的花生顆粒，帶來豐富的口感和香氣。"
         },
         {
           "UID": "D002-014",
@@ -4025,8 +3704,7 @@
           "價格": 80,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "烘焙茶焦糖布蕾是一款結合了烘焙茶和焦糖的烘焙甜點。外層烤製至金黃酥脆，內部是這樣的烘焙茶和焦糖風味，帶來獨特的風味。"
+          "商品描述": "烘焙茶焦糖布蕾是一款結合了烘焙茶和焦糖的烘焙甜點。外層烤製至金黃酥脆，內部是這樣的烘焙茶和焦糖風味，帶來獨特的風味。"
         },
         {
           "UID": "D002-015",
@@ -4034,8 +3712,7 @@
           "價格": 55,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "藍莓乳酪貝果是一種以藍莓味乳酪餡料填充的貝果。外層酥脆，內部搭配酸甜的藍莓乳酪，帶來爽口的口感。"
+          "商品描述": "藍莓乳酪貝果是一種以藍莓味乳酪餡料填充的貝果。外層酥脆，內部搭配酸甜的藍莓乳酪，帶來爽口的口感。"
         },
         {
           "UID": "D002-016",
@@ -4043,8 +3720,7 @@
           "價格": 65,
           "冷": false,
           "熱": false,
-          "商品描述":
-            "香濃起司貝果是一種以香濃起司餡料填充的貝果。外層酥脆，內部搭配豐富的起司香氣，帶來如此的口感。"
+          "商品描述": "香濃起司貝果是一種以香濃起司餡料填充的貝果。外層酥脆，內部搭配豐富的起司香氣，帶來如此的口感。"
         },
         {
           "UID": "D002-017",
@@ -4081,19 +3757,15 @@
       ]
     },
     {
-      "id":19,
+      "id": 19,
       "UID": "D003",
       "category": "甜點",
       "storeName": "糖霜繪本",
       "stars": 4,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-3-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-3-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-3.jpg?raw=true",
-      "summary":
-        "我們的甜點店專注於平價美味，引領您探索甜蜜滋味的世界，多樣選項包括香氣四溢的可頌、輕盈綿密的戚風蛋糕，以及更多驚喜品項等待您品味",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-3-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-3-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-3.jpg?raw=true",
+      "summary": "我們的甜點店專注於平價美味，引領您探索甜蜜滋味的世界，多樣選項包括香氣四溢的可頌、輕盈綿密的戚風蛋糕，以及更多驚喜品項等待您品味",
       "products": [
         {
           "UID": "D003-001",
@@ -4258,19 +3930,15 @@
       ]
     },
     {
-      "id":20,
+      "id": 20,
       "UID": "D004",
       "category": "甜點",
       "storeName": "空姐 巴黎甜點",
       "stars": 5,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-4-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-4-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-4.jpg?raw=true",
-      "summary":
-        "我們引以為傲的戚風蛋糕，融合了輕盈綿密的口感，讓您感受到純粹的甜蜜，多種風味選擇定能滿足您對於甜點的渴望",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-4-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-4-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-4.jpg?raw=true",
+      "summary": "我們引以為傲的戚風蛋糕，融合了輕盈綿密的口感，讓您感受到純粹的甜蜜，多種風味選擇定能滿足您對於甜點的渴望",
       "products": [
         {
           "UID": "D004-001",
@@ -4278,8 +3946,7 @@
           "價格": 130,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "古典巧克力蛋糕+香濃法式鮮奶油+台灣特產新鮮愛文芒果夾餡。 芒果結合巧克力的香甜風味，"
+          "商品描述": "古典巧克力蛋糕+香濃法式鮮奶油+台灣特產新鮮愛文芒果夾餡。 芒果結合巧克力的香甜風味，"
         },
         {
           "UID": "D004-002",
@@ -4295,8 +3962,7 @@
           "價格": 85,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "嚴選加拿大法蘭西產區的天然楓糖, 進口獨特蘭姆葡萄及清爽奶油內餡。淡雅成熟微醺風味。甘甜苦感完美融合。"
+          "商品描述": "嚴選加拿大法蘭西產區的天然楓糖, 進口獨特蘭姆葡萄及清爽奶油內餡。淡雅成熟微醺風味。甘甜苦感完美融合。"
         },
         {
           "UID": "D004-004",
@@ -4304,8 +3970,7 @@
           "價格": 60,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "日本頂級昭和麵粉, 台灣土雞蛋, 法國進口總統牌鮮奶油精緻蛋糕體及嚴選日本岡山縣特級山田蜂蜜。"
+          "商品描述": "日本頂級昭和麵粉, 台灣土雞蛋, 法國進口總統牌鮮奶油精緻蛋糕體及嚴選日本岡山縣特級山田蜂蜜。"
         },
         {
           "UID": "D004-005",
@@ -4313,8 +3978,7 @@
           "價格": 90,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "最上層含鮮奶油及雪柔蛋糕體顆粒。第 2 層含奶油乳酪及檸檬。第 3 層白色巧克力鮮奶油。第 4 層含奶油乳酪及檸檬。"
+          "商品描述": "最上層含鮮奶油及雪柔蛋糕體顆粒。第 2 層含奶油乳酪及檸檬。第 3 層白色巧克力鮮奶油。第 4 層含奶油乳酪及檸檬。"
         },
         {
           "UID": "D004-006",
@@ -4322,8 +3986,7 @@
           "價格": 95,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "最上層含覆盆子淋面及拉花。第 2 層含皇家特調覆盆子乳酪。第 3 層含原味乳酪。底層含手工消化餅乾顆粒碎片。諾曼第乳酪產區的奢華品味。"
+          "商品描述": "最上層含覆盆子淋面及拉花。第 2 層含皇家特調覆盆子乳酪。第 3 層含原味乳酪。底層含手工消化餅乾顆粒碎片。諾曼第乳酪產區的奢華品味。"
         },
         {
           "UID": "D004-007",
@@ -4331,8 +3994,7 @@
           "價格": 95,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "最上層含鮮奶油及雪柔蛋糕體顆粒。第 2 層含特濃布朗尼蛋糕體。第 3 層含冠軍巧克力鮮奶油。底層含上級布朗尼蛋糕體。"
+          "商品描述": "最上層含鮮奶油及雪柔蛋糕體顆粒。第 2 層含特濃布朗尼蛋糕體。第 3 層含冠軍巧克力鮮奶油。底層含上級布朗尼蛋糕體。"
         },
         {
           "UID": "D004-008",
@@ -4340,8 +4002,7 @@
           "價格": 110,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "最上層含巧克力乳酪及拉花。第 2 層含奶油乳酪及檸檬。底層含手工消化餅乾顆粒碎片。諾曼第乳酪產區的奢華品味。"
+          "商品描述": "最上層含巧克力乳酪及拉花。第 2 層含奶油乳酪及檸檬。底層含手工消化餅乾顆粒碎片。諾曼第乳酪產區的奢華品味。"
         },
         {
           "UID": "D004-009",
@@ -4349,8 +4010,7 @@
           "價格": 110,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "最上層含蔓越莓果肉及香酥菠蘿。第 2 層含奶油乳酪。底層含手工消化餅乾顆粒碎片。諾曼第乳酪產區的奢華品味。"
+          "商品描述": "最上層含蔓越莓果肉及香酥菠蘿。第 2 層含奶油乳酪。底層含手工消化餅乾顆粒碎片。諾曼第乳酪產區的奢華品味。"
         },
         {
           "UID": "D004-010",
@@ -4358,8 +4018,7 @@
           "價格": 110,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "最上層含巧克力乳酪及拉花。第 2 層含奶油乳酪及檸檬。底層含手工消化餅乾顆粒碎片。諾曼第乳酪產區的奢華品味。"
+          "商品描述": "最上層含巧克力乳酪及拉花。第 2 層含奶油乳酪及檸檬。底層含手工消化餅乾顆粒碎片。諾曼第乳酪產區的奢華品味。"
         },
         {
           "UID": "D004-011",
@@ -4367,8 +4026,7 @@
           "價格": 110,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "最上層含蔓越莓果肉及香酥菠蘿。第 2 層含奶油乳酪。底層含手工消化餅乾顆粒碎片。諾曼第乳酪產區的奢華品味。"
+          "商品描述": "最上層含蔓越莓果肉及香酥菠蘿。第 2 層含奶油乳酪。底層含手工消化餅乾顆粒碎片。諾曼第乳酪產區的奢華品味。"
         },
         {
           "UID": "D004-012",
@@ -4376,8 +4034,7 @@
           "價格": 125,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "黃金比例調製的鮮奶油及自家研磨水晶霜飾糖粉。完美比例。單純幸福的美味。"
+          "商品描述": "黃金比例調製的鮮奶油及自家研磨水晶霜飾糖粉。完美比例。單純幸福的美味。"
         },
         {
           "UID": "D004-013",
@@ -4385,8 +4042,7 @@
           "價格": 130,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "古典巧克力蛋糕+香濃法式鮮奶油+台灣特產新鮮愛文芒果夾餡。 芒果結合巧克力的香甜風味，"
+          "商品描述": "古典巧克力蛋糕+香濃法式鮮奶油+台灣特產新鮮愛文芒果夾餡。 芒果結合巧克力的香甜風味，"
         },
         {
           "UID": "D004-014",
@@ -4402,8 +4058,7 @@
           "價格": 85,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "嚴選加拿大法蘭西產區的天然楓糖, 進口獨特蘭姆葡萄及清爽奶油內餡。淡雅成熟微醺風味。甘甜苦感完美融合。"
+          "商品描述": "嚴選加拿大法蘭西產區的天然楓糖, 進口獨特蘭姆葡萄及清爽奶油內餡。淡雅成熟微醺風味。甘甜苦感完美融合。"
         },
         {
           "UID": "D004-016",
@@ -4411,8 +4066,7 @@
           "價格": 60,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "日本頂級昭和麵粉, 台灣土雞蛋, 法國進口總統牌鮮奶油精緻蛋糕體及嚴選日本岡山縣特級山田蜂蜜。"
+          "商品描述": "日本頂級昭和麵粉, 台灣土雞蛋, 法國進口總統牌鮮奶油精緻蛋糕體及嚴選日本岡山縣特級山田蜂蜜。"
         },
         {
           "UID": "D004-017",
@@ -4420,8 +4074,7 @@
           "價格": 90,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "最上層含鮮奶油及雪柔蛋糕體顆粒。第 2 層含奶油乳酪及檸檬。第 3 層白色巧克力鮮奶油。第 4 層含奶油乳酪及檸檬。"
+          "商品描述": "最上層含鮮奶油及雪柔蛋糕體顆粒。第 2 層含奶油乳酪及檸檬。第 3 層白色巧克力鮮奶油。第 4 層含奶油乳酪及檸檬。"
         },
         {
           "UID": "D004-018",
@@ -4429,8 +4082,7 @@
           "價格": 95,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "最上層含覆盆子淋面及拉花。第 2 層含皇家特調覆盆子乳酪。第 3 層含原味乳酪。底層含手工消化餅乾顆粒碎片。諾曼第乳酪產區的奢華品味。"
+          "商品描述": "最上層含覆盆子淋面及拉花。第 2 層含皇家特調覆盆子乳酪。第 3 層含原味乳酪。底層含手工消化餅乾顆粒碎片。諾曼第乳酪產區的奢華品味。"
         },
         {
           "UID": "D004-019",
@@ -4438,8 +4090,7 @@
           "價格": 95,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "最上層含鮮奶油及雪柔蛋糕體顆粒。第 2 層含特濃布朗尼蛋糕體。第 3 層含冠軍巧克力鮮奶油。底層含上級布朗尼蛋糕體。"
+          "商品描述": "最上層含鮮奶油及雪柔蛋糕體顆粒。第 2 層含特濃布朗尼蛋糕體。第 3 層含冠軍巧克力鮮奶油。底層含上級布朗尼蛋糕體。"
         },
         {
           "UID": "D004-020",
@@ -4447,25 +4098,20 @@
           "價格": 125,
           "冷": true,
           "熱": false,
-          "商品描述":
-            "黃金比例調製的鮮奶油及自家研磨水晶霜飾糖粉。完美比例。單純幸福的美味。"
+          "商品描述": "黃金比例調製的鮮奶油及自家研磨水晶霜飾糖粉。完美比例。單純幸福的美味。"
         }
       ]
     },
     {
-      "id":1,
+      "id": 1,
       "UID": "C001",
       "category": "咖啡",
       "storeName": "Leisurely Café",
       "stars": 5,
-      "storeLogo":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1-logo.jpg?raw=true",
-      "storeCover":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1-s.jpg?raw=true",
-      "storeBannerPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1.jpg?raw=true",
-      "summary":
-        "咖啡是一種藝術，每一杯都是經過訓練有素的咖啡師用心調配，為您獻上一份完美平衡的咖啡體驗",
+      "storeLogo": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1-logo.jpg?raw=true",
+      "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1-s.jpg?raw=true",
+      "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1.jpg?raw=true",
+      "summary": "咖啡是一種藝術，每一杯都是經過訓練有素的咖啡師用心調配，為您獻上一份完美平衡的咖啡體驗",
       "products": [
         {
           "UID": "C001-001",
@@ -4632,158 +4278,136 @@
   ],
   "userDatas": [
     {
-      "id":1,
+      "id": 1,
       "UID": "U001",
       "userName": "陳瑋",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-16.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-16.jpg?raw=true"
     },
     {
-      "id":2,
+      "id": 2,
       "UID": "U002",
       "userName": "陳雨潔",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-14.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-14.jpg?raw=true"
     },
     {
-      "id":3,
+      "id": 3,
       "UID": "U003",
       "userName": "盧子晴",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-13.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-13.jpg?raw=true"
     },
     {
-      "id":4,
+      "id": 4,
       "UID": "U004",
       "userName": "黃莉琳",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-09.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-09.jpg?raw=true"
     },
     {
-      "id":5,
+      "id": 5,
       "UID": "U005",
       "userName": "Malina Chanbers",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-15.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-15.jpg?raw=true"
     },
     {
-      "id":6,
+      "id": 6,
       "UID": "U006",
       "userName": "劉明峰",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-01.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-01.jpg?raw=true"
     },
     {
-      "id":7,
+      "id": 7,
       "UID": "U007",
       "userName": "陳大添",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-11.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-11.jpg?raw=true"
     },
     {
-      "id":8,
+      "id": 8,
       "UID": "U008",
       "userName": "張三峰",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-09.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-09.jpg?raw=true"
     },
     {
-      "id":9,
+      "id": 9,
       "UID": "U009",
       "userName": "James Williams",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-08.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-08.jpg?raw=true"
     },
     {
-      "id":10,
+      "id": 10,
       "UID": "U010",
       "userName": "況似棋",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-10.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-10.jpg?raw=true"
     },
     {
-      "id":11,
+      "id": 11,
       "UID": "U011",
       "userName": "劉語柔",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-11.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-11.jpg?raw=true"
     },
     {
-      "id":12,
+      "id": 12,
       "UID": "U012",
       "userName": "陳健邦",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-06.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-06.jpg?raw=true"
     },
     {
-      "id":13,
+      "id": 13,
       "UID": "U013",
-      "userName": "\n況似棋",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-04.jpg?raw=true"
+      "userName": "況似棋",
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-04.jpg?raw=true"
     },
     {
-      "id":14,
+      "id": 14,
       "UID": "U014",
       "userName": "梅嘉欣",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-07.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-07.jpg?raw=true"
     },
     {
-      "id":15,
+      "id": 15,
       "UID": "U015",
       "userName": "Olivia Johnson",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-05.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-05.jpg?raw=true"
     },
     {
-      "id":16,
+      "id": 16,
       "UID": "U016",
       "userName": "劉佩珊",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-01.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-01.jpg?raw=true"
     },
     {
-      "id":17,
+      "id": 17,
       "UID": "U017",
       "userName": "鍾明翰",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-02.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-02.jpg?raw=true"
     },
     {
       "id": 18,
       "UID": "U018",
       "userName": "Mia Lin",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-03.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-03.jpg?raw=true"
     },
     {
-      "id":19,
+      "id": 19,
       "UID": "U019",
       "userName": "周信宏",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-03.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-03.jpg?raw=true"
     },
     {
-      "id":20,
+      "id": 20,
       "UID": "U020",
       "userName": "溫雅琪",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-08.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-08.jpg?raw=true"
     },
     {
-      "id":21,
+      "id": 21,
       "UID": "U021",
       "userName": "趙文杰",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-02.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-02.jpg?raw=true"
     },
     {
-      "id":22,
+      "id": 22,
       "UID": "U022",
       "userName": "Daniel Brown",
-      "userPhoto":
-        "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-10.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-10.jpg?raw=true"
     }
-  ]  
+  ]
 }
