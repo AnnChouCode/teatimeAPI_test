@@ -10,7 +10,6 @@
       "eventDateTime": "2023/12/06 14:00",
       "initiator": "黃莉琳",
       "invitees": "黃莉琳",
-      "minGroupSize": 4,
       "currentGroupCondition": 5,
       "isGroup": true
     },
@@ -24,7 +23,6 @@
       "eventDateTime": "2023/11/30 15:30",
       "initiator": "盧子晴",
       "invitees": "",
-      "minGroupSize": 5,
       "currentGroupCondition": 10,
       "isGroup": true
     },
@@ -38,7 +36,6 @@
       "eventDateTime": "2023/12/05 14:30",
       "initiator": "陳雨潔",
       "invitees": "",
-      "minGroupSize": 5,
       "currentGroupCondition": 2,
       "isGroup": false
     },
@@ -52,7 +49,6 @@
       "eventDateTime": "2023/12/12 16:00",
       "initiator": "黃靜怡",
       "invitees": "",
-      "minGroupSize": 3,
       "currentGroupCondition": 2,
       "isGroup": false
     },
@@ -66,7 +62,6 @@
       "eventDateTime": "2023/11/06 14:00",
       "initiator": "許嘉豪",
       "invitees": "許嘉豪",
-      "minGroupSize": 4,
       "currentGroupCondition": 5,
       "isGroup": true
     },
@@ -80,7 +75,6 @@
       "eventDateTime": "2023/12/13 14:30",
       "initiator": "張雨菲",
       "invitees": "",
-      "minGroupSize": 8,
       "currentGroupCondition": 8,
       "isGroup": true
     },
@@ -94,7 +88,6 @@
       "eventDateTime": "2023/10/26 14:30",
       "initiator": "黃莉琳",
       "invitees": "",
-      "minGroupSize": 8,
       "currentGroupCondition": 8,
       "isGroup": true
     },
@@ -108,7 +101,6 @@
       "eventDateTime": "2023/12/16 14:30",
       "initiator": "黃莉琳",
       "invitees": "",
-      "minGroupSize": 5,
       "currentGroupCondition": 2,
       "isGroup": false
     }
@@ -123,9 +115,7 @@
       "eventDateTime": "2023/11/30 13:30",
       "initiator": "盧子晴",
       "invitees": "",
-      "minGroupSize": 5,
-      "currentVotes": 2,
-      "isGroup": false
+      "currentVoters": ["U004","U013"]
     },
     {
       "id": 2,
@@ -136,9 +126,7 @@
       "eventDateTime": "2023/11/30 13:30",
       "initiator": "盧子晴",
       "invitees": "",
-      "minGroupSize": 5,
-      "currentVotes": 1,
-      "isGroup": false
+      "currentVotes": ["U009"]
     },
     {
       "id": 3,
@@ -149,9 +137,7 @@
       "eventDateTime": "2023/11/30 13:30",
       "initiator": "盧子晴",
       "invitees": "",
-      "minGroupSize": 5,
-      "currentVotes": 2,
-      "isGroup": false
+      "currentVotes": ["U021","U004"]
     },
     {
       "id": 4,
@@ -162,9 +148,7 @@
       "eventDateTime": "2023/12/08 16:00",
       "initiator": "黃莉琳",
       "invitees": "黃莉琳",
-      "minGroupSize": 4,
-      "currentVotes": 3,
-      "isGroup": false
+      "currentVotes": ["U021", "U004", "U001"]
     },
     {
       "id": 5,
@@ -175,9 +159,7 @@
       "eventDateTime": "2023/12/08 16:00",
       "initiator": "黃莉琳",
       "invitees": "黃莉琳",
-      "minGroupSize": 4,
-      "currentVotes": 3,
-      "isGroup": false
+      "currentVotes": ["U022", "U013", "U007"]
     },
     {
       "id": 6,
@@ -188,9 +170,7 @@
       "eventDateTime": "2023/12/08 16:00",
       "initiator": "黃莉琳",
       "invitees": "黃莉琳",
-      "minGroupSize": 4,
-      "currentVotes": 4,
-      "isGroup": true
+      "currentVotes": ["U010", "U004", "U017","U022"]
     },
     {
       "id": 7,
@@ -201,9 +181,7 @@
       "eventDateTime": "2023/12/07 15:00",
       "initiator": "李欣怡",
       "invitees": "",
-      "minGroupSize": 10,
-      "currentVotes": 2,
-      "isGroup": false
+      "currentVotes": ["U017", "U015", "U014"]
     },
     {
       "id": 8,
@@ -214,9 +192,7 @@
       "eventDateTime": "2023/12/07 15:00",
       "initiator": "李欣怡",
       "invitees": "鄭雅筑",
-      "minGroupSize": 8,
-      "currentVotes": 1,
-      "isGroup": false
+      "currentVotes": ["U017", "U014", "U012"]
     },
     {
       "id": 9,
@@ -227,9 +203,7 @@
       "eventDateTime": "2023/12/07 15:00",
       "initiator": "李欣怡",
       "invitees": "",
-      "minGroupSize": 5,
-      "currentVotes": 3,
-      "isGroup": false
+      "currentVotes": ["U022", "U019", "U018"]
     },
     {
       "id": 10,
@@ -240,9 +214,7 @@
       "eventDateTime": "2023/10/20 16:00",
       "initiator": "盧子晴",
       "invitees": "",
-      "minGroupSize": 5,
-      "currentVotes": 2,
-      "isGroup": false
+      "currentVotes": ["U004", "U001"]
     },
     {
       "id": 11,
@@ -253,9 +225,7 @@
       "eventDateTime": "2023/10/20 16:00",
       "initiator": "盧子晴",
       "invitees": "",
-      "minGroupSize": 5,
-      "currentVotes": 1,
-      "isGroup": false
+      "currentVotes": ["U021"]
     },
     {
       "id": 12,
@@ -266,9 +236,7 @@
       "eventDateTime": "2023/10/20 16:00",
       "initiator": "盧子晴",
       "invitees": "",
-      "minGroupSize": 5,
-      "currentVotes": 2,
-      "isGroup": false
+      "currentVotes": ["U016", "U018", "U014"]
     }
   ],
   "orders": [
@@ -850,6 +818,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1.jpg?raw=true",
       "summary": "專注於高品質的茶葉，提供多款精選茶飲和冷泡茶",
+      "minGroupSize": 5,
       "products": [
         {
           "UID": "B001-001",
@@ -1023,6 +992,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverge-2-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-2.jpg?raw=true",
       "summary": "在這裡，您將品味到別樣的酸甜饗宴，豐富多元的選擇將滿足您對於獨特口味的追求",
+      "minGroupSize": 5,
       "products": [
         {
           "UID": "B002-001",
@@ -1196,6 +1166,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverge-3-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-3.jpg?raw=true",
       "summary": "以創意與熱情，我們致力於為您帶來一份清新活力，每一口都是對於生活最美好的呼應",
+      "minGroupSize": 4,
       "products": [
         {
           "UID": "B003-001",
@@ -1369,6 +1340,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverge-4-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-4.jpg?raw=true",
       "summary": "您將享受到酸酸甜甜的愉悅滋味，綻放您忙碌日常的一抹綠意，讓您隨時都能沉浸在愉快的味覺饗宴中。",
+      "minGroupSize": 4,
       "products": [
         {
           "UID": "B004-001",
@@ -1542,6 +1514,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-1-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-1.jpg?raw=true",
       "summary": "無論是外帶還是內用，我們的速食店提供迅速的服務，讓您隨時都能享受到快速美味的美食享受",
+      "minGroupSize": 8,
       "products": [
         {
           "UID": "F001-001",
@@ -1715,6 +1688,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-2-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-2.jpg?raw=true",
       "summary": "在我們的速食店，您將品嚐到優質食材結合創意烹飪的美味佳餚，為您的味蕾帶來愉悅的驚喜。",
+      "minGroupSize": 5,
       "products": [
         {
           "UID": "F002-001",
@@ -1888,6 +1862,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-3-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-3.jpg?raw=true",
       "summary": "我們提供多樣化的速食選項，從經典漢堡到口感豐富的薯條，讓您在匆忙時刻也能享受美味滿足",
+      "minGroupSize": 3,
       "products": [
         {
           "UID": "F003-001",
@@ -2061,6 +2036,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4.jpg?raw=true",
       "summary": "快速、美味、方便是我們的宗旨，專為現代生活節奏而設計的美食選擇，讓您輕鬆品味美味",
+      "minGroupSize": 5,
       "products": [
         {
           "UID": "F004-001",
@@ -2234,6 +2210,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-1-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-1.jpg?raw=true",
       "summary": "我們強調健康與美味的平衡，用心烹調每一道素食佳餚，讓您享受不只是一頓餐點，更是一場對身心的呵護",
+      "minGroupSize": 3,
       "products": [
         {
           "UID": "V001-001",
@@ -2407,6 +2384,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-2-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-2.jpg?raw=true",
       "summary": "每一道菜都融合了豐富的蔬菜、水果和植物性食材，為您帶來口感豐富的素食體驗",
+      "minGroupSize": 5,
       "products": [
         {
           "UID": "V002-001",
@@ -2580,6 +2558,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-3-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-3.jpg?raw=true",
       "summary": "致力於提供美味的素食選擇，讓您品味到純粹的自然滋味，以綠色營養為基底，呈現出令人驚艷的素食美食世界",
+      "minGroupSize": 4,
       "products": [
         {
           "UID": "V003-001",
@@ -2753,6 +2732,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-4-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-4.jpg?raw=true",
       "summary": "深信素食對健康與環境的重要性，我們的素食餐廳不僅為您帶來美味，更是一個推動可持續生活方式的呼籲，讓您的每一口都是對大自然的尊重",
+      "minGroupSize": 3,
       "products": [
         {
           "UID": "V004-001",
@@ -2926,6 +2906,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-1-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-1.jpg?raw=true",
       "summary": "品味道地街頭美食的獨特風味，充滿著懷舊與美味的絕妙結合，讓您一嚐即回味",
+      "minGroupSize": 5,
       "products": [
         {
           "UID": "S001-001",
@@ -3099,6 +3080,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-2-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-2.jpg?raw=true",
       "summary": "從香噴噴的炸雞到口感豐富的炒麵，滿足您對於道地美食的渴望",
+      "minGroupSize": 6,
       "products": [
         {
           "UID": "S002-001",
@@ -3272,6 +3254,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-3-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-3.jpg?raw=true",
       "summary": "在這片小小的街頭，我們用心製作每一道美味，為您帶來色香味俱全的傳統風味，成就一場美食的驚喜之旅",
+      "minGroupSize": 5,
       "products": [
         {
           "UID": "S003-001",
@@ -3445,6 +3428,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-4-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-4.jpg?raw=true",
       "summary": "沿著街角的美食小巷，我們的小吃店為您獻上地道的味道，讓您在忙碌的生活中停下腳步，享受一份濃厚的味蕾愉悅",
+      "minGroupSize": 4,
       "products": [
         {
           "UID": "S004-001",
@@ -3618,6 +3602,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-1-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-1.jpg?raw=true",
       "summary": "我們的甜點，不僅價格親民，更是品味的象徵，可頌的酥脆與戚風蛋糕的輕盈，將為您帶來美味與愉悅，成為您甜蜜生活中不可或缺的一部分",
+      "minGroupSize": 5,
       "products": [
         {
           "UID": "D001-001",
@@ -3791,6 +3776,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-2-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-2.jpg?raw=true",
       "summary": "在這個美味天地，您將品味到經典與創新的完美結合，我們的甜點除了可頌與戚風蛋糕外，還有豐富選擇等待您一一探索",
+      "minGroupSize": 4,
       "products": [
         {
           "UID": "D002-001",
@@ -3964,6 +3950,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-3-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-3.jpg?raw=true",
       "summary": "我們的甜點店專注於平價美味，引領您探索甜蜜滋味的世界，多樣選項包括香氣四溢的可頌、輕盈綿密的戚風蛋糕，以及更多驚喜品項等待您品味",
+      "minGroupSize": 6,
       "products": [
         {
           "UID": "D003-001",
@@ -4137,6 +4124,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-4-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-4.jpg?raw=true",
       "summary": "我們引以為傲的戚風蛋糕，融合了輕盈綿密的口感，讓您感受到純粹的甜蜜，多種風味選擇定能滿足您對於甜點的渴望",
+      "minGroupSize": 5,
       "products": [
         {
           "UID": "D004-001",
@@ -4310,6 +4298,7 @@
       "storeCover": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1-s.jpg?raw=true",
       "storeBannerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1.jpg?raw=true",
       "summary": "咖啡是一種藝術，每一杯都是經過訓練有素的咖啡師用心調配，為您獻上一份完美平衡的咖啡體驗",
+      "minGroupSize": 4,
       "products": [
         {
           "UID": "C001-001",
@@ -4479,133 +4468,221 @@
       "id": 1,
       "UID": "U001",
       "userName": "陳瑋",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-16.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-16.jpg?raw=true",
+      "email":"wei-chen@fat-together.com",
+      "password":"wei-chen",
+      "department":"業務部",
+      "team":"服務組"
     },
     {
       "id": 2,
       "UID": "U002",
       "userName": "陳雨潔",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-14.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-14.jpg?raw=true",
+      "email":"yujie-chen@fat-together.com",
+      "password":"yujie-chen",
+      "department":"業務部",
+      "team":"服務組"
     },
     {
       "id": 3,
       "UID": "U003",
       "userName": "盧子晴",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-13.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-13.jpg?raw=true",
+      "email":"cing-lu@fat-together.com",
+      "password":"cing-lu",
+      "department":"會計部",
+      "team":"會計組"
     },
     {
       "id": 4,
       "UID": "U004",
       "userName": "黃莉琳",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-09.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-09.jpg?raw=true",
+      "email":"ling-huang@fat-together.com",
+      "password":"ling-huang",
+      "department":"行銷部",
+      "team":"設計組"
     },
     {
       "id": 5,
       "UID": "U005",
       "userName": "Malina Chanbers",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-15.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-15.jpg?raw=true",
+      "email":"malina-chanbers@fat-together.com",
+      "password":"malina-chanbers",
+      "department":"業務部",
+      "team":"國際組"
     },
     {
       "id": 6,
       "UID": "U006",
       "userName": "劉明峰",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-01.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-01.jpg?raw=true",
+      "email":"ming-liu@fat-together.com",
+      "password":"ming-liu",
+      "department":"行銷部",
+      "team":"設計組"
     },
     {
       "id": 7,
       "UID": "U007",
       "userName": "陳大添",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-11.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-11.jpg?raw=true",
+      "email":"tien-chen@fat-together.com",
+      "password":"tien-chen",
+      "department":"業務部",
+      "team":"客服組"
     },
     {
       "id": 8,
       "UID": "U008",
       "userName": "張三峰",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-09.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-09.jpg?raw=true",
+      "email":"mountain-chang@fat-together.com",
+      "password":"mountain-chang",
+      "department":"業務部",
+      "team":"客服組"
     },
     {
       "id": 9,
       "UID": "U009",
       "userName": "James Williams",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-08.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-08.jpg?raw=true",
+      "email":"James-Williams@fat-together.com",
+      "password":"james-williams",
+      "department":"業務部",
+      "team":"國際組"
     },
     {
       "id": 10,
       "UID": "U010",
-      "userName": "況似棋",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-10.jpg?raw=true"
+      "userName": "況瑋棋",
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-10.jpg?raw=true",
+      "email":"weichi-kuang@fat-together.com",
+      "password":"weichi-kuang",
+      "department":"產品部",
+      "team":"研發組"
     },
     {
       "id": 11,
       "UID": "U011",
       "userName": "劉語柔",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-11.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-11.jpg?raw=true",
+      "email":"rose-liu@fat-together.com",
+      "password":"rose-liu",
+      "department":"產品部",
+      "team":"研發組"
     },
     {
       "id": 12,
       "UID": "U012",
       "userName": "陳健邦",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-06.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-06.jpg?raw=true",
+      "email":"jian-chen@fat-together.com",
+      "password":"jian-chen",
+      "department":"產品部",
+      "team":"業務組"
     },
     {
       "id": 13,
       "UID": "U013",
       "userName": "況似棋",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-04.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-04.jpg?raw=true",
+      "email":"sih-kuan@fat-together.com",
+      "password":"sih-kuan",
+      "department":"行銷部",
+      "team":"設計組"
     },
     {
       "id": 14,
       "UID": "U014",
       "userName": "梅嘉欣",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-07.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-07.jpg?raw=true",
+      "email":"chiashin-mei@fat-together.com",
+      "password":"chiashin-mei",
+      "department":"會計部",
+      "team":"行政組"
     },
     {
       "id": 15,
       "UID": "U015",
       "userName": "Olivia Johnson",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-05.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-05.jpg?raw=true",
+      "email":"olivia-johnson@fat-together.com",
+      "password":"olivia-johnson",
+      "department":"產品部",
+      "team":"研發組"
     },
     {
       "id": 16,
       "UID": "U016",
       "userName": "劉佩珊",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-01.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-01.jpg?raw=true",
+      "email":"pei-liu@fat-together.com",
+      "password":"pei-liu",
+      "department":"產品部",
+      "team":"專案組"
     },
     {
       "id": 17,
       "UID": "U017",
       "userName": "鍾明翰",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-02.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-02.jpg?raw=true",
+      "email":"minhan-chun@fat-together.com",
+      "password":"minhan-chun",
+      "department":"產品部",
+      "team":"專案組"
     },
     {
       "id": 18,
       "UID": "U018",
       "userName": "Mia Lin",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-03.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-03.jpg?raw=true",
+      "email":"mia-lin@fat-together.com",
+      "password":"mia-lin",
+      "department":"業務部",
+      "team":"銷售組"
     },
     {
       "id": 19,
       "UID": "U019",
       "userName": "周信宏",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-03.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-03.jpg?raw=true",
+      "email":"shin-chou@fat-together.com",
+      "password":"shin-chou",
+      "department":"業務部",
+      "team":"銷售組"
     },
     {
       "id": 20,
       "UID": "U020",
       "userName": "溫雅琪",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-08.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-08.jpg?raw=true",
+      "email":"chin-wen@fat-together.com",
+      "password":"chin-wen",
+      "department":"業務部",
+      "team":"銷售組"
     },
     {
       "id": 21,
       "UID": "U021",
       "userName": "趙文杰",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-02.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-02.jpg?raw=true",
+      "email":"wenchie-chao@fat-together.com",
+      "password":"wenchie-chao",
+      "department":"會計部",
+      "team":"會計組"
     },
     {
       "id": 22,
       "UID": "U022",
       "userName": "Daniel Brown",
-      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-10.jpg?raw=true"
+      "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-10.jpg?raw=true",
+      "email":"daniel-brown@fat-together.com",
+      "password":"daniel-brown",
+      "department":"會計部",
+      "team":"行政組"
     }
   ]
 }
