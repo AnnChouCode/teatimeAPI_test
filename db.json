@@ -126,7 +126,7 @@
       "eventDateTime": "2023/11/30 13:30",
       "initiator": "盧子晴",
       "invitees": "",
-      "currentVotes": ["U009"]
+      "currentVoters": ["U009"]
     },
     {
       "id": 3,
@@ -137,7 +137,7 @@
       "eventDateTime": "2023/11/30 13:30",
       "initiator": "盧子晴",
       "invitees": "",
-      "currentVotes": ["U021","U004"]
+      "currentVoters": ["U021","U004"]
     },
     {
       "id": 4,
@@ -148,7 +148,7 @@
       "eventDateTime": "2023/12/08 16:00",
       "initiator": "黃莉琳",
       "invitees": "黃莉琳",
-      "currentVotes": ["U021", "U004", "U001"]
+      "currentVoters": ["U021", "U004", "U001"]
     },
     {
       "id": 5,
@@ -159,7 +159,7 @@
       "eventDateTime": "2023/12/08 16:00",
       "initiator": "黃莉琳",
       "invitees": "黃莉琳",
-      "currentVotes": ["U022", "U013", "U007"]
+      "currentVoters": ["U022", "U013", "U007"]
     },
     {
       "id": 6,
@@ -170,7 +170,7 @@
       "eventDateTime": "2023/12/08 16:00",
       "initiator": "黃莉琳",
       "invitees": "黃莉琳",
-      "currentVotes": ["U010", "U004", "U017","U022"]
+      "currentVoters": ["U010", "U004", "U017","U022"]
     },
     {
       "id": 7,
@@ -181,7 +181,7 @@
       "eventDateTime": "2023/12/07 15:00",
       "initiator": "李欣怡",
       "invitees": "",
-      "currentVotes": ["U017", "U015", "U014"]
+      "currentVoters": ["U017", "U015", "U014"]
     },
     {
       "id": 8,
@@ -192,7 +192,7 @@
       "eventDateTime": "2023/12/07 15:00",
       "initiator": "李欣怡",
       "invitees": "鄭雅筑",
-      "currentVotes": ["U017", "U014", "U012"]
+      "currentVoters": ["U017", "U014", "U012"]
     },
     {
       "id": 9,
@@ -203,7 +203,7 @@
       "eventDateTime": "2023/12/07 15:00",
       "initiator": "李欣怡",
       "invitees": "",
-      "currentVotes": ["U022", "U019", "U018"]
+      "currentVoters": ["U022", "U019", "U018"]
     },
     {
       "id": 10,
@@ -214,7 +214,7 @@
       "eventDateTime": "2023/10/20 16:00",
       "initiator": "盧子晴",
       "invitees": "",
-      "currentVotes": ["U004", "U001"]
+      "currentVoters": ["U004", "U001"]
     },
     {
       "id": 11,
@@ -225,7 +225,7 @@
       "eventDateTime": "2023/10/20 16:00",
       "initiator": "盧子晴",
       "invitees": "",
-      "currentVotes": ["U021"]
+      "currentVoters": ["U021"]
     },
     {
       "id": 12,
@@ -236,7 +236,7 @@
       "eventDateTime": "2023/10/20 16:00",
       "initiator": "盧子晴",
       "invitees": "",
-      "currentVotes": ["U016", "U018", "U014"]
+      "currentVoters": ["U016", "U018", "U014"]
     }
   ],
   "orders": [
