@@ -3,7 +3,7 @@
     {
       "id": 1,
       "UID": "G001",
-      "restaurantId":1,
+      "restaurantId": 1,
       "restaurantName": "茶源 ChaSource",
       "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-s.jpg?raw=true",
       "deadlineDateTime": "2023/12/05 14:00",
@@ -18,7 +18,7 @@
       "id": 2,
       "UID": "G002",
       "restaurantName": "涎飲",
-      "restaurantId":4,
+      "restaurantId": 4,
       "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverge-4-s.jpg?raw=true",
       "deadlineDateTime": "2023/11/29 15:00",
       "eventDateTime": "2023/11/30 15:30",
@@ -32,7 +32,7 @@
       "id": 3,
       "UID": "G003",
       "restaurantName": "綠意軒",
-      "restaurantId":9,
+      "restaurantId": 9,
       "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-1-s.jpg?raw=true",
       "deadlineDateTime": "2023/12/04 16:00",
       "eventDateTime": "2023/12/05 14:30",
@@ -46,7 +46,7 @@
       "id": 4,
       "UID": "G004",
       "restaurantName": "胖小吃",
-      "restaurantId":15,
+      "restaurantId": 15,
       "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-3-s.jpg?raw=true",
       "deadlineDateTime": "2023/12/11 15:30",
       "eventDateTime": "2023/12/12 16:00",
@@ -60,7 +60,7 @@
       "id": 5,
       "UID": "G005",
       "restaurantName": "茶源 ChaSource",
-      "restaurantId":1,
+      "restaurantId": 1,
       "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-s.jpg?raw=true",
       "deadlineDateTime": "2023/11/05 14:00",
       "eventDateTime": "2023/11/06 14:00",
@@ -74,7 +74,7 @@
       "id": 6,
       "UID": "G006",
       "restaurantName": "糖霜繪本",
-      "restaurantId":19,
+      "restaurantId": 19,
       "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-3-s.jpg?raw=true",
       "deadlineDateTime": "2023/12/12 13:00",
       "eventDateTime": "2023/12/13 14:30",
@@ -87,7 +87,7 @@
     {
       "id": 7,
       "UID": "G007",
-      "restaurantId":21,
+      "restaurantId": 21,
       "restaurantName": "Leisurely Café",
       "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1-s.jpg?raw=true",
       "deadlineDateTime": "2023/10/25 13:00",
@@ -101,7 +101,7 @@
     {
       "id": 8,
       "UID": "G008",
-      "restaurantId":3,
+      "restaurantId": 3,
       "restaurantName": "起床喝飲料",
       "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-1-s.jpg?raw=true",
       "deadlineDateTime": "2023/12/15 16:00",
@@ -112,13 +112,12 @@
       "currentGroupCondition": 2,
       "isGroup": false
     }
-    
   ],
   "votings": [
     {
       "id": 1,
       "UID": "V001",
-      "restaurantId":7,
+      "restaurantId": 7,
       "restaurantName": "速食窩",
       "deadlineDateTime": "2023/11/27 16:00",
       "eventDateTime": "2023/11/30 13:30",
@@ -131,7 +130,7 @@
     {
       "id": 2,
       "UID": "V001",
-      "restaurantId":8,
+      "restaurantId": 8,
       "restaurantName": "飛餐",
       "deadlineDateTime": "2023/11/27 16:00",
       "eventDateTime": "2023/11/30 13:30",
@@ -144,8 +143,8 @@
     {
       "id": 3,
       "UID": "V001",
-      "restaurantId":3,
-      "restaurantName": "起床喝飲料",      
+      "restaurantId": 3,
+      "restaurantName": "起床喝飲料",
       "deadlineDateTime": "2023/11/27 16:00",
       "eventDateTime": "2023/11/30 13:30",
       "initiator": "盧子晴",
@@ -157,8 +156,8 @@
     {
       "id": 4,
       "UID": "V002",
-      "restaurantId":2,
-      "restaurantName": "洋行紅茶", 
+      "restaurantId": 2,
+      "restaurantName": "洋行紅茶",
       "deadlineDateTime": "2023/12/05 17:00",
       "eventDateTime": "2023/12/08 16:00",
       "initiator": "黃莉琳",
@@ -170,7 +169,7 @@
     {
       "id": 5,
       "UID": "V002",
-      "restaurantId":1,
+      "restaurantId": 1,
       "restaurantName": "茶源 ChaSource",
       "deadlineDateTime": "2023/12/05 17:00",
       "eventDateTime": "2023/12/08 16:00",
@@ -183,7 +182,7 @@
     {
       "id": 6,
       "UID": "V002",
-      "restaurantId":4,
+      "restaurantId": 4,
       "restaurantName": "涎飲",
       "deadlineDateTime": "2023/12/05 17:00",
       "eventDateTime": "2023/12/08 16:00",
@@ -196,7 +195,7 @@
     {
       "id": 7,
       "UID": "V003",
-      "restaurantId":20,
+      "restaurantId": 20,
       "restaurantName": "空姐 巴黎甜點",
       "deadlineDateTime": "2023/12/06 13:00",
       "eventDateTime": "2023/12/07 15:00",
@@ -209,7 +208,7 @@
     {
       "id": 8,
       "UID": "V003",
-      "restaurantId":21,
+      "restaurantId": 21,
       "restaurantName": "Leisurely Café",
       "deadlineDateTime": "2023/12/06 13:00",
       "eventDateTime": "2023/12/07 15:00",
@@ -222,7 +221,7 @@
     {
       "id": 9,
       "UID": "V003",
-      "restaurantId":8,
+      "restaurantId": 8,
       "restaurantName": "飛餐",
       "deadlineDateTime": "2023/12/06 13:00",
       "eventDateTime": "2023/12/07 15:00",
@@ -235,7 +234,7 @@
     {
       "id": 10,
       "UID": "V004",
-      "restaurantId":3,
+      "restaurantId": 3,
       "restaurantName": "起床喝飲料",
       "deadlineDateTime": "2023/10/19 16:00",
       "eventDateTime": "2023/10/20 16:00",
@@ -248,7 +247,7 @@
     {
       "id": 11,
       "UID": "V004",
-      "restaurantId":8,
+      "restaurantId": 8,
       "restaurantName": "飛餐",
       "deadlineDateTime": "2023/10/19 16:00",
       "eventDateTime": "2023/10/20 16:00",
@@ -261,7 +260,7 @@
     {
       "id": 12,
       "UID": "V004",
-      "restaurantId":7,
+      "restaurantId": 7,
       "restaurantName": "速食窩",
       "deadlineDateTime": "2023/10/19 16:00",
       "eventDateTime": "2023/10/20 16:00",
@@ -413,7 +412,30 @@
       "eventDateTime": "2023/11/30  16:00",
       "initiator": "許嘉豪",
       "invitees": "許嘉豪",
-      "orderDetail": []
+      "orderDetail": [
+        {
+          "name": "黃莉琳",
+          "orderItem": "柔霧",
+          "quantity": 1,
+          "ice": "去冰",
+          "sugar": "全糖",
+          "customization": "",
+          "comments": "",
+          "totalAmount": 55,
+          "isPay": true
+        },
+        {
+          "name": "黃莉琳",
+          "orderItem": "柔霧",
+          "quantity": 1,
+          "ice": "去冰",
+          "sugar": "全糖",
+          "customization": "",
+          "comments": "",
+          "totalAmount": 65,
+          "isPay": true
+        }
+      ]
     },
     {
       "id": 4,
@@ -422,6 +444,50 @@
       "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1-logo.jpg?raw=true",
       "eventDateTime": "2023/12/04  14:00",
       "initiator": "李欣怡",
+      "invitees": "",
+      "orderDetail": [
+        {
+          "name": "黃莉琳",
+          "orderItem": "柔霧",
+          "quantity": 1,
+          "ice": "去冰",
+          "sugar": "全糖",
+          "customization": "",
+          "comments": "",
+          "totalAmount": 35,
+          "isPay": true
+        },
+        {
+          "name": "黃莉琳",
+          "orderItem": "柔霧",
+          "quantity": 1,
+          "ice": "去冰",
+          "sugar": "全糖",
+          "customization": "",
+          "comments": "",
+          "totalAmount": 65,
+          "isPay": true
+        },
+        {
+          "name": "黃莉琳",
+          "orderItem": "柔霧",
+          "quantity": 1,
+          "ice": "去冰",
+          "sugar": "全糖",
+          "customization": "",
+          "comments": "",
+          "totalAmount": 85,
+          "isPay": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "UID": "O005",
+      "restaurant": "飛餐",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
+      "eventDateTime": "2023/12/12  16:00",
+      "initiator": "鄭雅筑",
       "invitees": "",
       "orderDetail": []
     },
@@ -433,7 +499,52 @@
       "eventDateTime": "2023/12/12  16:00",
       "initiator": "鄭雅筑",
       "invitees": "",
-      "orderDetail": []
+      "orderDetail": [
+        {
+          "name": "黃莉琳",
+          "orderItem": "柔霧",
+          "quantity": 1,
+          "ice": "去冰",
+          "sugar": "全糖",
+          "customization": "",
+          "comments": "",
+          "totalAmount": 45,
+          "isPay": true
+        },
+        {
+          "name": "黃莉琳",
+          "orderItem": "柔霧",
+          "quantity": 1,
+          "ice": "去冰",
+          "sugar": "全糖",
+          "customization": "",
+          "comments": "",
+          "totalAmount": 35,
+          "isPay": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "UID": "O005",
+      "restaurant": "飛餐",
+      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
+      "eventDateTime": "2023/12/12  16:00",
+      "initiator": "鄭雅筑",
+      "invitees": "",
+      "orderDetail": [
+        {
+          "name": "黃莉琳",
+          "orderItem": "柔霧",
+          "quantity": 1,
+          "ice": "去冰",
+          "sugar": "全糖",
+          "customization": "",
+          "comments": "",
+          "totalAmount": 50,
+          "isPay": true
+        }
+      ]
     }
   ],
   "ratings": [
