@@ -321,7 +321,7 @@
           "quantity": 1,
           "ice": "去冰",
           "sugar": "全糖",
-          "customization": "",
+          "customization": "越甜越好",
           "comments": "",
           "totalAmount": 35,
           "isPay": true
@@ -396,9 +396,9 @@
           "name": "黃莉琳",
           "orderItem": "柔霧",
           "quantity": 1,
-          "ice": "去冰",
+          "ice": "少冰",
           "sugar": "全糖",
-          "customization": "",
+          "customization": "加蜂蜜",
           "comments": "",
           "totalAmount": 65,
           "isPay": true
@@ -438,11 +438,11 @@
         },
         {
           "name": "黃莉琳",
-          "orderItem": "柔霧",
+          "orderItem": "蜜香",
           "quantity": 1,
           "ice": "去冰",
           "sugar": "全糖",
-          "customization": "",
+          "customization": "蜂蜜多一點",
           "comments": "",
           "totalAmount": 85,
           "isPay": true
@@ -458,61 +458,6 @@
       "initiator": "鄭雅筑",
       "invitees": "",
       "orderDetail": []
-    },
-    {
-      "id": 5,
-      "UID": "O005",
-      "restaurant": "飛餐",
-      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
-      "eventDateTime": "2023/12/12  16:00",
-      "initiator": "鄭雅筑",
-      "invitees": "",
-      "orderDetail": [
-        {
-          "name": "黃莉琳",
-          "orderItem": "柔霧",
-          "quantity": 1,
-          "ice": "去冰",
-          "sugar": "全糖",
-          "customization": "",
-          "comments": "",
-          "totalAmount": 45,
-          "isPay": true
-        },
-        {
-          "name": "黃莉琳",
-          "orderItem": "柔霧",
-          "quantity": 1,
-          "ice": "去冰",
-          "sugar": "全糖",
-          "customization": "",
-          "comments": "",
-          "totalAmount": 35,
-          "isPay": true
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "UID": "O005",
-      "restaurant": "飛餐",
-      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
-      "eventDateTime": "2023/12/12  16:00",
-      "initiator": "鄭雅筑",
-      "invitees": "",
-      "orderDetail": [
-        {
-          "name": "黃莉琳",
-          "orderItem": "柔霧",
-          "quantity": 1,
-          "ice": "去冰",
-          "sugar": "全糖",
-          "customization": "",
-          "comments": "",
-          "totalAmount": 50,
-          "isPay": true
-        }
-      ]
     }
   ],
   "ratings": [
