@@ -11,6 +11,7 @@
       "initiator": "黃莉琳",
       "invitees": "黃莉琳",
       "currentGroupCondition": 5,
+      "targetGroupCondition": 4,
       "isGroup": true
     },
     {
@@ -24,6 +25,7 @@
       "initiator": "盧子晴",
       "invitees": "",
       "currentGroupCondition": 10,
+      "targetGroupCondition": 5,
       "isGroup": true
     },
     {
@@ -37,6 +39,7 @@
       "initiator": "陳雨潔",
       "invitees": "",
       "currentGroupCondition": 2,
+      "targetGroupCondition": 4,
       "isGroup": false
     },
     {
@@ -50,6 +53,7 @@
       "initiator": "黃靜怡",
       "invitees": "",
       "currentGroupCondition": 2,
+      "targetGroupCondition": 6,
       "isGroup": false
     },
     {
@@ -63,6 +67,7 @@
       "initiator": "許嘉豪",
       "invitees": "許嘉豪",
       "currentGroupCondition": 5,
+      "targetGroupCondition": 5,
       "isGroup": true
     },
     {
@@ -76,6 +81,7 @@
       "initiator": "張雨菲",
       "invitees": "",
       "currentGroupCondition": 8,
+      "targetGroupCondition": 7,
       "isGroup": true
     },
     {
@@ -87,7 +93,7 @@
       "deadlineDateTime": "2023/10/25 13:00",
       "eventDateTime": "2023/10/26 14:30",
       "initiator": "黃莉琳",
-      "invitees": "",
+      "invitees": "盧子晴",
       "currentGroupCondition": 8,
       "isGroup": true
     },
@@ -100,8 +106,9 @@
       "deadlineDateTime": "2023/12/15 16:00",
       "eventDateTime": "2023/12/16 14:30",
       "initiator": "黃莉琳",
-      "invitees": "",
+      "invitees": "陳瑋",
       "currentGroupCondition": 2,
+      "targetGroupCondition": 4,
       "isGroup": false
     }
   ],
@@ -258,7 +265,8 @@
           "customization": "",
           "comments": "",
           "totalAmount": 35,
-          "isPay": true
+          "isPay": true,
+          "ratingID":""
         },
         {
           "name": "張三峰",
@@ -269,7 +277,8 @@
           "customization": "珍珠",
           "comments": "越甜越好",
           "totalAmount": 30,
-          "isPay": false
+          "isPay": false,
+          "ratingID":""
         },
         {
           "name": "黃莉琳",
@@ -277,10 +286,11 @@
           "quantity": 2,
           "ice": "微冰",
           "sugar": "半糖",
-          "customization": "",
-          "comments": "",
+          "customization": "珍珠、椰果",
+          "comments": "越甜越好",
           "totalAmount": 45,
-          "isPay": true
+          "isPay": true,
+          "ratingID":"R004"
         },
         {
           "name": "黃莉琳",
@@ -288,10 +298,11 @@
           "quantity": 1,
           "ice": "少冰",
           "sugar": "無糖",
-          "customization": "",
-          "comments": "",
+          "customization": "珍珠",
+          "comments": "黑糖多一點",
           "totalAmount": 60,
-          "isPay": false
+          "isPay": false,
+          "ratingID":""
         },
         {
           "name": "劉語柔",
@@ -302,7 +313,8 @@
           "customization": "",
           "comments": "酸一點",
           "totalAmount": 40,
-          "isPay": true
+          "isPay": true,
+          "ratingID":""
         }
       ]
     },
@@ -321,10 +333,11 @@
           "quantity": 1,
           "ice": "去冰",
           "sugar": "全糖",
-          "customization": "越甜越好",
-          "comments": "",
+          "customization": "",
+          "comments": "酸一點",
           "totalAmount": 35,
-          "isPay": true
+          "isPay": true,
+          "ratingID":""
         },
         {
           "name": "張三峰",
@@ -335,7 +348,8 @@
           "customization": "珍珠",
           "comments": "越甜越好",
           "totalAmount": 30,
-          "isPay": false
+          "isPay": false,
+          "ratingID":""
         },
         {
           "name": "James Williams",
@@ -346,7 +360,8 @@
           "customization": "",
           "comments": "",
           "totalAmount": 45,
-          "isPay": true
+          "isPay": true,
+          "ratingID":""
         },
         {
           "name": "James Williams",
@@ -357,7 +372,8 @@
           "customization": "",
           "comments": "",
           "totalAmount": 60,
-          "isPay": false
+          "isPay": false,
+          "ratingID":""
         },
         {
           "name": "劉語柔",
@@ -368,7 +384,8 @@
           "customization": "",
           "comments": "酸一點",
           "totalAmount": 40,
-          "isPay": true
+          "isPay": true,
+          "ratingID":""
         }
       ]
     },
@@ -387,10 +404,11 @@
           "quantity": 1,
           "ice": "去冰",
           "sugar": "全糖",
-          "customization": "",
+          "customization": "仙草凍",
           "comments": "",
           "totalAmount": 55,
-          "isPay": true
+          "isPay": true,
+          "ratingID":""
         },
         {
           "name": "黃莉琳",
@@ -398,10 +416,11 @@
           "quantity": 1,
           "ice": "少冰",
           "sugar": "全糖",
-          "customization": "加蜂蜜",
-          "comments": "",
+          "customization": "蜂蜜",
+          "comments": "越甜越好",
           "totalAmount": 65,
-          "isPay": true
+          "isPay": true,
+          "ratingID":""
         }
       ]
     },
@@ -420,10 +439,11 @@
           "quantity": 1,
           "ice": "去冰",
           "sugar": "全糖",
-          "customization": "",
-          "comments": "",
+          "customization": "珍珠、椰果",
+          "comments": "越甜越好",
           "totalAmount": 35,
-          "isPay": true
+          "isPay": true,
+          "ratingID":"R009"
         },
         {
           "name": "黃莉琳",
@@ -431,10 +451,11 @@
           "quantity": 1,
           "ice": "去冰",
           "sugar": "全糖",
-          "customization": "",
-          "comments": "",
+          "customization": "粉條",
+          "comments": "酸一點",
           "totalAmount": 65,
-          "isPay": true
+          "isPay": true,
+          "ratingID":""
         },
         {
           "name": "黃莉琳",
@@ -442,22 +463,13 @@
           "quantity": 1,
           "ice": "去冰",
           "sugar": "全糖",
-          "customization": "蜂蜜多一點",
-          "comments": "",
+          "customization": "蜂蜜",
+          "comments": "蜂蜜多一點",
           "totalAmount": 85,
-          "isPay": true
+          "isPay": true,
+          "ratingID":""
         }
       ]
-    },
-    {
-      "id": 5,
-      "UID": "O005",
-      "restaurant": "飛餐",
-      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/fastfood/fastfood-4-logo.jpg?raw=true",
-      "eventDateTime": "2023/12/12  16:00",
-      "initiator": "鄭雅筑",
-      "invitees": "",
-      "orderDetail": []
     }
   ],
   "ratings": [
@@ -544,11 +556,11 @@
     {
       "id": 9,
       "UID": "R009",
-      "reviewer": "James Williams",
+      "reviewer": "黃莉琳",
       "reviewerPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-08.jpg?raw=true",
-      "starRating": 3,
+      "starRating": 1,
       "feedbackText": "簡直難喝到極點，口感完全失敗，讓我非常失望。絕對不會再來第二次",
-      "reviewedRestaurant": "涎飲",
+      "reviewedRestaurant": "Leisurely Café",
       "reviewDateTime": "2023/11/03"
     },
     {
