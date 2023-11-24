@@ -293,8 +293,8 @@
       "UID": "V005",
       "restaurantId": 19,
       "restaurantName": "糖霜繪本",
-      "deadlineDateTime": "2023/12/28 14:00",
-      "eventDateTime": "2023/12/30 16:00",
+      "deadlineDateTime": "2024/01/04 14:00",
+      "eventDateTime": "2024/01/02 16:00",
       "initiator": "陳健邦",
       "invitees": "",
       "currentVoters": [
@@ -304,11 +304,11 @@
     },
     {
       "id": 14,
-      "UID": "C001",
+      "UID": "V005",
       "restaurantId": 21,
       "restaurantName": "咖啡",
-      "deadlineDateTime": "2023/12/28 14:00",
-      "eventDateTime": "2023/12/30 16:00",
+      "deadlineDateTime": "2024/01/04 14:00",
+      "eventDateTime": "2024/01/02 16:00",
       "initiator": "陳健邦",
       "invitees": "",
       "currentVoters": [
