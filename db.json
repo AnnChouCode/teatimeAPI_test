@@ -95,6 +95,7 @@
       "initiator": "黃莉琳",
       "invitees": "盧子晴",
       "currentGroupCondition": 8,
+      "targetGroupCondition": 4,
       "isGroup": true
     },
     {
@@ -122,7 +123,10 @@
       "eventDateTime": "2023/11/30 13:30",
       "initiator": "盧子晴",
       "invitees": "",
-      "currentVoters": ["U004","U013"]
+      "currentVoters": [
+        "U004",
+        "U013"
+      ]
     },
     {
       "id": 2,
@@ -133,7 +137,9 @@
       "eventDateTime": "2023/11/30 13:30",
       "initiator": "盧子晴",
       "invitees": "",
-      "currentVoters": ["U009"]
+      "currentVoters": [
+        "U009"
+      ]
     },
     {
       "id": 3,
@@ -144,7 +150,10 @@
       "eventDateTime": "2023/11/30 13:30",
       "initiator": "盧子晴",
       "invitees": "",
-      "currentVoters": ["U021","U004"]
+      "currentVoters": [
+        "U021",
+        "U004"
+      ]
     },
     {
       "id": 4,
@@ -155,7 +164,11 @@
       "eventDateTime": "2023/12/08 16:00",
       "initiator": "黃莉琳",
       "invitees": "黃莉琳",
-      "currentVoters": ["U021", "U004", "U001"]
+      "currentVoters": [
+        "U021",
+        "U004",
+        "U001"
+      ]
     },
     {
       "id": 5,
@@ -166,7 +179,11 @@
       "eventDateTime": "2023/12/08 16:00",
       "initiator": "黃莉琳",
       "invitees": "黃莉琳",
-      "currentVoters": ["U022", "U013", "U007"]
+      "currentVoters": [
+        "U022",
+        "U013",
+        "U007"
+      ]
     },
     {
       "id": 6,
@@ -177,7 +194,12 @@
       "eventDateTime": "2023/12/08 16:00",
       "initiator": "黃莉琳",
       "invitees": "黃莉琳",
-      "currentVoters": ["U010", "U004", "U017","U022"]
+      "currentVoters": [
+        "U010",
+        "U004",
+        "U017",
+        "U022"
+      ]
     },
     {
       "id": 7,
@@ -188,7 +210,11 @@
       "eventDateTime": "2023/12/07 15:00",
       "initiator": "李欣怡",
       "invitees": "",
-      "currentVoters": ["U017", "U015", "U014"]
+      "currentVoters": [
+        "U017",
+        "U015",
+        "U014"
+      ]
     },
     {
       "id": 8,
@@ -199,7 +225,11 @@
       "eventDateTime": "2023/12/07 15:00",
       "initiator": "李欣怡",
       "invitees": "鄭雅筑",
-      "currentVoters": ["U017", "U014", "U012"]
+      "currentVoters": [
+        "U017",
+        "U014",
+        "U012"
+      ]
     },
     {
       "id": 9,
@@ -210,7 +240,11 @@
       "eventDateTime": "2023/12/07 15:00",
       "initiator": "李欣怡",
       "invitees": "",
-      "currentVoters": ["U022", "U019", "U018"]
+      "currentVoters": [
+        "U022",
+        "U019",
+        "U018"
+      ]
     },
     {
       "id": 10,
@@ -221,7 +255,10 @@
       "eventDateTime": "2023/10/20 16:00",
       "initiator": "盧子晴",
       "invitees": "",
-      "currentVoters": ["U004", "U001"]
+      "currentVoters": [
+        "U004",
+        "U001"
+      ]
     },
     {
       "id": 11,
@@ -232,7 +269,9 @@
       "eventDateTime": "2023/10/20 16:00",
       "initiator": "盧子晴",
       "invitees": "",
-      "currentVoters": ["U021"]
+      "currentVoters": [
+        "U021"
+      ]
     },
     {
       "id": 12,
@@ -243,7 +282,40 @@
       "eventDateTime": "2023/10/20 16:00",
       "initiator": "盧子晴",
       "invitees": "",
-      "currentVoters": ["U016", "U018", "U014"]
+      "currentVoters": [
+        "U016",
+        "U018",
+        "U014"
+      ]
+    },
+    {
+      "id": 13,
+      "UID": "V005",
+      "restaurantId": 19,
+      "restaurantName": "糖霜繪本",
+      "deadlineDateTime": "2023/12/28 14:00",
+      "eventDateTime": "2023/12/30 16:00",
+      "initiator": "陳健邦",
+      "invitees": "",
+      "currentVoters": [
+        "U002",
+        "U012"
+      ]
+    },
+    {
+      "id": 14,
+      "UID": "C001",
+      "restaurantId": 21,
+      "restaurantName": "咖啡",
+      "deadlineDateTime": "2023/12/28 14:00",
+      "eventDateTime": "2023/12/30 16:00",
+      "initiator": "陳健邦",
+      "invitees": "",
+      "currentVoters": [
+        "U002",
+        "U018",
+        "U012"
+      ]
     }
   ],
   "orders": [
@@ -266,7 +338,7 @@
           "comments": "",
           "totalAmount": 35,
           "isPay": true,
-          "ratingID":""
+          "ratingID": ""
         },
         {
           "name": "張三峰",
@@ -278,7 +350,7 @@
           "comments": "越甜越好",
           "totalAmount": 30,
           "isPay": false,
-          "ratingID":""
+          "ratingID": ""
         },
         {
           "name": "黃莉琳",
@@ -290,7 +362,7 @@
           "comments": "越甜越好",
           "totalAmount": 45,
           "isPay": true,
-          "ratingID":"R004"
+          "ratingID": "R004"
         },
         {
           "name": "黃莉琳",
@@ -302,7 +374,7 @@
           "comments": "黑糖多一點",
           "totalAmount": 60,
           "isPay": false,
-          "ratingID":""
+          "ratingID": ""
         },
         {
           "name": "劉語柔",
@@ -314,7 +386,7 @@
           "comments": "酸一點",
           "totalAmount": 40,
           "isPay": true,
-          "ratingID":""
+          "ratingID": ""
         }
       ]
     },
@@ -337,7 +409,7 @@
           "comments": "酸一點",
           "totalAmount": 35,
           "isPay": true,
-          "ratingID":""
+          "ratingID": ""
         },
         {
           "name": "張三峰",
@@ -349,7 +421,7 @@
           "comments": "越甜越好",
           "totalAmount": 30,
           "isPay": false,
-          "ratingID":""
+          "ratingID": ""
         },
         {
           "name": "James Williams",
@@ -361,7 +433,7 @@
           "comments": "",
           "totalAmount": 45,
           "isPay": true,
-          "ratingID":""
+          "ratingID": ""
         },
         {
           "name": "James Williams",
@@ -373,7 +445,7 @@
           "comments": "",
           "totalAmount": 60,
           "isPay": false,
-          "ratingID":""
+          "ratingID": ""
         },
         {
           "name": "劉語柔",
@@ -385,7 +457,7 @@
           "comments": "酸一點",
           "totalAmount": 40,
           "isPay": true,
-          "ratingID":""
+          "ratingID": ""
         }
       ]
     },
@@ -408,7 +480,7 @@
           "comments": "",
           "totalAmount": 55,
           "isPay": true,
-          "ratingID":""
+          "ratingID": ""
         },
         {
           "name": "黃莉琳",
@@ -420,7 +492,7 @@
           "comments": "越甜越好",
           "totalAmount": 65,
           "isPay": true,
-          "ratingID":""
+          "ratingID": ""
         }
       ]
     },
@@ -443,7 +515,7 @@
           "comments": "越甜越好",
           "totalAmount": 35,
           "isPay": true,
-          "ratingID":"R009"
+          "ratingID": "R009"
         },
         {
           "name": "黃莉琳",
@@ -455,7 +527,7 @@
           "comments": "酸一點",
           "totalAmount": 65,
           "isPay": true,
-          "ratingID":""
+          "ratingID": ""
         },
         {
           "name": "黃莉琳",
@@ -467,7 +539,7 @@
           "comments": "蜂蜜多一點",
           "totalAmount": 85,
           "isPay": true,
-          "ratingID":""
+          "ratingID": ""
         }
       ]
     }
@@ -481,6 +553,7 @@
       "starRating": 4,
       "feedbackText": "我今天的幸福都在這裡了，謝謝團主大大！",
       "reviewedRestaurant": "茶源 ChaSource",
+      "restaurantUID": "B001",
       "reviewDateTime": "2023/11/08"
     },
     {
@@ -491,6 +564,7 @@
       "starRating": 5,
       "feedbackText": "飲料口味都很特別，琥珀奶香有夠奶的，濃醇香就是這個意思吧。前幾天忍不住跑到現場，店裝潢的也很漂亮很文青。",
       "reviewedRestaurant": "茶源 ChaSource",
+      "restaurantUID": "B001",
       "reviewDateTime": "2023/11/19"
     },
     {
@@ -501,6 +575,7 @@
       "starRating": 5,
       "feedbackText": "大推柚香翠玉，香味清香撲鼻，茶味甘甜，入口醇郁濃厚，加上葡萄柚的酸爽，清涼退火。還有淡雅桂花香和甘潤烏龍茶味，不僅養顏美容又醇厚好喝。還不趕緊跟著我立刻訂起來！",
       "reviewedRestaurant": "茶源 ChaSource",
+      "restaurantUID": "B001",
       "reviewDateTime": "2023/11/19"
     },
     {
@@ -511,6 +586,7 @@
       "starRating": 5,
       "feedbackText": "喜歡喝後帶來的清新感，每次來都能享受到非常愉快的時光，謝謝店家的用心",
       "reviewedRestaurant": "茶源 ChaSource",
+      "restaurantUID": "B001",
       "reviewDateTime": "2023/11/30"
     },
     {
@@ -521,6 +597,7 @@
       "starRating": 5,
       "feedbackText": "口感普通，價格合理，裝潢雅致，是個平實的飲料店。",
       "reviewedRestaurant": "茶源 ChaSource",
+      "restaurantUID": "B001",
       "reviewDateTime": "2023/12/03"
     },
     {
@@ -531,6 +608,7 @@
       "starRating": 4,
       "feedbackText": "品質一流，價格較高，但每一口都是享受，是個追求品味的極致飲品店。",
       "reviewedRestaurant": "茶源 ChaSource",
+      "restaurantUID": "B001",
       "reviewDateTime": "2023/12/03"
     },
     {
@@ -541,6 +619,7 @@
       "starRating": 4,
       "feedbackText": "飲料清新可口，環境明亮舒適，價格略高但感覺很享受，是個高水準的飲品店",
       "reviewedRestaurant": "茶源 ChaSource",
+      "restaurantUID": "B001",
       "reviewDateTime": "2023/12/31"
     },
     {
@@ -551,6 +630,7 @@
       "starRating": 4,
       "feedbackText": "飲品創意獨特，服務熱情，價格稍高但物有所值，是個值得一試的好地方。",
       "reviewedRestaurant": "茶源 ChaSource",
+      "restaurantUID": "B001",
       "reviewDateTime": "2023/12/31"
     },
     {
@@ -561,6 +641,7 @@
       "starRating": 1,
       "feedbackText": "簡直難喝到極點，口感完全失敗，讓我非常失望。絕對不會再來第二次",
       "reviewedRestaurant": "Leisurely Café",
+      "restaurantUID": "C001",
       "reviewDateTime": "2023/11/03"
     },
     {
@@ -571,6 +652,7 @@
       "starRating": 4,
       "feedbackText": "用料新鮮，製作精湛，一杯飲品帶來的滿足感真的難以言喻。每次喝都有家的感覺",
       "reviewedRestaurant": "涎飲",
+      "restaurantUID": "B004",
       "reviewDateTime": "2023/11/09"
     },
     {
@@ -581,6 +663,7 @@
       "starRating": 5,
       "feedbackText": "選擇多元，每杯飲品都是驚喜",
       "reviewedRestaurant": "涎飲",
+      "restaurantUID": "B004",
       "reviewDateTime": "2023/11/11"
     },
     {
@@ -591,6 +674,7 @@
       "starRating": 4,
       "feedbackText": "口感中規中矩，沒有太多特別的驚喜，但也不錯喝。希望他們可以再加強口味的創新和獨特性",
       "reviewedRestaurant": "涎飲",
+      "restaurantUID": "B004",
       "reviewDateTime": "2023/11/18"
     },
     {
@@ -601,6 +685,7 @@
       "starRating": 5,
       "feedbackText": "選擇豐富多樣，總是能滿足我對美味的渴望",
       "reviewedRestaurant": "涎飲",
+      "restaurantUID": "B004",
       "reviewDateTime": "2023/12/04"
     },
     {
@@ -611,6 +696,7 @@
       "starRating": 4,
       "feedbackText": "每一杯飲品都是精心調配的藝術品，不僅美味，也是視覺和味蕾的享受",
       "reviewedRestaurant": "涎飲",
+      "restaurantUID": "B004",
       "reviewDateTime": "2023/12/26"
     },
     {
@@ -621,6 +707,7 @@
       "starRating": 4,
       "feedbackText": "飲品口感順滑，價格實惠，每次造訪都能感受到滿滿的用心",
       "reviewedRestaurant": "綠意軒",
+      "restaurantUID": "V001",
       "reviewDateTime": "2023/11/27"
     },
     {
@@ -631,6 +718,7 @@
       "starRating": 5,
       "feedbackText": "菜單多樣，選擇豐富，無論口味偏好如何，都能找到心水的飲品",
       "reviewedRestaurant": "綠意軒",
+      "restaurantUID": "V001",
       "reviewDateTime": "2023/11/28"
     },
     {
@@ -641,6 +729,7 @@
       "starRating": 4,
       "feedbackText": "用料新鮮，製作精湛，一杯飲品帶來的滿足感真的難以言喻。每次喝都有家的感覺",
       "reviewedRestaurant": "綠意軒",
+      "restaurantUID": "V001",
       "reviewDateTime": "2023/11/30"
     },
     {
@@ -651,6 +740,7 @@
       "starRating": 5,
       "feedbackText": "選擇多元，每杯飲品都是驚喜",
       "reviewedRestaurant": "綠意軒",
+      "restaurantUID": "V001",
       "reviewDateTime": "2023/12/05"
     },
     {
@@ -661,6 +751,7 @@
       "starRating": 5,
       "feedbackText": "口感中規中矩，沒有太多特別的驚喜，但也不錯喝。希望他們可以再加強口味的創新和獨特性",
       "reviewedRestaurant": "綠意軒",
+      "restaurantUID": "V001",
       "reviewDateTime": "2023/12/05"
     },
     {
@@ -671,6 +762,7 @@
       "starRating": 5,
       "feedbackText": "選擇豐富多樣，總是能滿足我對美味的渴望",
       "reviewedRestaurant": "糖霜繪本",
+      "restaurantUID": "D003",
       "reviewDateTime": "2023/11/06"
     },
     {
@@ -681,6 +773,7 @@
       "starRating": 4,
       "feedbackText": "每一杯飲品都是精心調配的藝術品，不僅美味，也是視覺和味蕾的享受",
       "reviewedRestaurant": "糖霜繪本",
+      "restaurantUID": "D003",
       "reviewDateTime": "2023/11/16"
     },
     {
@@ -691,6 +784,7 @@
       "starRating": 5,
       "feedbackText": "每一個選項都像是一段甜甜的戀愛故事，讓你想要跟每一個甜點交往！",
       "reviewedRestaurant": "糖霜繪本",
+      "restaurantUID": "D003",
       "reviewDateTime": "2023/11/26"
     },
     {
@@ -701,6 +795,7 @@
       "starRating": 4,
       "feedbackText": "這家甜點店的甜點總是讓我甜在心裡。無論是蛋糕還是冰淇淋，每一種都是甜蜜的享受，是我舒緩壓力的好地方。",
       "reviewedRestaurant": "糖霜繪本",
+      "restaurantUID": "D003",
       "reviewDateTime": "2023/12/06"
     },
     {
@@ -711,6 +806,7 @@
       "starRating": 3,
       "feedbackText": "還可以啦，果腹一下XD",
       "reviewedRestaurant": "糖霜繪本",
+      "restaurantUID": "D003",
       "reviewDateTime": "2023/12/26"
     },
     {
@@ -721,6 +817,7 @@
       "starRating": 5,
       "feedbackText": "他們的咖啡就像是對人生的懷疑：你不確定它是深咖啡還是淺咖啡，但你知道它一定會帶給你能量，至少是因為咖啡因。",
       "reviewedRestaurant": "Leisurely Café",
+      "restaurantUID": "C001",
       "reviewDateTime": "2023/10/10"
     },
     {
@@ -731,6 +828,7 @@
       "starRating": 5,
       "feedbackText": "咖啡的品質總是保持著一流水準。無論是拿鐵還是美式，每一杯都讓我感受到滿足的味蕾之旅。",
       "reviewedRestaurant": "Leisurely Café",
+      "restaurantUID": "C001",
       "reviewDateTime": "2023/11/11"
     },
     {
@@ -741,6 +839,7 @@
       "starRating": 5,
       "feedbackText": "咖啡的質量始終如一，無論何時來都能品味到美味",
       "reviewedRestaurant": "Leisurely Café",
+      "restaurantUID": "C001",
       "reviewDateTime": "2023/12/12"
     },
     {
@@ -751,6 +850,7 @@
       "starRating": 4,
       "feedbackText": "首推黑糖美式",
       "reviewedRestaurant": "Leisurely Café",
+      "restaurantUID": "C001",
       "reviewDateTime": "2023/12/13"
     },
     {
@@ -761,6 +861,7 @@
       "starRating": 1,
       "feedbackText": "這種品質也能開店，我也能當老闆了",
       "reviewedRestaurant": "Leisurely Café",
+      "restaurantUID": "C001",
       "reviewDateTime": "2023/12/31"
     }
   ],
@@ -4426,220 +4527,220 @@
       "UID": "U001",
       "userName": "陳瑋",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-16.jpg?raw=true",
-      "email":"wei-chen@fat-together.com",
-      "password":"wei-chen",
-      "department":"業務部",
-      "team":"服務組"
+      "email": "wei-chen@fat-together.com",
+      "password": "wei-chen",
+      "department": "業務部",
+      "team": "服務組"
     },
     {
       "id": 2,
       "UID": "U002",
       "userName": "陳雨潔",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-14.jpg?raw=true",
-      "email":"yujie-chen@fat-together.com",
-      "password":"yujie-chen",
-      "department":"業務部",
-      "team":"服務組"
+      "email": "yujie-chen@fat-together.com",
+      "password": "yujie-chen",
+      "department": "業務部",
+      "team": "服務組"
     },
     {
       "id": 3,
       "UID": "U003",
       "userName": "盧子晴",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-13.jpg?raw=true",
-      "email":"cing-lu@fat-together.com",
-      "password":"cing-lu",
-      "department":"會計部",
-      "team":"會計組"
+      "email": "cing-lu@fat-together.com",
+      "password": "cing-lu",
+      "department": "會計部",
+      "team": "會計組"
     },
     {
       "id": 4,
       "UID": "U004",
       "userName": "黃莉琳",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-09.jpg?raw=true",
-      "email":"ling-huang@fat-together.com",
-      "password":"ling-huang",
-      "department":"行銷部",
-      "team":"設計組"
+      "email": "ling-huang@fat-together.com",
+      "password": "ling-huang",
+      "department": "行銷部",
+      "team": "設計組"
     },
     {
       "id": 5,
       "UID": "U005",
       "userName": "Malina Chanbers",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-15.jpg?raw=true",
-      "email":"malina-chanbers@fat-together.com",
-      "password":"malina-chanbers",
-      "department":"業務部",
-      "team":"國際組"
+      "email": "malina-chanbers@fat-together.com",
+      "password": "malina-chanbers",
+      "department": "業務部",
+      "team": "國際組"
     },
     {
       "id": 6,
       "UID": "U006",
       "userName": "劉明峰",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-01.jpg?raw=true",
-      "email":"ming-liu@fat-together.com",
-      "password":"ming-liu",
-      "department":"行銷部",
-      "team":"設計組"
+      "email": "ming-liu@fat-together.com",
+      "password": "ming-liu",
+      "department": "行銷部",
+      "team": "設計組"
     },
     {
       "id": 7,
       "UID": "U007",
       "userName": "陳大添",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-11.jpg?raw=true",
-      "email":"tien-chen@fat-together.com",
-      "password":"tien-chen",
-      "department":"業務部",
-      "team":"客服組"
+      "email": "tien-chen@fat-together.com",
+      "password": "tien-chen",
+      "department": "業務部",
+      "team": "客服組"
     },
     {
       "id": 8,
       "UID": "U008",
       "userName": "張三峰",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-09.jpg?raw=true",
-      "email":"mountain-chang@fat-together.com",
-      "password":"mountain-chang",
-      "department":"業務部",
-      "team":"客服組"
+      "email": "mountain-chang@fat-together.com",
+      "password": "mountain-chang",
+      "department": "業務部",
+      "team": "客服組"
     },
     {
       "id": 9,
       "UID": "U009",
       "userName": "James Williams",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-08.jpg?raw=true",
-      "email":"James-Williams@fat-together.com",
-      "password":"james-williams",
-      "department":"業務部",
-      "team":"國際組"
+      "email": "James-Williams@fat-together.com",
+      "password": "james-williams",
+      "department": "業務部",
+      "team": "國際組"
     },
     {
       "id": 10,
       "UID": "U010",
       "userName": "況瑋棋",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-10.jpg?raw=true",
-      "email":"weichi-kuang@fat-together.com",
-      "password":"weichi-kuang",
-      "department":"產品部",
-      "team":"研發組"
+      "email": "weichi-kuang@fat-together.com",
+      "password": "weichi-kuang",
+      "department": "產品部",
+      "team": "研發組"
     },
     {
       "id": 11,
       "UID": "U011",
       "userName": "劉語柔",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-11.jpg?raw=true",
-      "email":"rose-liu@fat-together.com",
-      "password":"rose-liu",
-      "department":"產品部",
-      "team":"研發組"
+      "email": "rose-liu@fat-together.com",
+      "password": "rose-liu",
+      "department": "產品部",
+      "team": "研發組"
     },
     {
       "id": 12,
       "UID": "U012",
       "userName": "陳健邦",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-06.jpg?raw=true",
-      "email":"jian-chen@fat-together.com",
-      "password":"jian-chen",
-      "department":"產品部",
-      "team":"業務組"
+      "email": "jian-chen@fat-together.com",
+      "password": "jian-chen",
+      "department": "產品部",
+      "team": "業務組"
     },
     {
       "id": 13,
       "UID": "U013",
       "userName": "況似棋",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-04.jpg?raw=true",
-      "email":"sih-kuan@fat-together.com",
-      "password":"sih-kuan",
-      "department":"行銷部",
-      "team":"設計組"
+      "email": "sih-kuan@fat-together.com",
+      "password": "sih-kuan",
+      "department": "行銷部",
+      "team": "設計組"
     },
     {
       "id": 14,
       "UID": "U014",
       "userName": "梅嘉欣",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-07.jpg?raw=true",
-      "email":"chiashin-mei@fat-together.com",
-      "password":"chiashin-mei",
-      "department":"會計部",
-      "team":"行政組"
+      "email": "chiashin-mei@fat-together.com",
+      "password": "chiashin-mei",
+      "department": "會計部",
+      "team": "行政組"
     },
     {
       "id": 15,
       "UID": "U015",
       "userName": "Olivia Johnson",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-05.jpg?raw=true",
-      "email":"olivia-johnson@fat-together.com",
-      "password":"olivia-johnson",
-      "department":"產品部",
-      "team":"研發組"
+      "email": "olivia-johnson@fat-together.com",
+      "password": "olivia-johnson",
+      "department": "產品部",
+      "team": "研發組"
     },
     {
       "id": 16,
       "UID": "U016",
       "userName": "劉佩珊",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-01.jpg?raw=true",
-      "email":"pei-liu@fat-together.com",
-      "password":"pei-liu",
-      "department":"產品部",
-      "team":"專案組"
+      "email": "pei-liu@fat-together.com",
+      "password": "pei-liu",
+      "department": "產品部",
+      "team": "專案組"
     },
     {
       "id": 17,
       "UID": "U017",
       "userName": "鍾明翰",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-02.jpg?raw=true",
-      "email":"minhan-chun@fat-together.com",
-      "password":"minhan-chun",
-      "department":"產品部",
-      "team":"專案組"
+      "email": "minhan-chun@fat-together.com",
+      "password": "minhan-chun",
+      "department": "產品部",
+      "team": "專案組"
     },
     {
       "id": 18,
       "UID": "U018",
       "userName": "Mia Lin",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-03.jpg?raw=true",
-      "email":"mia-lin@fat-together.com",
-      "password":"mia-lin",
-      "department":"業務部",
-      "team":"銷售組"
+      "email": "mia-lin@fat-together.com",
+      "password": "mia-lin",
+      "department": "業務部",
+      "team": "銷售組"
     },
     {
       "id": 19,
       "UID": "U019",
       "userName": "周信宏",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-03.jpg?raw=true",
-      "email":"shin-chou@fat-together.com",
-      "password":"shin-chou",
-      "department":"業務部",
-      "team":"銷售組"
+      "email": "shin-chou@fat-together.com",
+      "password": "shin-chou",
+      "department": "業務部",
+      "team": "銷售組"
     },
     {
       "id": 20,
       "UID": "U020",
       "userName": "溫雅琪",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/female/user-female-08.jpg?raw=true",
-      "email":"chin-wen@fat-together.com",
-      "password":"chin-wen",
-      "department":"業務部",
-      "team":"銷售組"
+      "email": "chin-wen@fat-together.com",
+      "password": "chin-wen",
+      "department": "業務部",
+      "team": "銷售組"
     },
     {
       "id": 21,
       "UID": "U021",
       "userName": "趙文杰",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-02.jpg?raw=true",
-      "email":"wenchie-chao@fat-together.com",
-      "password":"wenchie-chao",
-      "department":"會計部",
-      "team":"會計組"
+      "email": "wenchie-chao@fat-together.com",
+      "password": "wenchie-chao",
+      "department": "會計部",
+      "team": "會計組"
     },
     {
       "id": 22,
       "UID": "U022",
       "userName": "Daniel Brown",
       "userPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/user/male/user-male-10.jpg?raw=true",
-      "email":"daniel-brown@fat-together.com",
-      "password":"daniel-brown",
-      "department":"會計部",
-      "team":"行政組"
+      "email": "daniel-brown@fat-together.com",
+      "password": "daniel-brown",
+      "department": "會計部",
+      "team": "行政組"
     }
   ]
 }
