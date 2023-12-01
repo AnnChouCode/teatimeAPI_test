@@ -3,114 +3,122 @@
     {
       "id": 1,
       "UID": "G001",
-      "restaurantId": 1,
-      "restaurantName": "茶源 ChaSource",
-      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-s.jpg?raw=true",
+      "restaurantId": 1,      
       "deadlineDateTime": "2023/12/05 14:00",
       "eventDateTime": "2023/12/06 14:00",
+      "initiatorId":"4",
       "initiator": "黃莉琳",
+      "inviteesId":"4",
       "invitees": "黃莉琳",
-      "currentGroupCondition": 5,
-      "targetGroupCondition": 4,
-      "isGroup": true
+      "orderId":1
     },
     {
       "id": 2,
-      "UID": "G002",
-      "restaurantName": "涎飲",
-      "restaurantId": 4,
-      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverge-4-s.jpg?raw=true",
+      "UID": "G002",      
+      "restaurantId": 4,      
       "deadlineDateTime": "2023/11/29 15:00",
       "eventDateTime": "2023/11/30 15:30",
+      "initiatorId":"3",
       "initiator": "盧子晴",
-      "invitees": "",
-      "currentGroupCondition": 10,
-      "targetGroupCondition": 5,
-      "isGroup": true
+      "inviteesId":"4",
+      "invitees": "黃莉琳",
+      "orderId":2
     },
     {
       "id": 3,
       "UID": "G003",
-      "restaurantName": "綠意軒",
-      "restaurantId": 9,
-      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/vegetarian/vegetarian-1-s.jpg?raw=true",
+      "restaurantId": 9,       
       "deadlineDateTime": "2023/12/04 16:00",
       "eventDateTime": "2023/12/05 14:30",
+      "initiatorId":"2",
       "initiator": "陳雨潔",
+      "inviteesId":"",
       "invitees": "",
-      "currentGroupCondition": 2,
-      "targetGroupCondition": 4,
-      "isGroup": false
+      "orderId":3
     },
     {
       "id": 4,
       "UID": "G004",
-      "restaurantName": "胖小吃",
       "restaurantId": 15,
-      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/Streetfood/streetfood-3-s.jpg?raw=true",
       "deadlineDateTime": "2023/12/11 15:30",
       "eventDateTime": "2023/12/12 16:00",
-      "initiator": "黃靜怡",
+      "initiatorId":"13",
+      "initiator": "況似棋",
+      "inviteesId":"",
       "invitees": "",
-      "currentGroupCondition": 2,
-      "targetGroupCondition": 6,
-      "isGroup": false
+      "orderId":4
     },
     {
       "id": 5,
       "UID": "G005",
-      "restaurantName": "茶源 ChaSource",
-      "restaurantId": 1,
-      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-s.jpg?raw=true",
+      "restaurantId": 1,      
       "deadlineDateTime": "2023/11/05 14:00",
       "eventDateTime": "2023/11/06 14:00",
-      "initiator": "許嘉豪",
-      "invitees": "許嘉豪",
-      "currentGroupCondition": 5,
-      "targetGroupCondition": 5,
-      "isGroup": true
+      "initiatorId":"17",
+      "initiator": "鍾明翰",
+      "inviteesId":"17",
+      "invitees": "鍾明翰",
+      "orderId":5
     },
     {
       "id": 6,
       "UID": "G006",
-      "restaurantName": "糖霜繪本",
-      "restaurantId": 19,
-      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-3-s.jpg?raw=true",
+      "restaurantId": 19,      
       "deadlineDateTime": "2023/12/12 13:00",
       "eventDateTime": "2023/12/13 14:30",
-      "initiator": "張雨菲",
+      "initiatorId":"19",
+      "initiator": "周信宏",
+      "inviteesId":"",
       "invitees": "",
-      "currentGroupCondition": 8,
-      "targetGroupCondition": 7,
-      "isGroup": true
+      "orderId":6
     },
     {
       "id": 7,
       "UID": "G007",
-      "restaurantId": 21,
-      "restaurantName": "Leisurely Café",
-      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1-s.jpg?raw=true",
+      "restaurantId": 21,      
       "deadlineDateTime": "2023/10/25 13:00",
       "eventDateTime": "2023/10/26 14:30",
+      "initiatorId":"4",
       "initiator": "黃莉琳",
+      "inviteesId":"3",
       "invitees": "盧子晴",
-      "currentGroupCondition": 8,
-      "targetGroupCondition": 4,
-      "isGroup": true
+      "orderId":7
     },
     {
       "id": 8,
       "UID": "G008",
-      "restaurantId": 3,
-      "restaurantName": "起床喝飲料",
-      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverge-3-s.jpg?raw=true",
+      "restaurantId": 3,      
       "deadlineDateTime": "2023/12/15 16:00",
       "eventDateTime": "2023/12/16 14:30",
+      "initiatorId":"4",
       "initiator": "黃莉琳",
+      "inviteesId":"1",
       "invitees": "陳瑋",
-      "currentGroupCondition": 2,
-      "targetGroupCondition": 4,
-      "isGroup": false
+      "orderId":8
+    },
+    {
+      "id": 9,
+      "UID": "G009",
+      "restaurantId": 5,      
+      "deadlineDateTime": "2023/12/31 16:00",
+      "eventDateTime": "2023/12/29 14:30",
+      "initiatorId":"4",
+      "initiator": "黃莉琳",
+      "inviteesId":"7",
+      "invitees": "陳大添",
+      "orderId":9
+    },
+    {
+      "id": 10,
+      "UID": "G010",
+      "restaurantId": 10,      
+      "deadlineDateTime": "2024/01/06 16:00",
+      "eventDateTime": "2024/01/04 14:30",
+      "initiatorId":"7",
+      "initiator": "陳大添",
+      "inviteesId":"",
+      "invitees": "",
+      "orderId":10
     }
   ],
   "votings": [
@@ -121,7 +129,9 @@
       "restaurantName": "速食窩",
       "deadlineDateTime": "2023/11/27 16:00",
       "eventDateTime": "2023/11/30 13:30",
+      "initiatorId":"3",
       "initiator": "盧子晴",
+      "inviteesId":"",
       "invitees": "",
       "currentVoters": [
         "U004",
@@ -135,7 +145,9 @@
       "restaurantName": "飛餐",
       "deadlineDateTime": "2023/11/27 16:00",
       "eventDateTime": "2023/11/30 13:30",
+      "initiatorId":"3",
       "initiator": "盧子晴",
+      "inviteesId":"",
       "invitees": "",
       "currentVoters": [
         "U009"
@@ -148,7 +160,9 @@
       "restaurantName": "起床喝飲料",
       "deadlineDateTime": "2023/11/27 16:00",
       "eventDateTime": "2023/11/30 13:30",
+      "initiatorId":"3",
       "initiator": "盧子晴",
+      "inviteesId":"",
       "invitees": "",
       "currentVoters": [
         "U021",
@@ -162,7 +176,9 @@
       "restaurantName": "洋行紅茶",
       "deadlineDateTime": "2023/12/05 17:00",
       "eventDateTime": "2023/12/08 16:00",
+      "initiatorId":"4",
       "initiator": "黃莉琳",
+      "inviteesId":"4",
       "invitees": "黃莉琳",
       "currentVoters": [
         "U021",
@@ -177,7 +193,9 @@
       "restaurantName": "茶源 ChaSource",
       "deadlineDateTime": "2023/12/05 17:00",
       "eventDateTime": "2023/12/08 16:00",
+      "initiatorId":"4",
       "initiator": "黃莉琳",
+      "inviteesId":"4",
       "invitees": "黃莉琳",
       "currentVoters": [
         "U022",
@@ -192,7 +210,9 @@
       "restaurantName": "涎飲",
       "deadlineDateTime": "2023/12/05 17:00",
       "eventDateTime": "2023/12/08 16:00",
+      "initiatorId":"4",
       "initiator": "黃莉琳",
+      "inviteesId":"4",
       "invitees": "黃莉琳",
       "currentVoters": [
         "U010",
@@ -208,8 +228,10 @@
       "restaurantName": "空姐 巴黎甜點",
       "deadlineDateTime": "2023/12/06 13:00",
       "eventDateTime": "2023/12/07 15:00",
-      "initiator": "李欣怡",
-      "invitees": "",
+      "initiatorId":"12",
+      "initiator": "陳健邦",
+      "inviteesId":"19",
+      "invitees": "溫雅琪",      
       "currentVoters": [
         "U017",
         "U015",
@@ -223,8 +245,10 @@
       "restaurantName": "Leisurely Café",
       "deadlineDateTime": "2023/12/06 13:00",
       "eventDateTime": "2023/12/07 15:00",
-      "initiator": "李欣怡",
-      "invitees": "鄭雅筑",
+      "initiatorId":"12",
+      "initiator": "陳健邦",
+      "inviteesId":"19",
+      "invitees": "溫雅琪",      
       "currentVoters": [
         "U017",
         "U014",
@@ -238,8 +262,10 @@
       "restaurantName": "飛餐",
       "deadlineDateTime": "2023/12/06 13:00",
       "eventDateTime": "2023/12/07 15:00",
-      "initiator": "李欣怡",
-      "invitees": "",
+      "initiatorId":"12",
+      "initiator": "陳健邦",
+      "inviteesId":"19",
+      "invitees": "溫雅琪", 
       "currentVoters": [
         "U022",
         "U019",
@@ -253,8 +279,10 @@
       "restaurantName": "起床喝飲料",
       "deadlineDateTime": "2023/10/19 16:00",
       "eventDateTime": "2023/10/20 16:00",
+      "initiatorId":"3",
       "initiator": "盧子晴",
-      "invitees": "",
+      "inviteesId":"",
+      "invitees": "", 
       "currentVoters": [
         "U004",
         "U001"
@@ -267,8 +295,10 @@
       "restaurantName": "飛餐",
       "deadlineDateTime": "2023/10/19 16:00",
       "eventDateTime": "2023/10/20 16:00",
+      "initiatorId":"3",
       "initiator": "盧子晴",
-      "invitees": "",
+      "inviteesId":"",
+      "invitees": "", 
       "currentVoters": [
         "U021"
       ]
@@ -280,8 +310,10 @@
       "restaurantName": "速食窩",
       "deadlineDateTime": "2023/10/19 16:00",
       "eventDateTime": "2023/10/20 16:00",
+      "initiatorId":"3",
       "initiator": "盧子晴",
-      "invitees": "",
+      "inviteesId":"",
+      "invitees": "", 
       "currentVoters": [
         "U016",
         "U018",
@@ -291,12 +323,14 @@
     {
       "id": 13,
       "UID": "V005",
-      "restaurantId": 19,
-      "restaurantName": "糖霜繪本",
+      "restaurantId": 10,
+      "restaurantName": "食善家",
       "deadlineDateTime": "2024/01/04 14:00",
       "eventDateTime": "2024/01/02 16:00",
+      "initiatorId":"12",
       "initiator": "陳健邦",
-      "invitees": "",
+      "inviteesId":"",
+      "invitees": "", 
       "currentVoters": [
         "U002",
         "U012"
@@ -306,14 +340,67 @@
       "id": 14,
       "UID": "V005",
       "restaurantId": 21,
-      "restaurantName": "咖啡",
+      "restaurantName": "Leisurely Café",
       "deadlineDateTime": "2024/01/04 14:00",
       "eventDateTime": "2024/01/02 16:00",
+      "initiatorId":"12",
       "initiator": "陳健邦",
+      "inviteesId":"",
       "invitees": "",
       "currentVoters": [
         "U002",
         "U018",
+        "U012"
+      ]
+    },
+    {
+      "id": 15,
+      "UID": "V006",
+      "restaurantId": 12,
+      "restaurantName": "蔬川",
+      "deadlineDateTime": "2024/01/17 12:00",
+      "eventDateTime": "2024/01/14 18:00",
+      "initiatorId":"4",
+      "initiator": "黃莉琳",
+      "inviteesId":"",
+      "invitees": "",
+      "currentVoters": [
+        "U002",
+        "U018",
+        "U012"
+      ]
+    },
+    {
+      "id": 16,
+      "UID": "V006",
+      "restaurantId": 13,
+      "restaurantName": "味樂城",
+      "deadlineDateTime": "2024/01/17 12:00",
+      "eventDateTime": "2024/01/14 18:00",
+      "initiatorId":"4",
+      "initiator": "黃莉琳",
+      "inviteesId":"",
+      "invitees": "",
+      "currentVoters": [
+        "U002",
+        "U004",
+        "U012"
+      ]
+    },
+    {
+      "id": 17,
+      "UID": "V006",
+      "restaurantId": 14,
+      "restaurantName": "稻香快炒",
+      "deadlineDateTime": "2024/01/17 12:00",
+      "eventDateTime": "2024/01/14 18:00",
+      "initiatorId":"4",
+      "initiator": "黃莉琳",
+      "inviteesId":"",
+      "invitees": "",
+      "currentVoters": [
+        "U002",
+        "U006",
         "U012"
       ]
     }
@@ -322,11 +409,8 @@
     {
       "id": 1,
       "UID": "O001",
-      "restaurant": "茶源 ChaSource",
-      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/beverage/beverage-1-logo.jpg?raw=true",
-      "eventDateTime": "2023/11/15  16:00",
-      "initiator": "黃莉琳",
-      "invitees": "",
+      "restaurantId":1,
+      "groupingId":1,
       "orderDetail": [
         {
           "name": "陳大添",
@@ -393,11 +477,8 @@
     {
       "id": 2,
       "UID": "O002",
-      "restaurant": "sugar & Spice",
-      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-2-logo.jpg?raw=true",
-      "eventDateTime": "2023/11/24  13:00",
-      "initiator": "Amy Pope",
-      "invitees": "",
+      "restaurantId":4,
+      "groupingId":2,
       "orderDetail": [
         {
           "name": "黃莉琳",
@@ -464,11 +545,8 @@
     {
       "id": 3,
       "UID": "O003",
-      "restaurant": "空姐 巴黎甜點",
-      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/dessert/dessert-4-logo.jpg?raw=true",
-      "eventDateTime": "2023/11/30  16:00",
-      "initiator": "許嘉豪",
-      "invitees": "許嘉豪",
+      "restaurantId":9,
+      "groupingId":3,
       "orderDetail": [
         {
           "name": "黃莉琳",
@@ -499,11 +577,8 @@
     {
       "id": 4,
       "UID": "O004",
-      "restaurant": "Leisurely Café",
-      "restaurantPhoto": "https://github.com/AnnChouCode/TeaTime-Gathering/blob/main/assets/images/banner/cafe/cafe-1-logo.jpg?raw=true",
-      "eventDateTime": "2023/12/04  14:00",
-      "initiator": "李欣怡",
-      "invitees": "",
+      "restaurantId":15,
+      "groupingId":4,
       "orderDetail": [
         {
           "name": "黃莉琳",
