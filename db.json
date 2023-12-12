@@ -3,38 +3,38 @@
     {
       "id": 1,
       "UID": "G001",
-      "restaurantId": 1,      
+      "restaurantId": 1,
       "deadlineDateTime": "2023/12/05 14:00",
       "eventDateTime": "2023/12/06 14:00",
-      "initiatorId":"4",
+      "initiatorId": "4",
       "initiator": "黃莉琳",
-      "inviteesId":"4",
+      "inviteesId": "4",
       "invitees": "黃莉琳",
-      "orderId":1
+      "orderId": 1
     },
     {
       "id": 2,
-      "UID": "G002",      
-      "restaurantId": 4,      
+      "UID": "G002",
+      "restaurantId": 4,
       "deadlineDateTime": "2023/11/29 15:00",
       "eventDateTime": "2023/11/30 15:30",
-      "initiatorId":"3",
+      "initiatorId": "3",
       "initiator": "盧子晴",
-      "inviteesId":"4",
+      "inviteesId": "4",
       "invitees": "黃莉琳",
-      "orderId":2
+      "orderId": 2
     },
     {
       "id": 3,
       "UID": "G003",
-      "restaurantId": 9,       
+      "restaurantId": 9,
       "deadlineDateTime": "2023/12/04 16:00",
       "eventDateTime": "2023/12/05 14:30",
-      "initiatorId":"2",
+      "initiatorId": "2",
       "initiator": "陳雨潔",
-      "inviteesId":"",
+      "inviteesId": "",
       "invitees": "",
-      "orderId":3
+      "orderId": 3
     },
     {
       "id": 4,
@@ -42,83 +42,83 @@
       "restaurantId": 15,
       "deadlineDateTime": "2023/12/11 15:30",
       "eventDateTime": "2023/12/12 16:00",
-      "initiatorId":"13",
+      "initiatorId": "13",
       "initiator": "況似棋",
-      "inviteesId":"",
+      "inviteesId": "",
       "invitees": "",
-      "orderId":4
+      "orderId": 4
     },
     {
       "id": 5,
       "UID": "G005",
-      "restaurantId": 1,      
+      "restaurantId": 1,
       "deadlineDateTime": "2023/11/05 14:00",
       "eventDateTime": "2023/11/06 14:00",
-      "initiatorId":"17",
+      "initiatorId": "17",
       "initiator": "鍾明翰",
-      "inviteesId":"17",
+      "inviteesId": "17",
       "invitees": "鍾明翰",
-      "orderId":5
+      "orderId": 5
     },
     {
       "id": 6,
       "UID": "G006",
-      "restaurantId": 19,      
+      "restaurantId": 19,
       "deadlineDateTime": "2023/12/12 13:00",
       "eventDateTime": "2023/12/13 14:30",
-      "initiatorId":"19",
+      "initiatorId": "19",
       "initiator": "周信宏",
-      "inviteesId":"",
+      "inviteesId": "",
       "invitees": "",
-      "orderId":6
+      "orderId": 6
     },
     {
       "id": 7,
       "UID": "G007",
-      "restaurantId": 21,      
+      "restaurantId": 21,
       "deadlineDateTime": "2023/10/25 13:00",
       "eventDateTime": "2023/10/26 14:30",
-      "initiatorId":"4",
+      "initiatorId": "4",
       "initiator": "黃莉琳",
-      "inviteesId":"3",
+      "inviteesId": "3",
       "invitees": "盧子晴",
-      "orderId":7
+      "orderId": 7
     },
     {
       "id": 8,
       "UID": "G008",
-      "restaurantId": 3,      
+      "restaurantId": 3,
       "deadlineDateTime": "2023/12/15 16:00",
       "eventDateTime": "2023/12/16 14:30",
-      "initiatorId":"4",
+      "initiatorId": "4",
       "initiator": "黃莉琳",
-      "inviteesId":"1",
+      "inviteesId": "1",
       "invitees": "陳瑋",
-      "orderId":8
+      "orderId": 8
     },
     {
       "id": 9,
       "UID": "G009",
-      "restaurantId": 5,      
+      "restaurantId": 5,
       "deadlineDateTime": "2023/12/31 16:00",
       "eventDateTime": "2023/12/29 14:30",
-      "initiatorId":"4",
+      "initiatorId": "4",
       "initiator": "黃莉琳",
-      "inviteesId":"7",
+      "inviteesId": "7",
       "invitees": "陳大添",
-      "orderId":9
+      "orderId": 9
     },
     {
       "id": 10,
       "UID": "G010",
-      "restaurantId": 10,      
+      "restaurantId": 10,
       "deadlineDateTime": "2024/01/06 16:00",
       "eventDateTime": "2024/01/04 14:30",
-      "initiatorId":"7",
+      "initiatorId": "7",
       "initiator": "陳大添",
-      "inviteesId":"",
+      "inviteesId": "",
       "invitees": "",
-      "orderId":10
+      "orderId": 10
     }
   ],
   "votings": [
@@ -129,9 +129,9 @@
       "restaurantName": "速食窩",
       "deadlineDateTime": "2023/11/27 16:00",
       "eventDateTime": "2023/11/30 13:30",
-      "initiatorId":"3",
+      "initiatorId": "3",
       "initiator": "盧子晴",
-      "inviteesId":"",
+      "inviteesId": "",
       "invitees": "",
       "currentVoters": [
         "U004",
@@ -145,9 +145,9 @@
       "restaurantName": "飛餐",
       "deadlineDateTime": "2023/11/27 16:00",
       "eventDateTime": "2023/11/30 13:30",
-      "initiatorId":"3",
+      "initiatorId": "3",
       "initiator": "盧子晴",
-      "inviteesId":"",
+      "inviteesId": "",
       "invitees": "",
       "currentVoters": [
         "U009"
@@ -160,9 +160,9 @@
       "restaurantName": "起床喝飲料",
       "deadlineDateTime": "2023/11/27 16:00",
       "eventDateTime": "2023/11/30 13:30",
-      "initiatorId":"3",
+      "initiatorId": "3",
       "initiator": "盧子晴",
-      "inviteesId":"",
+      "inviteesId": "",
       "invitees": "",
       "currentVoters": [
         "U021",
@@ -176,9 +176,9 @@
       "restaurantName": "洋行紅茶",
       "deadlineDateTime": "2023/12/05 17:00",
       "eventDateTime": "2023/12/08 16:00",
-      "initiatorId":"4",
+      "initiatorId": "4",
       "initiator": "黃莉琳",
-      "inviteesId":"4",
+      "inviteesId": "4",
       "invitees": "黃莉琳",
       "currentVoters": [
         "U021",
@@ -193,9 +193,9 @@
       "restaurantName": "茶源 ChaSource",
       "deadlineDateTime": "2023/12/05 17:00",
       "eventDateTime": "2023/12/08 16:00",
-      "initiatorId":"4",
+      "initiatorId": "4",
       "initiator": "黃莉琳",
-      "inviteesId":"4",
+      "inviteesId": "4",
       "invitees": "黃莉琳",
       "currentVoters": [
         "U022",
@@ -210,9 +210,9 @@
       "restaurantName": "涎飲",
       "deadlineDateTime": "2023/12/05 17:00",
       "eventDateTime": "2023/12/08 16:00",
-      "initiatorId":"4",
+      "initiatorId": "4",
       "initiator": "黃莉琳",
-      "inviteesId":"4",
+      "inviteesId": "4",
       "invitees": "黃莉琳",
       "currentVoters": [
         "U010",
@@ -228,10 +228,10 @@
       "restaurantName": "空姐 巴黎甜點",
       "deadlineDateTime": "2023/12/06 13:00",
       "eventDateTime": "2023/12/07 15:00",
-      "initiatorId":"12",
+      "initiatorId": "12",
       "initiator": "陳健邦",
-      "inviteesId":"19",
-      "invitees": "溫雅琪",      
+      "inviteesId": "19",
+      "invitees": "溫雅琪",
       "currentVoters": [
         "U017",
         "U015",
@@ -245,10 +245,10 @@
       "restaurantName": "Leisurely Café",
       "deadlineDateTime": "2023/12/06 13:00",
       "eventDateTime": "2023/12/07 15:00",
-      "initiatorId":"12",
+      "initiatorId": "12",
       "initiator": "陳健邦",
-      "inviteesId":"19",
-      "invitees": "溫雅琪",      
+      "inviteesId": "19",
+      "invitees": "溫雅琪",
       "currentVoters": [
         "U017",
         "U014",
@@ -262,10 +262,10 @@
       "restaurantName": "飛餐",
       "deadlineDateTime": "2023/12/06 13:00",
       "eventDateTime": "2023/12/07 15:00",
-      "initiatorId":"12",
+      "initiatorId": "12",
       "initiator": "陳健邦",
-      "inviteesId":"19",
-      "invitees": "溫雅琪", 
+      "inviteesId": "19",
+      "invitees": "溫雅琪",
       "currentVoters": [
         "U022",
         "U019",
@@ -279,10 +279,10 @@
       "restaurantName": "起床喝飲料",
       "deadlineDateTime": "2023/10/19 16:00",
       "eventDateTime": "2023/10/20 16:00",
-      "initiatorId":"3",
+      "initiatorId": "3",
       "initiator": "盧子晴",
-      "inviteesId":"",
-      "invitees": "", 
+      "inviteesId": "",
+      "invitees": "",
       "currentVoters": [
         "U004",
         "U001"
@@ -295,10 +295,10 @@
       "restaurantName": "飛餐",
       "deadlineDateTime": "2023/10/19 16:00",
       "eventDateTime": "2023/10/20 16:00",
-      "initiatorId":"3",
+      "initiatorId": "3",
       "initiator": "盧子晴",
-      "inviteesId":"",
-      "invitees": "", 
+      "inviteesId": "",
+      "invitees": "",
       "currentVoters": [
         "U021"
       ]
@@ -310,10 +310,10 @@
       "restaurantName": "速食窩",
       "deadlineDateTime": "2023/10/19 16:00",
       "eventDateTime": "2023/10/20 16:00",
-      "initiatorId":"3",
+      "initiatorId": "3",
       "initiator": "盧子晴",
-      "inviteesId":"",
-      "invitees": "", 
+      "inviteesId": "",
+      "invitees": "",
       "currentVoters": [
         "U016",
         "U018",
@@ -327,10 +327,10 @@
       "restaurantName": "食善家",
       "deadlineDateTime": "2024/01/04 14:00",
       "eventDateTime": "2024/01/02 16:00",
-      "initiatorId":"12",
+      "initiatorId": "12",
       "initiator": "陳健邦",
-      "inviteesId":"",
-      "invitees": "", 
+      "inviteesId": "",
+      "invitees": "",
       "currentVoters": [
         "U002",
         "U012"
@@ -343,9 +343,9 @@
       "restaurantName": "Leisurely Café",
       "deadlineDateTime": "2024/01/04 14:00",
       "eventDateTime": "2024/01/02 16:00",
-      "initiatorId":"12",
+      "initiatorId": "12",
       "initiator": "陳健邦",
-      "inviteesId":"",
+      "inviteesId": "",
       "invitees": "",
       "currentVoters": [
         "U002",
@@ -360,9 +360,9 @@
       "restaurantName": "蔬川",
       "deadlineDateTime": "2024/01/17 12:00",
       "eventDateTime": "2024/01/14 18:00",
-      "initiatorId":"4",
+      "initiatorId": "4",
       "initiator": "黃莉琳",
-      "inviteesId":"",
+      "inviteesId": "",
       "invitees": "",
       "currentVoters": [
         "U002",
@@ -377,9 +377,9 @@
       "restaurantName": "味樂城",
       "deadlineDateTime": "2024/01/17 12:00",
       "eventDateTime": "2024/01/14 18:00",
-      "initiatorId":"4",
+      "initiatorId": "4",
       "initiator": "黃莉琳",
-      "inviteesId":"",
+      "inviteesId": "",
       "invitees": "",
       "currentVoters": [
         "U002",
@@ -394,9 +394,9 @@
       "restaurantName": "稻香快炒",
       "deadlineDateTime": "2024/01/17 12:00",
       "eventDateTime": "2024/01/14 18:00",
-      "initiatorId":"4",
+      "initiatorId": "4",
       "initiator": "黃莉琳",
-      "inviteesId":"",
+      "inviteesId": "",
       "invitees": "",
       "currentVoters": [
         "U002",
@@ -411,10 +411,10 @@
       "restaurantName": "起床喝飲料",
       "deadlineDateTime": "2023/12/19 16:00",
       "eventDateTime": "2023/12/20 16:00",
-      "initiatorId":"3",
+      "initiatorId": "3",
       "initiator": "盧子晴",
-      "inviteesId":"",
-      "invitees": "", 
+      "inviteesId": "",
+      "invitees": "",
       "currentVoters": [
         "U004",
         "U001"
@@ -427,10 +427,10 @@
       "restaurantName": "飛餐",
       "deadlineDateTime": "2023/12/19 16:00",
       "eventDateTime": "2023/12/20 16:00",
-      "initiatorId":"3",
+      "initiatorId": "3",
       "initiator": "盧子晴",
-      "inviteesId":"",
-      "invitees": "", 
+      "inviteesId": "",
+      "invitees": "",
       "currentVoters": [
         "U021"
       ]
@@ -442,10 +442,10 @@
       "restaurantName": "速食窩",
       "deadlineDateTime": "2023/12/19 16:00",
       "eventDateTime": "2023/12/20 16:00",
-      "initiatorId":"3",
+      "initiatorId": "3",
       "initiator": "盧子晴",
-      "inviteesId":"",
-      "invitees": "", 
+      "inviteesId": "",
+      "invitees": "",
       "currentVoters": [
         "U016",
         "U018",
@@ -457,8 +457,8 @@
     {
       "id": 1,
       "UID": "O001",
-      "restaurantId":1,
-      "groupingId":1,
+      "restaurantId": 1,
+      "groupingId": 1,
       "orderDetail": [
         {
           "name": "陳大添",
@@ -525,8 +525,8 @@
     {
       "id": 2,
       "UID": "O002",
-      "restaurantId":4,
-      "groupingId":2,
+      "restaurantId": 4,
+      "groupingId": 2,
       "orderDetail": [
         {
           "name": "黃莉琳",
@@ -593,8 +593,8 @@
     {
       "id": 3,
       "UID": "O003",
-      "restaurantId":9,
-      "groupingId":3,
+      "restaurantId": 9,
+      "groupingId": 3,
       "orderDetail": [
         {
           "name": "黃莉琳",
@@ -625,8 +625,8 @@
     {
       "id": 4,
       "UID": "O004",
-      "restaurantId":15,
-      "groupingId":4,
+      "restaurantId": 15,
+      "groupingId": 4,
       "orderDetail": [
         {
           "name": "黃莉琳",
@@ -669,8 +669,8 @@
     {
       "id": 5,
       "UID": "O005",
-      "restaurantId":1,
-      "groupingId":5,
+      "restaurantId": 1,
+      "groupingId": 5,
       "orderDetail": [
         {
           "name": "黃莉琳",
@@ -713,8 +713,8 @@
     {
       "id": 6,
       "UID": "O006",
-      "restaurantId":19,
-      "groupingId":6,
+      "restaurantId": 19,
+      "groupingId": 6,
       "orderDetail": [
         {
           "name": "陳大添",
@@ -745,50 +745,64 @@
     {
       "id": 7,
       "UID": "O007",
-      "restaurantId":21,
-      "groupingId":7,
-      "orderDetail": [{
-        "name": "James Williams",
-        "orderItem": "芒果綠",
-        "quantity": 2,
-        "ice": "微冰",
-        "sugar": "半糖",
-        "customization": "",
-        "comments": "",
-        "totalAmount": 45,
-        "isPay": true,
-        "ratingID": ""
-      },
-      {
-        "name": "James Williams",
-        "orderItem": "玫瑰香",
-        "quantity": 1,
-        "ice": "少冰",
-        "sugar": "無糖",
-        "customization": "",
-        "comments": "",
-        "totalAmount": 60,
-        "isPay": false,
-        "ratingID": ""
-      },
-      {
-        "name": "劉語柔",
-        "orderItem": "紅柚露",
-        "quantity": 1,
-        "ice": "少冰",
-        "sugar": "微糖",
-        "customization": "",
-        "comments": "酸一點",
-        "totalAmount": 40,
-        "isPay": true,
-        "ratingID": ""
-      }]
+      "restaurantId": 21,
+      "groupingId": 7,
+      "orderDetail": [
+        {
+          "name": "黃莉琳",
+          "orderItem": "義式濃縮咖啡",
+          "quantity": 1,
+          "ice": "",
+          "sugar": "",
+          "customization": "",
+          "comments": "",
+          "totalAmount": 90,
+          "isPay": false,
+          "ratingID": ""
+        },
+        {
+          "name": "James Williams",
+          "orderItem": "芒果綠",
+          "quantity": 2,
+          "ice": "微冰",
+          "sugar": "半糖",
+          "customization": "",
+          "comments": "",
+          "totalAmount": 45,
+          "isPay": true,
+          "ratingID": ""
+        },
+        {
+          "name": "James Williams",
+          "orderItem": "玫瑰香",
+          "quantity": 1,
+          "ice": "少冰",
+          "sugar": "無糖",
+          "customization": "",
+          "comments": "",
+          "totalAmount": 60,
+          "isPay": false,
+          "ratingID": ""
+        },
+        {
+          "name": "劉語柔",
+          "orderItem": "紅柚露",
+          "quantity": 1,
+          "ice": "少冰",
+          "sugar": "微糖",
+          "customization": "",
+          "comments": "酸一點",
+          "totalAmount": 40,
+          "isPay": true,
+          "ratingID": ""
+        }
+      ]
     },
     {
       "id": 8,
       "UID": "O008",
-      "restaurantId":3,
-      "groupingId":8,
+      "restaurantId": 3,
+      "groupingId": 8,
       "orderDetail": [
         {
           "name": "黃莉琳",
@@ -801,7 +815,7 @@
           "totalAmount": 35,
           "isPay": true,
           "ratingID": "R009"
-        },        
+        },
         {
           "name": "黃莉琳",
           "orderItem": "蜜香",
@@ -819,8 +833,8 @@
     {
       "id": 9,
       "UID": "O009",
-      "restaurantId":5,
-      "groupingId":9,
+      "restaurantId": 5,
+      "groupingId": 9,
       "orderDetail": [
         {
           "name": "張三峰",
@@ -869,14 +883,14 @@
           "totalAmount": 45,
           "isPay": true,
           "ratingID": ""
-        }    
+        }
       ]
     },
     {
       "id": 10,
       "UID": "O010",
-      "restaurantId":10,
-      "groupingId":10,
+      "restaurantId": 10,
+      "groupingId": 10,
       "orderDetail": []
     }
   ],
